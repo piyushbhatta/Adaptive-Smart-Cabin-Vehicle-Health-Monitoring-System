@@ -1,0 +1,8 @@
+{
+    "engineTemp"      : 100,
+    "batteryVoltage"  : 9,
+    "speed"           : 130.0,
+    "tirePressure"    : 28.0,
+    "doorOpen"        : 0,
+    "seatbeltLocked"  : 1
+}

@@ -1,0 +1,87 @@
+SMART VEHICLE JSON MULTI-TICK TEST — OUTPUT ALERTS
+Generated : 2026-06-01 19:35:17
+Source    : data/test_cases.json
+======================================================================
+
+TICK 1 — Normal operation
+------------------------------------------------------------
+Inputs: temp=95 volt=12.5 speed=50 psi=32 door=closed belt=locked
+Active alerts: NONE
+System status  : NORMAL
+Tick result    : PASS
+
+TICK 2 — Engine overheat
+------------------------------------------------------------
+Inputs: temp=115 volt=12.5 speed=50 psi=32 door=closed belt=locked
+[CRITICAL]  CRITICAL_ENGINE_OVERHEAT  :  Engine temp 115.0C > 110C
+System status  : CRITICAL
+Tick result    : PASS
+
+TICK 3 — Low battery
+------------------------------------------------------------
+Inputs: temp=90 volt=9.99 speed=50 psi=32 door=closed belt=locked
+[WARNING ]  LOW_BATTERY_WARNING  :  Battery 9.99V < 10.0V
+System status  : WARNING
+Tick result    : PASS
+
+TICK 4 — Overspeed
+------------------------------------------------------------
+Inputs: temp=90 volt=12 speed=121 psi=32 door=closed belt=locked
+[WARNING ]  OVERSPEED_WARNING  :  Speed 121.0 km/h > 120 km/h
+System status  : WARNING
+Tick result    : PASS
+
+TICK 5 — Door open while moving
+------------------------------------------------------------
+Inputs: temp=90 volt=12 speed=11 psi=32 door=open belt=locked
+[CRITICAL]  DOOR_OPEN_WARNING  :  Door OPEN at 11.0 km/h
+System status  : CRITICAL
+Tick result    : PASS
+
+TICK 6 — Seatbelt unlocked while moving
+------------------------------------------------------------
+Inputs: temp=90 volt=12 speed=1 psi=32 door=closed belt=unlocked
+[WARNING ]  SEATBELT_WARNING  :  Seatbelt UNLOCKED at 1.0 km/h
+System status  : NORMAL
+Tick result    : PASS
+
+TICK 7 — Low tire pressure
+------------------------------------------------------------
+Inputs: temp=90 volt=12 speed=40 psi=24.99 door=closed belt=locked
+[WARNING ]  LOW_TIRE_PRESSURE  :  Tire pressure 25.0 PSI < 25 PSI
+System status  : NORMAL
+Tick result    : PASS
+
+TICK 8 — All non-critical alerts together
+------------------------------------------------------------
+Inputs: temp=95 volt=9 speed=130 psi=20 door=closed belt=unlocked
+[WARNING ]  LOW_BATTERY_WARNING  :  Battery 9.00V < 10.0V
+[WARNING ]  LOW_TIRE_PRESSURE  :  Tire pressure 20.0 PSI < 25 PSI
+[WARNING ]  OVERSPEED_WARNING  :  Speed 130.0 km/h > 120 km/h
+[WARNING ]  SEATBELT_WARNING  :  Seatbelt UNLOCKED at 130.0 km/h
+System status  : WARNING
+Tick result    : PASS
+
+TICK 9 — All alerts together
+------------------------------------------------------------
+Inputs: temp=120 volt=9 speed=130 psi=20 door=open belt=unlocked
+[CRITICAL]  CRITICAL_ENGINE_OVERHEAT  :  Engine temp 120.0C > 110C
+[WARNING ]  LOW_BATTERY_WARNING  :  Battery 9.00V < 10.0V
+[WARNING ]  LOW_TIRE_PRESSURE  :  Tire pressure 20.0 PSI < 25 PSI
+[WARNING ]  OVERSPEED_WARNING  :  Speed 130.0 km/h > 120 km/h
+[CRITICAL]  DOOR_OPEN_WARNING  :  Door OPEN at 130.0 km/h
+[WARNING ]  SEATBELT_WARNING  :  Seatbelt UNLOCKED at 130.0 km/h
+System status  : CRITICAL
+Tick result    : PASS
+
+TICK 10 — Boundary value verification
+------------------------------------------------------------
+Inputs: temp=110 volt=10 speed=120 psi=25 door=open belt=unlocked
+[CRITICAL]  DOOR_OPEN_WARNING  :  Door OPEN at 120.0 km/h
+[WARNING ]  SEATBELT_WARNING  :  Seatbelt UNLOCKED at 120.0 km/h
+System status  : CRITICAL
+Tick result    : PASS
+
+======================================================================
+TOTAL: 10  PASS: 10  FAIL: 0
+OVERALL: PASS

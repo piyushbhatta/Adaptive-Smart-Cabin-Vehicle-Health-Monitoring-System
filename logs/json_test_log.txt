@@ -1,0 +1,700 @@
+
+======== SESSION START: 2026-05-29 15:55:19 ========
+[2026-05-29 15:55:19] [ALERT] High engine temp: 105.5C
+======== SESSION END:   2026-05-29 15:55:19 ========
+
+
+======== SESSION START: 2026-05-29 15:58:49 ========
+[2026-05-29 15:58:49] [ALERT] High engine temp: 105.5C
+======== SESSION END:   2026-05-29 15:58:49 ========
+
+
+======== SESSION START: 2026-05-29 16:16:11 ========
+[2026-05-29 16:16:11] [ALERT] High engine temp: 100.0C
+[2026-05-29 16:16:11] [CRITICAL] Low battery: 9.00V
+[2026-05-29 16:16:11] [CRITICAL] Overspeed: 130.0 km/h
+======== SESSION END:   2026-05-29 16:16:11 ========
+
+
+======== SESSION START: 2026-05-29 11:28:29 ========
+[2026-05-29 11:28:29] [ALERT] High engine temp: 100.0C
+[2026-05-29 11:28:29] [CRITICAL] Low battery: 9.00V
+[2026-05-29 11:28:29] [CRITICAL] Overspeed: 130.0 km/h
+======== SESSION END:   2026-05-29 11:28:29 ========
+
+
+======== SESSION START: 2026-05-29 11:29:13 ========
+[2026-05-29 11:29:13] [ALERT] High engine temp: 100.0C
+[2026-05-29 11:29:13] [CRITICAL] Low battery: 9.00V
+[2026-05-29 11:29:13] [CRITICAL] Overspeed: 130.0 km/h
+======== SESSION END:   2026-05-29 11:29:13 ========
+
+
+======== SESSION START: 2026-05-29 11:29:42 ========
+[2026-05-29 11:29:42] [ALERT] High engine temp: 100.0C
+[2026-05-29 11:29:42] [CRITICAL] Low battery: 9.00V
+[2026-05-29 11:29:42] [CRITICAL] Overspeed: 130.0 km/h
+======== SESSION END:   2026-05-29 11:29:42 ========
+
+
+======== SESSION START: 2026-05-29 11:29:42 ========
+[2026-05-29 11:29:42] [ALERT] High engine temp: 100.0C
+[2026-05-29 11:29:42] [CRITICAL] Low battery: 9.00V
+[2026-05-29 11:29:42] [CRITICAL] Overspeed: 130.0 km/h
+======== SESSION END:   2026-05-29 11:29:42 ========
+
+
+======== SESSION START: 2026-05-29 11:29:42 ========
+[2026-05-29 11:29:42] [ALERT] High engine temp: 100.0C
+[2026-05-29 11:29:42] [CRITICAL] Low battery: 9.00V
+[2026-05-29 11:29:42] [CRITICAL] Overspeed: 130.0 km/h
+======== SESSION END:   2026-05-29 11:29:42 ========
+
+
+======== SESSION START: 2026-05-30 16:14:26 ========
+======== SESSION END:   2026-05-30 16:14:26 ========
+
+
+======== SESSION START: 2026-05-30 16:14:44 ========
+[2026-05-30 16:14:44] [CRITICAL] Engine overheat: 115.0C
+[2026-05-30 16:14:44] [CRITICAL] Low battery: 9.99V
+[2026-05-30 16:14:44] [CRITICAL] Overspeed: 121.0 km/h
+[2026-05-30 16:14:44] [ALERT] Door open while moving
+[2026-05-30 16:14:44] [ALERT] Low tire pressure: 25.0 PSI
+[2026-05-30 16:14:44] [CRITICAL] Low battery: 9.00V
+[2026-05-30 16:14:44] [ALERT] Low tire pressure: 20.0 PSI
+[2026-05-30 16:14:44] [CRITICAL] Overspeed: 130.0 km/h
+[2026-05-30 16:14:44] [ALERT] Seatbelt unlocked while moving
+[2026-05-30 16:14:44] [CRITICAL] Engine overheat: 120.0C
+[2026-05-30 16:14:44] [CRITICAL] Low battery: 9.00V
+[2026-05-30 16:14:44] [ALERT] Low tire pressure: 20.0 PSI
+[2026-05-30 16:14:44] [CRITICAL] Overspeed: 130.0 km/h
+[2026-05-30 16:14:44] [ALERT] Door open while moving
+[2026-05-30 16:14:44] [ALERT] Seatbelt unlocked while moving
+[2026-05-30 16:14:44] [ALERT] High engine temp: 110.0C
+[2026-05-30 16:14:44] [ALERT] Door open while moving
+[2026-05-30 16:14:44] [ALERT] Seatbelt unlocked while moving
+======== SESSION END:   2026-05-30 16:14:44 ========
+
+
+======== SESSION START: 2026-05-30 16:15:45 ========
+[2026-05-30 16:15:45] [CRITICAL] Engine overheat: 115.0C
+[2026-05-30 16:15:45] [ALERT] Low battery: 9.99V
+[2026-05-30 16:15:45] [ALERT] Overspeed: 121.0 km/h
+[2026-05-30 16:15:45] [CRITICAL] Door open while moving
+[2026-05-30 16:15:45] [ALERT] Seatbelt unlocked while moving
+[2026-05-30 16:15:45] [ALERT] Low tire pressure: 25.0 PSI
+[2026-05-30 16:15:45] [ALERT] Low battery: 9.00V
+[2026-05-30 16:15:45] [ALERT] Low tire pressure: 20.0 PSI
+[2026-05-30 16:15:45] [ALERT] Overspeed: 130.0 km/h
+[2026-05-30 16:15:45] [ALERT] Seatbelt unlocked while moving
+[2026-05-30 16:15:45] [CRITICAL] Engine overheat: 120.0C
+[2026-05-30 16:15:45] [ALERT] Low battery: 9.00V
+[2026-05-30 16:15:45] [ALERT] Low tire pressure: 20.0 PSI
+[2026-05-30 16:15:45] [ALERT] Overspeed: 130.0 km/h
+[2026-05-30 16:15:45] [CRITICAL] Door open while moving
+[2026-05-30 16:15:45] [ALERT] Seatbelt unlocked while moving
+[2026-05-30 16:15:45] [ALERT] High engine temp: 110.0C
+[2026-05-30 16:15:45] [ALERT] Low tire pressure: 25.0 PSI
+[2026-05-30 16:15:45] [CRITICAL] Door open while moving
+[2026-05-30 16:15:45] [ALERT] Seatbelt unlocked while moving
+======== SESSION END:   2026-05-30 16:15:45 ========
+
+
+======== SESSION START: 2026-05-30 16:15:49 ========
+[2026-05-30 16:15:49] [CRITICAL] Engine overheat: 115.0C
+[2026-05-30 16:15:49] [ALERT] Low battery: 9.99V
+[2026-05-30 16:15:49] [ALERT] Overspeed: 121.0 km/h
+[2026-05-30 16:15:49] [CRITICAL] Door open while moving
+[2026-05-30 16:15:49] [ALERT] Seatbelt unlocked while moving
+[2026-05-30 16:15:49] [ALERT] Low tire pressure: 25.0 PSI
+[2026-05-30 16:15:49] [ALERT] Low battery: 9.00V
+[2026-05-30 16:15:49] [ALERT] Low tire pressure: 20.0 PSI
+[2026-05-30 16:15:49] [ALERT] Overspeed: 130.0 km/h
+[2026-05-30 16:15:49] [ALERT] Seatbelt unlocked while moving
+[2026-05-30 16:15:49] [CRITICAL] Engine overheat: 120.0C
+[2026-05-30 16:15:49] [ALERT] Low battery: 9.00V
+[2026-05-30 16:15:49] [ALERT] Low tire pressure: 20.0 PSI
+[2026-05-30 16:15:49] [ALERT] Overspeed: 130.0 km/h
+[2026-05-30 16:15:49] [CRITICAL] Door open while moving
+[2026-05-30 16:15:49] [ALERT] Seatbelt unlocked while moving
+[2026-05-30 16:15:49] [ALERT] High engine temp: 110.0C
+[2026-05-30 16:15:49] [ALERT] Low tire pressure: 25.0 PSI
+[2026-05-30 16:15:49] [CRITICAL] Door open while moving
+[2026-05-30 16:15:49] [ALERT] Seatbelt unlocked while moving
+======== SESSION END:   2026-05-30 16:15:49 ========
+
+
+======== SESSION START: 2026-05-30 16:16:14 ========
+[2026-05-30 16:16:14] [CRITICAL] Engine overheat: 115.0C
+[2026-05-30 16:16:14] [ALERT] Low battery: 9.99V
+[2026-05-30 16:16:14] [ALERT] Overspeed: 121.0 km/h
+[2026-05-30 16:16:14] [CRITICAL] Door open while moving
+[2026-05-30 16:16:14] [ALERT] Seatbelt unlocked while moving
+[2026-05-30 16:16:14] [ALERT] Low tire pressure: 25.0 PSI
+[2026-05-30 16:16:14] [ALERT] Low battery: 9.00V
+[2026-05-30 16:16:14] [ALERT] Low tire pressure: 20.0 PSI
+[2026-05-30 16:16:14] [ALERT] Overspeed: 130.0 km/h
+[2026-05-30 16:16:14] [ALERT] Seatbelt unlocked while moving
+[2026-05-30 16:16:14] [CRITICAL] Engine overheat: 120.0C
+[2026-05-30 16:16:14] [ALERT] Low battery: 9.00V
+[2026-05-30 16:16:14] [ALERT] Low tire pressure: 20.0 PSI
+[2026-05-30 16:16:14] [ALERT] Overspeed: 130.0 km/h
+[2026-05-30 16:16:14] [CRITICAL] Door open while moving
+[2026-05-30 16:16:14] [ALERT] Seatbelt unlocked while moving
+[2026-05-30 16:16:14] [CRITICAL] Engine overheat: 110.0C
+[2026-05-30 16:16:14] [CRITICAL] Door open while moving
+[2026-05-30 16:16:14] [ALERT] Seatbelt unlocked while moving
+======== SESSION END:   2026-05-30 16:16:14 ========
+
+
+======== SESSION START: 2026-05-30 16:16:17 ========
+[2026-05-30 16:16:17] [CRITICAL] Engine overheat: 115.0C
+[2026-05-30 16:16:17] [ALERT] Low battery: 9.99V
+[2026-05-30 16:16:17] [ALERT] Overspeed: 121.0 km/h
+[2026-05-30 16:16:17] [CRITICAL] Door open while moving
+[2026-05-30 16:16:17] [ALERT] Seatbelt unlocked while moving
+[2026-05-30 16:16:17] [ALERT] Low tire pressure: 25.0 PSI
+[2026-05-30 16:16:17] [ALERT] Low battery: 9.00V
+[2026-05-30 16:16:17] [ALERT] Low tire pressure: 20.0 PSI
+[2026-05-30 16:16:17] [ALERT] Overspeed: 130.0 km/h
+[2026-05-30 16:16:17] [ALERT] Seatbelt unlocked while moving
+[2026-05-30 16:16:17] [CRITICAL] Engine overheat: 120.0C
+[2026-05-30 16:16:17] [ALERT] Low battery: 9.00V
+[2026-05-30 16:16:17] [ALERT] Low tire pressure: 20.0 PSI
+[2026-05-30 16:16:17] [ALERT] Overspeed: 130.0 km/h
+[2026-05-30 16:16:17] [CRITICAL] Door open while moving
+[2026-05-30 16:16:17] [ALERT] Seatbelt unlocked while moving
+[2026-05-30 16:16:17] [CRITICAL] Engine overheat: 110.0C
+[2026-05-30 16:16:17] [CRITICAL] Door open while moving
+[2026-05-30 16:16:17] [ALERT] Seatbelt unlocked while moving
+======== SESSION END:   2026-05-30 16:16:17 ========
+
+
+======== SESSION START: 2026-05-30 16:16:41 ========
+[2026-05-30 16:16:41] [CRITICAL] Engine overheat: 115.0C
+[2026-05-30 16:16:41] [ALERT] Low battery: 9.99V
+[2026-05-30 16:16:41] [ALERT] Overspeed: 121.0 km/h
+[2026-05-30 16:16:41] [CRITICAL] Door open while moving
+[2026-05-30 16:16:41] [ALERT] Seatbelt unlocked while moving
+[2026-05-30 16:16:41] [ALERT] Low tire pressure: 25.0 PSI
+[2026-05-30 16:16:41] [ALERT] Low battery: 9.00V
+[2026-05-30 16:16:41] [ALERT] Low tire pressure: 20.0 PSI
+[2026-05-30 16:16:41] [ALERT] Overspeed: 130.0 km/h
+[2026-05-30 16:16:41] [ALERT] Seatbelt unlocked while moving
+[2026-05-30 16:16:41] [CRITICAL] Engine overheat: 120.0C
+[2026-05-30 16:16:41] [ALERT] Low battery: 9.00V
+[2026-05-30 16:16:41] [ALERT] Low tire pressure: 20.0 PSI
+[2026-05-30 16:16:41] [ALERT] Overspeed: 130.0 km/h
+[2026-05-30 16:16:41] [CRITICAL] Door open while moving
+[2026-05-30 16:16:41] [ALERT] Seatbelt unlocked while moving
+[2026-05-30 16:16:41] [CRITICAL] Door open while moving
+[2026-05-30 16:16:41] [ALERT] Seatbelt unlocked while moving
+======== SESSION END:   2026-05-30 16:16:41 ========
+
+
+======== SESSION START: 2026-05-31 16:25:05 ========
+[2026-05-31 16:25:05] [CRITICAL] Engine overheat: 115.0C
+[2026-05-31 16:25:05] [ALERT] Low battery: 9.99V
+[2026-05-31 16:25:05] [ALERT] Overspeed: 121.0 km/h
+[2026-05-31 16:25:05] [CRITICAL] Door open while moving
+[2026-05-31 16:25:05] [ALERT] Seatbelt unlocked while moving
+[2026-05-31 16:25:05] [ALERT] Low tire pressure: 25.0 PSI
+[2026-05-31 16:25:05] [ALERT] Low battery: 9.00V
+[2026-05-31 16:25:05] [ALERT] Low tire pressure: 20.0 PSI
+[2026-05-31 16:25:05] [ALERT] Overspeed: 130.0 km/h
+[2026-05-31 16:25:05] [ALERT] Seatbelt unlocked while moving
+[2026-05-31 16:25:05] [CRITICAL] Engine overheat: 120.0C
+[2026-05-31 16:25:05] [ALERT] Low battery: 9.00V
+[2026-05-31 16:25:05] [ALERT] Low tire pressure: 20.0 PSI
+[2026-05-31 16:25:05] [ALERT] Overspeed: 130.0 km/h
+[2026-05-31 16:25:05] [CRITICAL] Door open while moving
+[2026-05-31 16:25:05] [ALERT] Seatbelt unlocked while moving
+[2026-05-31 16:25:05] [CRITICAL] Door open while moving
+[2026-05-31 16:25:05] [ALERT] Seatbelt unlocked while moving
+======== SESSION END:   2026-05-31 16:25:05 ========
+
+
+======== SESSION START: 2026-05-31 16:35:45 ========
+[2026-05-31 16:35:45] [CRITICAL] Engine overheat: 115.0C
+[2026-05-31 16:35:45] [ALERT] Low battery: 9.99V
+[2026-05-31 16:35:45] [ALERT] Overspeed: 121.0 km/h
+[2026-05-31 16:35:45] [CRITICAL] Door open while moving
+[2026-05-31 16:35:45] [ALERT] Seatbelt unlocked while moving
+[2026-05-31 16:35:45] [ALERT] Low tire pressure: 25.0 PSI
+[2026-05-31 16:35:45] [ALERT] Low battery: 9.00V
+[2026-05-31 16:35:45] [ALERT] Low tire pressure: 20.0 PSI
+[2026-05-31 16:35:45] [ALERT] Overspeed: 130.0 km/h
+[2026-05-31 16:35:45] [ALERT] Seatbelt unlocked while moving
+[2026-05-31 16:35:45] [CRITICAL] Engine overheat: 120.0C
+[2026-05-31 16:35:45] [ALERT] Low battery: 9.00V
+[2026-05-31 16:35:45] [ALERT] Low tire pressure: 20.0 PSI
+[2026-05-31 16:35:45] [ALERT] Overspeed: 130.0 km/h
+[2026-05-31 16:35:45] [CRITICAL] Door open while moving
+[2026-05-31 16:35:45] [ALERT] Seatbelt unlocked while moving
+[2026-05-31 16:35:45] [CRITICAL] Door open while moving
+[2026-05-31 16:35:45] [ALERT] Seatbelt unlocked while moving
+======== SESSION END:   2026-05-31 16:35:45 ========
+
+
+======== SESSION START: 2026-05-31 16:57:37 ========
+[2026-05-31 16:57:37] [CRITICAL] Engine overheat: 115.0C
+[2026-05-31 16:57:37] [ALERT] Low battery: 9.99V
+[2026-05-31 16:57:37] [ALERT] Overspeed: 121.0 km/h
+[2026-05-31 16:57:37] [CRITICAL] Door open while moving
+[2026-05-31 16:57:37] [ALERT] Seatbelt unlocked while moving
+[2026-05-31 16:57:37] [ALERT] Low tire pressure: 25.0 PSI
+[2026-05-31 16:57:37] [ALERT] Low battery: 9.00V
+[2026-05-31 16:57:37] [ALERT] Low tire pressure: 20.0 PSI
+[2026-05-31 16:57:37] [ALERT] Overspeed: 130.0 km/h
+[2026-05-31 16:57:37] [ALERT] Seatbelt unlocked while moving
+[2026-05-31 16:57:37] [CRITICAL] Engine overheat: 120.0C
+[2026-05-31 16:57:37] [ALERT] Low battery: 9.00V
+[2026-05-31 16:57:37] [ALERT] Low tire pressure: 20.0 PSI
+[2026-05-31 16:57:37] [ALERT] Overspeed: 130.0 km/h
+[2026-05-31 16:57:37] [CRITICAL] Door open while moving
+[2026-05-31 16:57:37] [ALERT] Seatbelt unlocked while moving
+[2026-05-31 16:57:37] [CRITICAL] Door open while moving
+[2026-05-31 16:57:37] [ALERT] Seatbelt unlocked while moving
+======== SESSION END:   2026-05-31 16:57:37 ========
+
+
+======== SESSION START: 2026-05-31 16:57:42 ========
+[2026-05-31 16:57:42] [CRITICAL] Engine overheat: 115.0C
+[2026-05-31 16:57:42] [ALERT] Low battery: 9.99V
+[2026-05-31 16:57:42] [ALERT] Overspeed: 121.0 km/h
+[2026-05-31 16:57:42] [CRITICAL] Door open while moving
+[2026-05-31 16:57:42] [ALERT] Seatbelt unlocked while moving
+[2026-05-31 16:57:42] [ALERT] Low tire pressure: 25.0 PSI
+[2026-05-31 16:57:42] [ALERT] Low battery: 9.00V
+[2026-05-31 16:57:42] [ALERT] Low tire pressure: 20.0 PSI
+[2026-05-31 16:57:42] [ALERT] Overspeed: 130.0 km/h
+[2026-05-31 16:57:42] [ALERT] Seatbelt unlocked while moving
+[2026-05-31 16:57:42] [CRITICAL] Engine overheat: 120.0C
+[2026-05-31 16:57:42] [ALERT] Low battery: 9.00V
+[2026-05-31 16:57:42] [ALERT] Low tire pressure: 20.0 PSI
+[2026-05-31 16:57:42] [ALERT] Overspeed: 130.0 km/h
+[2026-05-31 16:57:42] [CRITICAL] Door open while moving
+[2026-05-31 16:57:42] [ALERT] Seatbelt unlocked while moving
+[2026-05-31 16:57:42] [CRITICAL] Door open while moving
+[2026-05-31 16:57:42] [ALERT] Seatbelt unlocked while moving
+======== SESSION END:   2026-05-31 16:57:42 ========
+
+
+======== SESSION START: 2026-05-31 16:58:00 ========
+[2026-05-31 16:58:00] [CRITICAL] Engine overheat: 115.0C
+[2026-05-31 16:58:00] [ALERT] Low battery: 9.99V
+[2026-05-31 16:58:00] [ALERT] Overspeed: 121.0 km/h
+[2026-05-31 16:58:00] [CRITICAL] Door open while moving
+[2026-05-31 16:58:00] [ALERT] Seatbelt unlocked while moving
+[2026-05-31 16:58:00] [ALERT] Low tire pressure: 25.0 PSI
+[2026-05-31 16:58:00] [ALERT] Low battery: 9.00V
+[2026-05-31 16:58:00] [ALERT] Low tire pressure: 20.0 PSI
+[2026-05-31 16:58:00] [ALERT] Overspeed: 130.0 km/h
+[2026-05-31 16:58:00] [ALERT] Seatbelt unlocked while moving
+[2026-05-31 16:58:00] [CRITICAL] Engine overheat: 120.0C
+[2026-05-31 16:58:00] [ALERT] Low battery: 9.00V
+[2026-05-31 16:58:00] [ALERT] Low tire pressure: 20.0 PSI
+[2026-05-31 16:58:00] [ALERT] Overspeed: 130.0 km/h
+[2026-05-31 16:58:00] [CRITICAL] Door open while moving
+[2026-05-31 16:58:00] [ALERT] Seatbelt unlocked while moving
+[2026-05-31 16:58:00] [CRITICAL] Door open while moving
+[2026-05-31 16:58:00] [ALERT] Seatbelt unlocked while moving
+======== SESSION END:   2026-05-31 16:58:00 ========
+
+
+======== SESSION START: 2026-05-31 17:34:36 ========
+[2026-05-31 17:34:36] [CRITICAL] Engine overheat: 115.0C
+[2026-05-31 17:34:36] [ALERT] Low battery: 9.99V
+[2026-05-31 17:34:36] [ALERT] Overspeed: 121.0 km/h
+[2026-05-31 17:34:36] [CRITICAL] Door open while moving
+[2026-05-31 17:34:36] [ALERT] Seatbelt unlocked while moving
+[2026-05-31 17:34:36] [ALERT] Low tire pressure: 25.0 PSI
+[2026-05-31 17:34:36] [ALERT] Low battery: 9.00V
+[2026-05-31 17:34:36] [ALERT] Low tire pressure: 20.0 PSI
+[2026-05-31 17:34:36] [ALERT] Overspeed: 130.0 km/h
+[2026-05-31 17:34:36] [ALERT] Seatbelt unlocked while moving
+[2026-05-31 17:34:36] [CRITICAL] Engine overheat: 120.0C
+[2026-05-31 17:34:36] [ALERT] Low battery: 9.00V
+[2026-05-31 17:34:36] [ALERT] Low tire pressure: 20.0 PSI
+[2026-05-31 17:34:36] [ALERT] Overspeed: 130.0 km/h
+[2026-05-31 17:34:36] [CRITICAL] Door open while moving
+[2026-05-31 17:34:36] [ALERT] Seatbelt unlocked while moving
+[2026-05-31 17:34:36] [CRITICAL] Door open while moving
+[2026-05-31 17:34:36] [ALERT] Seatbelt unlocked while moving
+======== SESSION END:   2026-05-31 17:34:36 ========
+
+
+======== SESSION START: 2026-05-31 17:39:13 ========
+[2026-05-31 17:39:13] [CRITICAL] Engine overheat: 115.0C
+[2026-05-31 17:39:13] [ALERT] Low battery: 9.99V
+[2026-05-31 17:39:13] [ALERT] Overspeed: 121.0 km/h
+[2026-05-31 17:39:13] [CRITICAL] Door open while moving
+[2026-05-31 17:39:13] [ALERT] Seatbelt unlocked while moving
+[2026-05-31 17:39:13] [ALERT] Low tire pressure: 25.0 PSI
+[2026-05-31 17:39:13] [ALERT] Low battery: 9.00V
+[2026-05-31 17:39:13] [ALERT] Low tire pressure: 20.0 PSI
+[2026-05-31 17:39:13] [ALERT] Overspeed: 130.0 km/h
+[2026-05-31 17:39:13] [ALERT] Seatbelt unlocked while moving
+[2026-05-31 17:39:13] [CRITICAL] Engine overheat: 120.0C
+[2026-05-31 17:39:13] [ALERT] Low battery: 9.00V
+[2026-05-31 17:39:13] [ALERT] Low tire pressure: 20.0 PSI
+[2026-05-31 17:39:13] [ALERT] Overspeed: 130.0 km/h
+[2026-05-31 17:39:13] [CRITICAL] Door open while moving
+[2026-05-31 17:39:13] [ALERT] Seatbelt unlocked while moving
+[2026-05-31 17:39:13] [CRITICAL] Door open while moving
+[2026-05-31 17:39:13] [ALERT] Seatbelt unlocked while moving
+======== SESSION END:   2026-05-31 17:39:13 ========
+
+
+======== SESSION START: 2026-05-31 17:41:33 ========
+[2026-05-31 17:41:33] [CRITICAL] Engine overheat: 115.0C
+[2026-05-31 17:41:33] [ALERT] Low battery: 9.99V
+[2026-05-31 17:41:33] [ALERT] Overspeed: 121.0 km/h
+[2026-05-31 17:41:33] [CRITICAL] Door open while moving
+[2026-05-31 17:41:33] [ALERT] Seatbelt unlocked while moving
+[2026-05-31 17:41:33] [ALERT] Low tire pressure: 25.0 PSI
+[2026-05-31 17:41:33] [ALERT] Low battery: 9.00V
+[2026-05-31 17:41:33] [ALERT] Low tire pressure: 20.0 PSI
+[2026-05-31 17:41:33] [ALERT] Overspeed: 130.0 km/h
+[2026-05-31 17:41:33] [ALERT] Seatbelt unlocked while moving
+[2026-05-31 17:41:33] [CRITICAL] Engine overheat: 120.0C
+[2026-05-31 17:41:33] [ALERT] Low battery: 9.00V
+[2026-05-31 17:41:33] [ALERT] Low tire pressure: 20.0 PSI
+[2026-05-31 17:41:33] [ALERT] Overspeed: 130.0 km/h
+[2026-05-31 17:41:33] [CRITICAL] Door open while moving
+[2026-05-31 17:41:33] [ALERT] Seatbelt unlocked while moving
+[2026-05-31 17:41:33] [CRITICAL] Door open while moving
+[2026-05-31 17:41:33] [ALERT] Seatbelt unlocked while moving
+======== SESSION END:   2026-05-31 17:41:33 ========
+
+
+======== SESSION START: 2026-06-01 12:03:48 ========
+[2026-06-01 12:03:48] [CRITICAL] Engine overheat: 115.0C
+[2026-06-01 12:03:48] [ALERT] Low battery: 9.99V
+[2026-06-01 12:03:48] [ALERT] Overspeed: 121.0 km/h
+[2026-06-01 12:03:48] [CRITICAL] Door open while moving
+[2026-06-01 12:03:48] [ALERT] Seatbelt unlocked while moving
+[2026-06-01 12:03:48] [ALERT] Low tire pressure: 25.0 PSI
+[2026-06-01 12:03:48] [ALERT] Low battery: 9.00V
+[2026-06-01 12:03:48] [ALERT] Low tire pressure: 20.0 PSI
+[2026-06-01 12:03:48] [ALERT] Overspeed: 130.0 km/h
+[2026-06-01 12:03:48] [ALERT] Seatbelt unlocked while moving
+[2026-06-01 12:03:48] [CRITICAL] Engine overheat: 120.0C
+[2026-06-01 12:03:48] [ALERT] Low battery: 9.00V
+[2026-06-01 12:03:48] [ALERT] Low tire pressure: 20.0 PSI
+[2026-06-01 12:03:48] [ALERT] Overspeed: 130.0 km/h
+[2026-06-01 12:03:48] [CRITICAL] Door open while moving
+[2026-06-01 12:03:48] [ALERT] Seatbelt unlocked while moving
+[2026-06-01 12:03:48] [CRITICAL] Door open while moving
+[2026-06-01 12:03:48] [ALERT] Seatbelt unlocked while moving
+======== SESSION END:   2026-06-01 12:03:48 ========
+
+
+======== SESSION START: 2026-06-01 12:05:33 ========
+[2026-06-01 12:05:33] [CRITICAL] Engine overheat: 115.0C
+[2026-06-01 12:05:33] [ALERT] Low battery: 9.99V
+[2026-06-01 12:05:33] [ALERT] Overspeed: 121.0 km/h
+[2026-06-01 12:05:33] [CRITICAL] Door open while moving
+[2026-06-01 12:05:33] [ALERT] Seatbelt unlocked while moving
+[2026-06-01 12:05:33] [ALERT] Low tire pressure: 25.0 PSI
+[2026-06-01 12:05:33] [ALERT] Low battery: 9.00V
+[2026-06-01 12:05:33] [ALERT] Low tire pressure: 20.0 PSI
+[2026-06-01 12:05:33] [ALERT] Overspeed: 130.0 km/h
+[2026-06-01 12:05:33] [ALERT] Seatbelt unlocked while moving
+[2026-06-01 12:05:33] [CRITICAL] Engine overheat: 120.0C
+[2026-06-01 12:05:33] [ALERT] Low battery: 9.00V
+[2026-06-01 12:05:33] [ALERT] Low tire pressure: 20.0 PSI
+[2026-06-01 12:05:33] [ALERT] Overspeed: 130.0 km/h
+[2026-06-01 12:05:33] [CRITICAL] Door open while moving
+[2026-06-01 12:05:33] [ALERT] Seatbelt unlocked while moving
+[2026-06-01 12:05:33] [CRITICAL] Door open while moving
+[2026-06-01 12:05:33] [ALERT] Seatbelt unlocked while moving
+======== SESSION END:   2026-06-01 12:05:33 ========
+
+
+======== SESSION START: 2026-06-01 12:06:22 ========
+[2026-06-01 12:06:22] [CRITICAL] Engine overheat: 115.0C
+[2026-06-01 12:06:22] [ALERT] Low battery: 9.99V
+[2026-06-01 12:06:22] [ALERT] Overspeed: 121.0 km/h
+[2026-06-01 12:06:22] [CRITICAL] Door open while moving
+[2026-06-01 12:06:22] [ALERT] Seatbelt unlocked while moving
+[2026-06-01 12:06:22] [ALERT] Low tire pressure: 25.0 PSI
+[2026-06-01 12:06:22] [ALERT] Low battery: 9.00V
+[2026-06-01 12:06:22] [ALERT] Low tire pressure: 20.0 PSI
+[2026-06-01 12:06:22] [ALERT] Overspeed: 130.0 km/h
+[2026-06-01 12:06:22] [ALERT] Seatbelt unlocked while moving
+[2026-06-01 12:06:22] [CRITICAL] Engine overheat: 120.0C
+[2026-06-01 12:06:22] [ALERT] Low battery: 9.00V
+[2026-06-01 12:06:22] [ALERT] Low tire pressure: 20.0 PSI
+[2026-06-01 12:06:22] [ALERT] Overspeed: 130.0 km/h
+[2026-06-01 12:06:22] [CRITICAL] Door open while moving
+[2026-06-01 12:06:22] [ALERT] Seatbelt unlocked while moving
+[2026-06-01 12:06:22] [CRITICAL] Door open while moving
+[2026-06-01 12:06:22] [ALERT] Seatbelt unlocked while moving
+======== SESSION END:   2026-06-01 12:06:22 ========
+
+
+======== SESSION START: 2026-06-01 12:41:36 ========
+[2026-06-01 12:41:36] [CRITICAL] Engine overheat: 115.0C
+[2026-06-01 12:41:36] [ALERT] Low battery: 9.99V
+[2026-06-01 12:41:36] [ALERT] Overspeed: 121.0 km/h
+[2026-06-01 12:41:36] [CRITICAL] Door open while moving
+[2026-06-01 12:41:36] [ALERT] Seatbelt unlocked while moving
+[2026-06-01 12:41:36] [ALERT] Low tire pressure: 25.0 PSI
+[2026-06-01 12:41:36] [ALERT] Low battery: 9.00V
+[2026-06-01 12:41:36] [ALERT] Low tire pressure: 20.0 PSI
+[2026-06-01 12:41:36] [ALERT] Overspeed: 130.0 km/h
+[2026-06-01 12:41:36] [ALERT] Seatbelt unlocked while moving
+[2026-06-01 12:41:36] [CRITICAL] Engine overheat: 120.0C
+[2026-06-01 12:41:36] [ALERT] Low battery: 9.00V
+[2026-06-01 12:41:36] [ALERT] Low tire pressure: 20.0 PSI
+[2026-06-01 12:41:36] [ALERT] Overspeed: 130.0 km/h
+[2026-06-01 12:41:36] [CRITICAL] Door open while moving
+[2026-06-01 12:41:36] [ALERT] Seatbelt unlocked while moving
+[2026-06-01 12:41:36] [CRITICAL] Door open while moving
+[2026-06-01 12:41:36] [ALERT] Seatbelt unlocked while moving
+======== SESSION END:   2026-06-01 12:41:36 ========
+
+
+======== SESSION START: 2026-06-01 12:42:26 ========
+[2026-06-01 12:42:26] [CRITICAL] Engine overheat: 115.0C
+[2026-06-01 12:42:26] [ALERT] Low battery: 9.99V
+[2026-06-01 12:42:26] [ALERT] Overspeed: 121.0 km/h
+[2026-06-01 12:42:26] [CRITICAL] Door open while moving
+[2026-06-01 12:42:26] [ALERT] Seatbelt unlocked while moving
+[2026-06-01 12:42:26] [ALERT] Low tire pressure: 25.0 PSI
+[2026-06-01 12:42:26] [ALERT] Low battery: 9.00V
+[2026-06-01 12:42:26] [ALERT] Low tire pressure: 20.0 PSI
+[2026-06-01 12:42:26] [ALERT] Overspeed: 130.0 km/h
+[2026-06-01 12:42:26] [ALERT] Seatbelt unlocked while moving
+[2026-06-01 12:42:26] [CRITICAL] Engine overheat: 120.0C
+[2026-06-01 12:42:26] [ALERT] Low battery: 9.00V
+[2026-06-01 12:42:26] [ALERT] Low tire pressure: 20.0 PSI
+[2026-06-01 12:42:26] [ALERT] Overspeed: 130.0 km/h
+[2026-06-01 12:42:26] [CRITICAL] Door open while moving
+[2026-06-01 12:42:26] [ALERT] Seatbelt unlocked while moving
+[2026-06-01 12:42:26] [CRITICAL] Door open while moving
+[2026-06-01 12:42:26] [ALERT] Seatbelt unlocked while moving
+======== SESSION END:   2026-06-01 12:42:26 ========
+
+
+======== SESSION START: 2026-06-01 12:42:35 ========
+[2026-06-01 12:42:35] [CRITICAL] Engine overheat: 115.0C
+[2026-06-01 12:42:35] [ALERT] Low battery: 9.99V
+[2026-06-01 12:42:35] [ALERT] Overspeed: 121.0 km/h
+[2026-06-01 12:42:35] [CRITICAL] Door open while moving
+[2026-06-01 12:42:35] [ALERT] Seatbelt unlocked while moving
+[2026-06-01 12:42:35] [ALERT] Low tire pressure: 25.0 PSI
+[2026-06-01 12:42:35] [ALERT] Low battery: 9.00V
+[2026-06-01 12:42:35] [ALERT] Low tire pressure: 20.0 PSI
+[2026-06-01 12:42:35] [ALERT] Overspeed: 130.0 km/h
+[2026-06-01 12:42:35] [ALERT] Seatbelt unlocked while moving
+[2026-06-01 12:42:35] [CRITICAL] Engine overheat: 120.0C
+[2026-06-01 12:42:35] [ALERT] Low battery: 9.00V
+[2026-06-01 12:42:35] [ALERT] Low tire pressure: 20.0 PSI
+[2026-06-01 12:42:35] [ALERT] Overspeed: 130.0 km/h
+[2026-06-01 12:42:35] [CRITICAL] Door open while moving
+[2026-06-01 12:42:35] [ALERT] Seatbelt unlocked while moving
+[2026-06-01 12:42:35] [CRITICAL] Door open while moving
+[2026-06-01 12:42:35] [ALERT] Seatbelt unlocked while moving
+======== SESSION END:   2026-06-01 12:42:35 ========
+
+
+======== SESSION START: 2026-06-01 12:42:41 ========
+[2026-06-01 12:42:41] [CRITICAL] Engine overheat: 115.0C
+[2026-06-01 12:42:41] [ALERT] Low battery: 9.99V
+[2026-06-01 12:42:41] [ALERT] Overspeed: 121.0 km/h
+[2026-06-01 12:42:41] [CRITICAL] Door open while moving
+[2026-06-01 12:42:41] [ALERT] Seatbelt unlocked while moving
+[2026-06-01 12:42:41] [ALERT] Low tire pressure: 25.0 PSI
+[2026-06-01 12:42:41] [ALERT] Low battery: 9.00V
+[2026-06-01 12:42:41] [ALERT] Low tire pressure: 20.0 PSI
+[2026-06-01 12:42:41] [ALERT] Overspeed: 130.0 km/h
+[2026-06-01 12:42:41] [ALERT] Seatbelt unlocked while moving
+[2026-06-01 12:42:41] [CRITICAL] Engine overheat: 120.0C
+[2026-06-01 12:42:41] [ALERT] Low battery: 9.00V
+[2026-06-01 12:42:41] [ALERT] Low tire pressure: 20.0 PSI
+[2026-06-01 12:42:41] [ALERT] Overspeed: 130.0 km/h
+[2026-06-01 12:42:41] [CRITICAL] Door open while moving
+[2026-06-01 12:42:41] [ALERT] Seatbelt unlocked while moving
+[2026-06-01 12:42:41] [CRITICAL] Door open while moving
+[2026-06-01 12:42:41] [ALERT] Seatbelt unlocked while moving
+======== SESSION END:   2026-06-01 12:42:41 ========
+
+
+======== SESSION START: 2026-06-01 12:42:49 ========
+[2026-06-01 12:42:49] [CRITICAL] Engine overheat: 115.0C
+[2026-06-01 12:42:49] [ALERT] Low battery: 9.99V
+[2026-06-01 12:42:49] [ALERT] Overspeed: 121.0 km/h
+[2026-06-01 12:42:49] [CRITICAL] Door open while moving
+[2026-06-01 12:42:49] [ALERT] Seatbelt unlocked while moving
+[2026-06-01 12:42:49] [ALERT] Low tire pressure: 25.0 PSI
+[2026-06-01 12:42:49] [ALERT] Low battery: 9.00V
+[2026-06-01 12:42:49] [ALERT] Low tire pressure: 20.0 PSI
+[2026-06-01 12:42:49] [ALERT] Overspeed: 130.0 km/h
+[2026-06-01 12:42:49] [ALERT] Seatbelt unlocked while moving
+[2026-06-01 12:42:49] [CRITICAL] Engine overheat: 120.0C
+[2026-06-01 12:42:49] [ALERT] Low battery: 9.00V
+[2026-06-01 12:42:49] [ALERT] Low tire pressure: 20.0 PSI
+[2026-06-01 12:42:49] [ALERT] Overspeed: 130.0 km/h
+[2026-06-01 12:42:49] [CRITICAL] Door open while moving
+[2026-06-01 12:42:49] [ALERT] Seatbelt unlocked while moving
+[2026-06-01 12:42:49] [CRITICAL] Door open while moving
+[2026-06-01 12:42:49] [ALERT] Seatbelt unlocked while moving
+======== SESSION END:   2026-06-01 12:42:49 ========
+
+
+======== SESSION START: 2026-06-01 12:42:58 ========
+[2026-06-01 12:42:58] [CRITICAL] Engine overheat: 115.0C
+[2026-06-01 12:42:58] [ALERT] Low battery: 9.99V
+[2026-06-01 12:42:58] [ALERT] Overspeed: 121.0 km/h
+[2026-06-01 12:42:58] [CRITICAL] Door open while moving
+[2026-06-01 12:42:58] [ALERT] Seatbelt unlocked while moving
+[2026-06-01 12:42:58] [ALERT] Low tire pressure: 25.0 PSI
+[2026-06-01 12:42:58] [ALERT] Low battery: 9.00V
+[2026-06-01 12:42:58] [ALERT] Low tire pressure: 20.0 PSI
+[2026-06-01 12:42:58] [ALERT] Overspeed: 130.0 km/h
+[2026-06-01 12:42:58] [ALERT] Seatbelt unlocked while moving
+[2026-06-01 12:42:58] [CRITICAL] Engine overheat: 120.0C
+[2026-06-01 12:42:58] [ALERT] Low battery: 9.00V
+[2026-06-01 12:42:58] [ALERT] Low tire pressure: 20.0 PSI
+[2026-06-01 12:42:58] [ALERT] Overspeed: 130.0 km/h
+[2026-06-01 12:42:58] [CRITICAL] Door open while moving
+[2026-06-01 12:42:58] [ALERT] Seatbelt unlocked while moving
+[2026-06-01 12:42:58] [CRITICAL] Door open while moving
+[2026-06-01 12:42:58] [ALERT] Seatbelt unlocked while moving
+======== SESSION END:   2026-06-01 12:42:58 ========
+
+
+======== SESSION START: 2026-06-01 12:43:04 ========
+[2026-06-01 12:43:04] [CRITICAL] Engine overheat: 115.0C
+[2026-06-01 12:43:04] [ALERT] Low battery: 9.99V
+[2026-06-01 12:43:04] [ALERT] Overspeed: 121.0 km/h
+[2026-06-01 12:43:04] [CRITICAL] Door open while moving
+[2026-06-01 12:43:04] [ALERT] Seatbelt unlocked while moving
+[2026-06-01 12:43:04] [ALERT] Low tire pressure: 25.0 PSI
+[2026-06-01 12:43:04] [ALERT] Low battery: 9.00V
+[2026-06-01 12:43:04] [ALERT] Low tire pressure: 20.0 PSI
+[2026-06-01 12:43:04] [ALERT] Overspeed: 130.0 km/h
+[2026-06-01 12:43:04] [ALERT] Seatbelt unlocked while moving
+[2026-06-01 12:43:04] [CRITICAL] Engine overheat: 120.0C
+[2026-06-01 12:43:04] [ALERT] Low battery: 9.00V
+[2026-06-01 12:43:04] [ALERT] Low tire pressure: 20.0 PSI
+[2026-06-01 12:43:04] [ALERT] Overspeed: 130.0 km/h
+[2026-06-01 12:43:04] [CRITICAL] Door open while moving
+[2026-06-01 12:43:04] [ALERT] Seatbelt unlocked while moving
+[2026-06-01 12:43:04] [CRITICAL] Door open while moving
+[2026-06-01 12:43:04] [ALERT] Seatbelt unlocked while moving
+======== SESSION END:   2026-06-01 12:43:04 ========
+
+
+======== SESSION START: 2026-06-01 12:43:20 ========
+[2026-06-01 12:43:20] [CRITICAL] Engine overheat: 115.0C
+[2026-06-01 12:43:20] [ALERT] Low battery: 9.99V
+[2026-06-01 12:43:20] [ALERT] Overspeed: 121.0 km/h
+[2026-06-01 12:43:20] [CRITICAL] Door open while moving
+[2026-06-01 12:43:20] [ALERT] Seatbelt unlocked while moving
+[2026-06-01 12:43:20] [ALERT] Low tire pressure: 25.0 PSI
+[2026-06-01 12:43:20] [ALERT] Low battery: 9.00V
+[2026-06-01 12:43:20] [ALERT] Low tire pressure: 20.0 PSI
+[2026-06-01 12:43:20] [ALERT] Overspeed: 130.0 km/h
+[2026-06-01 12:43:20] [ALERT] Seatbelt unlocked while moving
+[2026-06-01 12:43:20] [CRITICAL] Engine overheat: 120.0C
+[2026-06-01 12:43:20] [ALERT] Low battery: 9.00V
+[2026-06-01 12:43:20] [ALERT] Low tire pressure: 20.0 PSI
+[2026-06-01 12:43:20] [ALERT] Overspeed: 130.0 km/h
+[2026-06-01 12:43:20] [CRITICAL] Door open while moving
+[2026-06-01 12:43:20] [ALERT] Seatbelt unlocked while moving
+[2026-06-01 12:43:20] [CRITICAL] Door open while moving
+[2026-06-01 12:43:20] [ALERT] Seatbelt unlocked while moving
+======== SESSION END:   2026-06-01 12:43:20 ========
+
+
+======== SESSION START: 2026-06-01 13:10:47 ========
+[2026-06-01 13:10:47] [CRITICAL] Engine overheat: 115.0C
+[2026-06-01 13:10:47] [ALERT] Low battery: 9.99V
+[2026-06-01 13:10:47] [ALERT] Overspeed: 121.0 km/h
+[2026-06-01 13:10:47] [CRITICAL] Door open while moving
+[2026-06-01 13:10:47] [ALERT] Seatbelt unlocked while moving
+[2026-06-01 13:10:47] [ALERT] Low tire pressure: 25.0 PSI
+[2026-06-01 13:10:47] [ALERT] Low battery: 9.00V
+[2026-06-01 13:10:47] [ALERT] Low tire pressure: 20.0 PSI
+[2026-06-01 13:10:47] [ALERT] Overspeed: 130.0 km/h
+[2026-06-01 13:10:47] [ALERT] Seatbelt unlocked while moving
+[2026-06-01 13:10:47] [CRITICAL] Engine overheat: 120.0C
+[2026-06-01 13:10:47] [ALERT] Low battery: 9.00V
+[2026-06-01 13:10:47] [ALERT] Low tire pressure: 20.0 PSI
+[2026-06-01 13:10:47] [ALERT] Overspeed: 130.0 km/h
+[2026-06-01 13:10:47] [CRITICAL] Door open while moving
+[2026-06-01 13:10:47] [ALERT] Seatbelt unlocked while moving
+[2026-06-01 13:10:47] [CRITICAL] Door open while moving
+[2026-06-01 13:10:47] [ALERT] Seatbelt unlocked while moving
+======== SESSION END:   2026-06-01 13:10:47 ========
+
+
+======== SESSION START: 2026-06-01 15:20:58 ========
+[2026-06-01 15:20:58] [CRITICAL] Engine overheat: 115.0C
+[2026-06-01 15:20:58] [ALERT] Low battery: 9.99V
+[2026-06-01 15:20:58] [ALERT] Overspeed: 121.0 km/h
+[2026-06-01 15:20:58] [CRITICAL] Door open while moving
+[2026-06-01 15:20:58] [ALERT] Seatbelt unlocked while moving
+[2026-06-01 15:20:58] [ALERT] Low tire pressure: 25.0 PSI
+[2026-06-01 15:20:58] [ALERT] Low battery: 9.00V
+[2026-06-01 15:20:58] [ALERT] Low tire pressure: 20.0 PSI
+[2026-06-01 15:20:58] [ALERT] Overspeed: 130.0 km/h
+[2026-06-01 15:20:58] [ALERT] Seatbelt unlocked while moving
+[2026-06-01 15:20:58] [CRITICAL] Engine overheat: 120.0C
+[2026-06-01 15:20:58] [ALERT] Low battery: 9.00V
+[2026-06-01 15:20:58] [ALERT] Low tire pressure: 20.0 PSI
+[2026-06-01 15:20:58] [ALERT] Overspeed: 130.0 km/h
+[2026-06-01 15:20:58] [CRITICAL] Door open while moving
+[2026-06-01 15:20:58] [ALERT] Seatbelt unlocked while moving
+[2026-06-01 15:20:58] [CRITICAL] Door open while moving
+[2026-06-01 15:20:58] [ALERT] Seatbelt unlocked while moving
+======== SESSION END:   2026-06-01 15:20:58 ========
+
+
+======== SESSION START: 2026-06-01 15:23:57 ========
+[2026-06-01 15:23:57] [CRITICAL] Engine overheat: 115.0C
+[2026-06-01 15:23:57] [ALERT] Low battery: 9.99V
+[2026-06-01 15:23:57] [ALERT] Overspeed: 121.0 km/h
+[2026-06-01 15:23:57] [CRITICAL] Door open while moving
+[2026-06-01 15:23:57] [ALERT] Seatbelt unlocked while moving
+[2026-06-01 15:23:57] [ALERT] Low tire pressure: 25.0 PSI
+[2026-06-01 15:23:57] [ALERT] Low battery: 9.00V
+[2026-06-01 15:23:57] [ALERT] Low tire pressure: 20.0 PSI
+[2026-06-01 15:23:57] [ALERT] Overspeed: 130.0 km/h
+[2026-06-01 15:23:57] [ALERT] Seatbelt unlocked while moving
+[2026-06-01 15:23:57] [CRITICAL] Engine overheat: 120.0C
+[2026-06-01 15:23:57] [ALERT] Low battery: 9.00V
+[2026-06-01 15:23:57] [ALERT] Low tire pressure: 20.0 PSI
+[2026-06-01 15:23:57] [ALERT] Overspeed: 130.0 km/h
+[2026-06-01 15:23:57] [CRITICAL] Door open while moving
+[2026-06-01 15:23:57] [ALERT] Seatbelt unlocked while moving
+[2026-06-01 15:23:57] [CRITICAL] Door open while moving
+[2026-06-01 15:23:57] [ALERT] Seatbelt unlocked while moving
+======== SESSION END:   2026-06-01 15:23:57 ========
+
+
+======== SESSION START: 2026-06-01 19:35:17 ========
+[2026-06-01 19:35:17] [CRITICAL] Engine overheat: 115.0C
+[2026-06-01 19:35:17] [ALERT] Low battery: 9.99V
+[2026-06-01 19:35:17] [ALERT] Overspeed: 121.0 km/h
+[2026-06-01 19:35:17] [CRITICAL] Door open while moving
+[2026-06-01 19:35:17] [ALERT] Seatbelt unlocked while moving
+[2026-06-01 19:35:17] [ALERT] Low tire pressure: 25.0 PSI
+[2026-06-01 19:35:17] [ALERT] Low battery: 9.00V
+[2026-06-01 19:35:17] [ALERT] Low tire pressure: 20.0 PSI
+[2026-06-01 19:35:17] [ALERT] Overspeed: 130.0 km/h
+[2026-06-01 19:35:17] [ALERT] Seatbelt unlocked while moving
+[2026-06-01 19:35:17] [CRITICAL] Engine overheat: 120.0C
+[2026-06-01 19:35:17] [ALERT] Low battery: 9.00V
+[2026-06-01 19:35:17] [ALERT] Low tire pressure: 20.0 PSI
+[2026-06-01 19:35:17] [ALERT] Overspeed: 130.0 km/h
+[2026-06-01 19:35:17] [CRITICAL] Door open while moving
+[2026-06-01 19:35:17] [ALERT] Seatbelt unlocked while moving
+[2026-06-01 19:35:17] [CRITICAL] Door open while moving
+[2026-06-01 19:35:17] [ALERT] Seatbelt unlocked while moving
+======== SESSION END:   2026-06-01 19:35:17 ========
+

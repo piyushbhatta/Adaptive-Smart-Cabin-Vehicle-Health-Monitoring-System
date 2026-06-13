@@ -1,0 +1,189 @@
+[
+  {
+    "tick": 1,
+    "description": "Normal operation",
+    "inputs": {
+      "engineTemp": 95.0,
+      "batteryVoltage": 12.5,
+      "speed": 50,
+      "tirePressure": 32.0,
+      "doorOpen": false,
+      "seatbeltLocked": true
+    },
+    "expectedOutput": {
+      "activeAlerts": [],
+      "systemStatus": "NORMAL"
+    }
+  },
+  {
+    "tick": 2,
+    "description": "Engine overheat",
+    "inputs": {
+      "engineTemp": 115.0,
+      "batteryVoltage": 12.5,
+      "speed": 50,
+      "tirePressure": 32.0,
+      "doorOpen": false,
+      "seatbeltLocked": true
+    },
+    "expectedOutput": {
+      "activeAlerts": [
+        { "severity": "CRITICAL", "messagePrefix": "ENGINE OVERHEAT" }
+      ],
+      "systemStatus": "CRITICAL"
+    }
+  },
+  {
+    "tick": 3,
+    "description": "Low battery",
+    "inputs": {
+      "engineTemp": 90.0,
+      "batteryVoltage": 9.99,
+      "speed": 50,
+      "tirePressure": 32.0,
+      "doorOpen": false,
+      "seatbeltLocked": true
+    },
+    "expectedOutput": {
+      "activeAlerts": [
+        { "severity": "HIGH", "messagePrefix": "LOW BATTERY" }
+      ],
+      "systemStatus": "WARNING"
+    }
+  },
+  {
+    "tick": 4,
+    "description": "Overspeed",
+    "inputs": {
+      "engineTemp": 90.0,
+      "batteryVoltage": 12.0,
+      "speed": 121,
+      "tirePressure": 32.0,
+      "doorOpen": false,
+      "seatbeltLocked": true
+    },
+    "expectedOutput": {
+      "activeAlerts": [
+        { "severity": "HIGH", "messagePrefix": "OVERSPEED WARNING" }
+      ],
+      "systemStatus": "WARNING"
+    }
+  },
+  {
+    "tick": 5,
+    "description": "Door open while moving",
+    "inputs": {
+      "engineTemp": 90.0,
+      "batteryVoltage": 12.0,
+      "speed": 11,
+      "tirePressure": 32.0,
+      "doorOpen": true,
+      "seatbeltLocked": true
+    },
+    "expectedOutput": {
+      "activeAlerts": [
+        { "severity": "CRITICAL", "messagePrefix": "DOOR OPEN" }
+      ],
+      "systemStatus": "CRITICAL"
+    }
+  },
+  {
+    "tick": 6,
+    "description": "Seatbelt unlocked while moving",
+    "inputs": {
+      "engineTemp": 90.0,
+      "batteryVoltage": 12.0,
+      "speed": 1,
+      "tirePressure": 32.0,
+      "doorOpen": false,
+      "seatbeltLocked": false
+    },
+    "expectedOutput": {
+      "activeAlerts": [
+        { "severity": "MEDIUM", "messagePrefix": "SEATBELT" }
+      ],
+      "systemStatus": "NORMAL"
+    }
+  },
+  {
+    "tick": 7,
+    "description": "Low tire pressure",
+    "inputs": {
+      "engineTemp": 90.0,
+      "batteryVoltage": 12.0,
+      "speed": 40,
+      "tirePressure": 24.99,
+      "doorOpen": false,
+      "seatbeltLocked": true
+    },
+    "expectedOutput": {
+      "activeAlerts": [
+        { "severity": "LOW", "messagePrefix": "LOW TIRE PRESSURE" }
+      ],
+      "systemStatus": "NORMAL"
+    }
+  },
+  {
+    "tick": 8,
+    "description": "All non-critical alerts together",
+    "inputs": {
+      "engineTemp": 95.0,
+      "batteryVoltage": 9.0,
+      "speed": 130,
+      "tirePressure": 20.0,
+      "doorOpen": false,
+      "seatbeltLocked": false
+    },
+    "expectedOutput": {
+      "activeAlerts": [
+        { "severity": "HIGH",   "messagePrefix": "LOW BATTERY" },
+        { "severity": "HIGH",   "messagePrefix": "OVERSPEED WARNING" },
+        { "severity": "MEDIUM", "messagePrefix": "SEATBELT" },
+        { "severity": "LOW",    "messagePrefix": "LOW TIRE PRESSURE" }
+      ],
+      "systemStatus": "WARNING"
+    }
+  },
+  {
+    "tick": 9,
+    "description": "All alerts together",
+    "inputs": {
+      "engineTemp": 120.0,
+      "batteryVoltage": 9.0,
+      "speed": 130,
+      "tirePressure": 20.0,
+      "doorOpen": true,
+      "seatbeltLocked": false
+    },
+    "expectedOutput": {
+      "activeAlerts": [
+        { "severity": "CRITICAL", "messagePrefix": "ENGINE OVERHEAT" },
+        { "severity": "CRITICAL", "messagePrefix": "DOOR OPEN" },
+        { "severity": "HIGH",     "messagePrefix": "LOW BATTERY" },
+        { "severity": "HIGH",     "messagePrefix": "OVERSPEED WARNING" },
+        { "severity": "MEDIUM",   "messagePrefix": "SEATBELT" },
+        { "severity": "LOW",      "messagePrefix": "LOW TIRE PRESSURE" }
+      ],
+      "systemStatus": "CRITICAL"
+    }
+  },
+  {
+    "tick": 10,
+    "description": "Boundary value verification",
+    "inputs": {
+      "engineTemp": 110.0,
+      "batteryVoltage": 10.0,
+      "speed": 120,
+      "tirePressure": 25.0,
+      "doorOpen": true,
+      "seatbeltLocked": false
+    },
+    "expectedOutput": {
+      "activeAlerts": [
+        { "severity": "CRITICAL", "messagePrefix": "DOOR OPEN" },
+        { "severity": "MEDIUM",   "messagePrefix": "SEATBELT" }
+      ],
+      "systemStatus": "CRITICAL"
+    }
+  }
+]

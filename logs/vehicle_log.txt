@@ -1,0 +1,209 @@
+
+======== SESSION START: 2026-05-29 15:55:00 ========
+[2026-05-29 15:55:00] [INFO    ] Simulation started. 6 sensors online.
+[2026-05-29 15:55:00] [INFO    ] Snapshot | Speed=72.0km/h | Temp=85.0C | Volt=12.5V | PSI=30.0 | Door=CLOSED | Belt=LOCKED | Alerts=0
+[2026-05-29 15:55:01] [INFO    ] Snapshot | Speed=64.7km/h | Temp=87.5C | Volt=12.6V | PSI=29.3 | Door=CLOSED | Belt=LOCKED | Alerts=0
+[2026-05-29 15:55:02] [INFO    ] Snapshot | Speed=61.0km/h | Temp=90.0C | Volt=12.9V | PSI=26.8 | Door=CLOSED | Belt=LOCKED | Alerts=0
+[2026-05-29 15:55:03] [INFO    ] Snapshot | Speed=56.0km/h | Temp=88.4C | Volt=13.0V | PSI=25.8 | Door=CLOSED | Belt=LOCKED | Alerts=0
+[2026-05-29 15:55:04] [INFO    ] Snapshot | Speed=57.5km/h | Temp=94.8C | Volt=13.1V | PSI=26.3 | Door=CLOSED | Belt=LOCKED | Alerts=0
+[2026-05-29 15:55:05] [INFO    ] Heartbeat #1 | Alerts raised: 4
+[2026-05-29 15:55:05] [INFO    ] Snapshot | Speed=45.0km/h | Temp=94.1C | Volt=13.1V | PSI=25.6 | Door=CLOSED | Belt=LOCKED | Alerts=0
+[2026-05-29 15:55:06] [ALERT] Door open while moving
+[2026-05-29 15:55:06] [INFO    ] Snapshot | Speed=50.6km/h | Temp=89.6C | Volt=12.9V | PSI=25.1 | Door=OPEN | Belt=LOCKED | Alerts=1
+[2026-05-29 15:55:07] [ALERT] Low tire pressure: 22.6 PSI
+[2026-05-29 15:55:07] [ALERT] Seatbelt unlocked while moving
+[2026-05-29 15:55:07] [INFO    ] Snapshot | Speed=54.1km/h | Temp=93.5C | Volt=12.4V | PSI=22.6 | Door=OPEN | Belt=UNLOCKED | Alerts=3
+[2026-05-29 15:55:08] [INFO    ] Snapshot | Speed=50.4km/h | Temp=90.7C | Volt=12.1V | PSI=20.4 | Door=CLOSED | Belt=UNLOCKED | Alerts=2
+[2026-05-29 15:55:09] [ALERT] High engine temp: 96.9C
+[2026-05-29 15:55:09] [INFO    ] Snapshot | Speed=61.9km/h | Temp=96.9C | Volt=11.7V | PSI=19.2 | Door=CLOSED | Belt=UNLOCKED | Alerts=3
+[2026-05-29 15:55:10] [INFO    ] Heartbeat #2 | Alerts raised: 8
+[2026-05-29 15:55:10] [INFO    ] Snapshot | Speed=52.0km/h | Temp=92.9C | Volt=11.4V | PSI=19.2 | Door=CLOSED | Belt=UNLOCKED | Alerts=2
+[2026-05-29 15:55:11] [INFO    ] Snapshot | Speed=63.5km/h | Temp=83.3C | Volt=11.5V | PSI=18.0 | Door=CLOSED | Belt=UNLOCKED | Alerts=2
+[2026-05-29 15:55:15] [INFO    ] Heartbeat #3 | Alerts raised: 8
+[2026-05-29 15:55:15] [INFO    ] Performance report generated.
+[2026-05-29 15:55:15] [INFO    ] Clean shutdown.
+======== SESSION END:   2026-05-29 15:55:15 ========
+
+
+======== SESSION START: 2026-05-29 15:56:52 ========
+[2026-05-29 15:56:52] [INFO    ] Simulation started. 6 sensors online.
+[2026-05-29 15:56:52] [INFO    ] Snapshot | Speed=69.0km/h | Temp=87.2C | Volt=12.6V | PSI=28.9 | Door=CLOSED | Belt=LOCKED | Alerts=0
+[2026-05-29 15:56:53] [INFO    ] Snapshot | Speed=83.4km/h | Temp=87.2C | Volt=12.8V | PSI=27.7 | Door=CLOSED | Belt=LOCKED | Alerts=0
+[2026-05-29 15:56:54] [INFO    ] Snapshot | Speed=89.8km/h | Temp=93.9C | Volt=12.8V | PSI=27.2 | Door=CLOSED | Belt=LOCKED | Alerts=0
+[2026-05-29 15:56:55] [ALERT] High engine temp: 99.9C
+[2026-05-29 15:56:55] [INFO    ] Snapshot | Speed=85.7km/h | Temp=99.9C | Volt=13.2V | PSI=27.0 | Door=CLOSED | Belt=LOCKED | Alerts=1
+[2026-05-29 15:56:56] [ALERT] Low tire pressure: 24.9 PSI
+[2026-05-29 15:56:56] [ALERT] Door open while moving
+[2026-05-29 15:56:56] [ALERT] Seatbelt unlocked while moving
+[2026-05-29 15:56:56] [INFO    ] Snapshot | Speed=85.4km/h | Temp=102.2C | Volt=13.4V | PSI=24.9 | Door=OPEN | Belt=UNLOCKED | Alerts=4
+[2026-05-29 15:56:57] [INFO    ] Heartbeat #1 | Alerts raised: 6
+[2026-05-29 15:56:57] [INFO    ] Snapshot | Speed=88.4km/h | Temp=101.3C | Volt=13.5V | PSI=23.7 | Door=OPEN | Belt=UNLOCKED | Alerts=4
+[2026-05-29 15:56:58] [INFO    ] Snapshot | Speed=89.8km/h | Temp=93.1C | Volt=13.7V | PSI=24.2 | Door=CLOSED | Belt=UNLOCKED | Alerts=2
+[2026-05-29 15:56:59] [INFO    ] Snapshot | Speed=92.8km/h | Temp=92.5C | Volt=13.8V | PSI=23.7 | Door=CLOSED | Belt=UNLOCKED | Alerts=2
+[2026-05-29 15:57:00] [ALERT] High engine temp: 97.0C
+[2026-05-29 15:57:00] [INFO    ] Snapshot | Speed=84.0km/h | Temp=97.0C | Volt=13.8V | PSI=23.0 | Door=CLOSED | Belt=UNLOCKED | Alerts=3
+[2026-05-29 15:57:01] [INFO    ] Snapshot | Speed=87.5km/h | Temp=100.7C | Volt=13.5V | PSI=22.2 | Door=CLOSED | Belt=LOCKED | Alerts=2
+[2026-05-29 15:57:02] [INFO    ] Heartbeat #2 | Alerts raised: 7
+[2026-05-29 15:57:02] [ALERT] Door open while moving
+[2026-05-29 15:57:02] [INFO    ] Snapshot | Speed=75.3km/h | Temp=94.2C | Volt=13.4V | PSI=19.9 | Door=OPEN | Belt=LOCKED | Alerts=2
+[2026-05-29 15:57:07] [INFO    ] Heartbeat #3 | Alerts raised: 8
+[2026-05-29 15:57:07] [INFO    ] Performance report generated.
+[2026-05-29 15:57:07] [INFO    ] Clean shutdown.
+======== SESSION END:   2026-05-29 15:57:07 ========
+
+
+======== SESSION START: 2026-05-29 16:09:52 ========
+[2026-05-29 16:09:52] [INFO    ] Simulation started. 6 sensors online.
+[2026-05-29 16:09:52] [INFO    ] Snapshot | Speed=65.0km/h | Temp=85.8C | Volt=12.5V | PSI=29.4 | Door=CLOSED | Belt=LOCKED | Alerts=0
+[2026-05-29 16:09:53] [INFO    ] Snapshot | Speed=75.0km/h | Temp=83.5C | Volt=12.9V | PSI=29.2 | Door=CLOSED | Belt=LOCKED | Alerts=0
+[2026-05-29 16:09:54] [INFO    ] Snapshot | Speed=65.9km/h | Temp=81.7C | Volt=12.7V | PSI=28.3 | Door=CLOSED | Belt=LOCKED | Alerts=0
+[2026-05-29 16:09:55] [ALERT] Seatbelt unlocked while moving
+[2026-05-29 16:09:55] [INFO    ] Snapshot | Speed=49.7km/h | Temp=81.3C | Volt=12.8V | PSI=28.8 | Door=CLOSED | Belt=UNLOCKED | Alerts=1
+[2026-05-29 16:09:56] [INFO    ] Snapshot | Speed=65.8km/h | Temp=81.5C | Volt=12.9V | PSI=29.3 | Door=CLOSED | Belt=UNLOCKED | Alerts=1
+[2026-05-29 16:09:57] [INFO    ] Heartbeat #1 | Alerts raised: 5
+[2026-05-29 16:09:57] [ALERT] Door open while moving
+[2026-05-29 16:09:57] [INFO    ] Snapshot | Speed=73.1km/h | Temp=73.1C | Volt=12.8V | PSI=26.8 | Door=OPEN | Belt=UNLOCKED | Alerts=2
+[2026-05-29 16:09:58] [INFO    ] Snapshot | Speed=79.0km/h | Temp=76.1C | Volt=12.6V | PSI=26.8 | Door=OPEN | Belt=UNLOCKED | Alerts=2
+[2026-05-29 16:09:59] [INFO    ] Snapshot | Speed=73.8km/h | Temp=72.2C | Volt=12.3V | PSI=26.2 | Door=OPEN | Belt=UNLOCKED | Alerts=2
+[2026-05-29 16:10:02] [INFO    ] Heartbeat #2 | Alerts raised: 6
+[2026-05-29 16:10:02] [INFO    ] Performance report generated.
+[2026-05-29 16:10:02] [INFO    ] Clean shutdown.
+======== SESSION END:   2026-05-29 16:10:02 ========
+
+
+======== SESSION START: 2026-06-01 10:47:13 ========
+[2026-06-01 10:47:13] [INFO    ] Simulation started. 6 sensors online.
+[2026-06-01 10:47:13] [INFO    ] Active profile: Default  Mode: NORMAL
+[2026-06-01 10:47:13] [INFO    ] Snapshot | Speed=75.2km/h | Temp=87.2C | Volt=12.4V | PSI=29.3 | Door=CLOSED | Belt=LOCKED | Alerts=0
+[2026-06-01 10:47:14] [INFO    ] Snapshot | Speed=59.8km/h | Temp=89.6C | Volt=12.7V | PSI=28.2 | Door=CLOSED | Belt=LOCKED | Alerts=0
+[2026-06-01 10:47:15] [INFO    ] Snapshot | Speed=62.7km/h | Temp=92.2C | Volt=12.1V | PSI=26.7 | Door=CLOSED | Belt=LOCKED | Alerts=0
+[2026-06-01 10:47:16] [INFO    ] Snapshot | Speed=60.6km/h | Temp=87.4C | Volt=12.6V | PSI=25.4 | Door=CLOSED | Belt=LOCKED | Alerts=0
+[2026-06-01 10:47:17] [ALERT] Seatbelt unlocked while moving
+[2026-06-01 10:47:17] [INFO    ] Snapshot | Speed=72.0km/h | Temp=87.5C | Volt=12.6V | PSI=26.2 | Door=CLOSED | Belt=UNLOCKED | Alerts=1
+[2026-06-01 10:47:18] [INFO    ] Heartbeat #1 | Alerts raised: 1
+[2026-06-01 10:47:18] [INFO    ] Snapshot | Speed=75.7km/h | Temp=86.9C | Volt=12.8V | PSI=25.1 | Door=CLOSED | Belt=UNLOCKED | Alerts=1
+[2026-06-01 10:47:19] [INFO    ] Snapshot | Speed=71.6km/h | Temp=89.6C | Volt=12.5V | PSI=25.1 | Door=CLOSED | Belt=UNLOCKED | Alerts=1
+[2026-06-01 10:47:20] [ALERT] High engine temp: 97.1C
+[2026-06-01 10:47:20] [INFO    ] Snapshot | Speed=54.5km/h | Temp=97.1C | Volt=12.4V | PSI=25.1 | Door=CLOSED | Belt=UNLOCKED | Alerts=2
+[2026-06-01 10:47:21] [ALERT] Low tire pressure: 23.4 PSI
+[2026-06-01 10:47:21] [INFO    ] Snapshot | Speed=38.0km/h | Temp=94.9C | Volt=12.6V | PSI=23.4 | Door=CLOSED | Belt=LOCKED | Alerts=1
+[2026-06-01 10:47:22] [ALERT] High engine temp: 96.5C
+[2026-06-01 10:47:22] [INFO    ] Snapshot | Speed=34.4km/h | Temp=96.5C | Volt=12.6V | PSI=23.7 | Door=CLOSED | Belt=LOCKED | Alerts=2
+[2026-06-01 10:47:23] [INFO    ] Heartbeat #2 | Alerts raised: 4
+[2026-06-01 10:47:23] [CRITICAL] Door open while moving
+[2026-06-01 10:47:23] [INFO    ] Snapshot | Speed=40.1km/h | Temp=96.0C | Volt=12.2V | PSI=23.7 | Door=OPEN | Belt=LOCKED | Alerts=3
+[2026-06-01 10:47:24] [INFO    ] Snapshot | Speed=46.3km/h | Temp=95.4C | Volt=12.2V | PSI=22.8 | Door=OPEN | Belt=LOCKED | Alerts=3
+[2026-06-01 10:47:25] [ALERT] Seatbelt unlocked while moving
+[2026-06-01 10:47:25] [INFO    ] Snapshot | Speed=51.5km/h | Temp=99.2C | Volt=11.9V | PSI=22.4 | Door=OPEN | Belt=UNLOCKED | Alerts=4
+[2026-06-01 10:47:26] [INFO    ] Snapshot | Speed=58.1km/h | Temp=92.6C | Volt=11.7V | PSI=21.7 | Door=CLOSED | Belt=UNLOCKED | Alerts=2
+[2026-06-01 10:47:27] [INFO    ] Snapshot | Speed=47.7km/h | Temp=86.2C | Volt=11.6V | PSI=20.1 | Door=CLOSED | Belt=UNLOCKED | Alerts=2
+[2026-06-01 10:47:28] [INFO    ] Heartbeat #3 | Alerts raised: 6
+[2026-06-01 10:47:28] [INFO    ] Snapshot | Speed=49.9km/h | Temp=93.1C | Volt=11.5V | PSI=18.7 | Door=CLOSED | Belt=UNLOCKED | Alerts=2
+[2026-06-01 10:47:33] [INFO    ] Heartbeat #4 | Alerts raised: 6
+[2026-06-01 10:47:33] [INFO    ] Performance report generated.
+[2026-06-01 10:47:33] [INFO    ] Clean shutdown.
+======== SESSION END:   2026-06-01 10:47:33 ========
+
+
+======== SESSION START: 2026-06-01 14:48:59 ========
+[2026-06-01 14:48:59] [INFO    ] Simulation started. 6 sensors online.
+[2026-06-01 14:48:59] [INFO    ] Active profile: Default  Mode: NORMAL
+[2026-06-01 14:48:59] [INFO    ] Snapshot | Speed=72.0km/h | Temp=85.0C | Volt=12.5V | PSI=30.0 | Door=CLOSED | Belt=LOCKED | Alerts=0
+[2026-06-01 14:49:00] [INFO    ] Snapshot | Speed=60.5km/h | Temp=87.1C | Volt=12.5V | PSI=28.8 | Door=CLOSED | Belt=LOCKED | Alerts=0
+[2026-06-01 14:49:01] [INFO    ] Snapshot | Speed=58.1km/h | Temp=91.9C | Volt=12.3V | PSI=28.9 | Door=CLOSED | Belt=LOCKED | Alerts=0
+[2026-06-01 14:49:02] [INFO    ] Snapshot | Speed=57.3km/h | Temp=94.9C | Volt=11.8V | PSI=28.2 | Door=CLOSED | Belt=LOCKED | Alerts=0
+[2026-06-01 14:49:03] [ALERT] High engine temp: 96.5C
+[2026-06-01 14:49:03] [INFO    ] Snapshot | Speed=45.7km/h | Temp=96.5C | Volt=12.0V | PSI=28.6 | Door=CLOSED | Belt=LOCKED | Alerts=1
+[2026-06-01 14:49:04] [INFO    ] Heartbeat #1 | Alerts raised: 1
+[2026-06-01 14:49:04] [INFO    ] Snapshot | Speed=58.0km/h | Temp=97.3C | Volt=12.0V | PSI=28.0 | Door=CLOSED | Belt=LOCKED | Alerts=1
+[2026-06-01 14:49:05] [INFO    ] Snapshot | Speed=68.5km/h | Temp=94.1C | Volt=11.8V | PSI=26.5 | Door=CLOSED | Belt=LOCKED | Alerts=0
+[2026-06-01 14:49:06] [INFO    ] Snapshot | Speed=74.8km/h | Temp=89.4C | Volt=11.9V | PSI=26.1 | Door=CLOSED | Belt=LOCKED | Alerts=0
+[2026-06-01 14:49:07] [ALERT] Low tire pressure: 25.0 PSI
+[2026-06-01 14:49:07] [INFO    ] Snapshot | Speed=81.9km/h | Temp=86.3C | Volt=12.0V | PSI=25.0 | Door=CLOSED | Belt=LOCKED | Alerts=1
+[2026-06-01 14:49:08] [INFO    ] Snapshot | Speed=87.3km/h | Temp=89.4C | Volt=11.9V | PSI=23.8 | Door=CLOSED | Belt=LOCKED | Alerts=1
+[2026-06-01 14:49:09] [INFO    ] Heartbeat #2 | Alerts raised: 2
+[2026-06-01 14:49:09] [INFO    ] Snapshot | Speed=84.6km/h | Temp=87.1C | Volt=11.7V | PSI=22.4 | Door=CLOSED | Belt=LOCKED | Alerts=1
+[2026-06-01 14:49:10] [CRITICAL] Door open while moving
+[2026-06-01 14:49:10] [INFO    ] Snapshot | Speed=96.9km/h | Temp=88.4C | Volt=11.6V | PSI=21.2 | Door=OPEN | Belt=LOCKED | Alerts=2
+[2026-06-01 14:49:11] [ALERT] Seatbelt unlocked while moving
+[2026-06-01 14:49:11] [INFO    ] Snapshot | Speed=97.7km/h | Temp=81.1C | Volt=11.7V | PSI=19.4 | Door=OPEN | Belt=UNLOCKED | Alerts=3
+[2026-06-01 14:49:12] [INFO    ] Snapshot | Speed=100.6km/h | Temp=80.9C | Volt=11.2V | PSI=18.0 | Door=OPEN | Belt=UNLOCKED | Alerts=3
+[2026-06-01 14:49:13] [INFO    ] Snapshot | Speed=96.8km/h | Temp=89.0C | Volt=11.4V | PSI=18.0 | Door=OPEN | Belt=UNLOCKED | Alerts=3
+[2026-06-01 14:49:14] [INFO    ] Heartbeat #3 | Alerts raised: 4
+[2026-06-01 14:49:14] [INFO    ] Snapshot | Speed=85.6km/h | Temp=93.1C | Volt=11.2V | PSI=18.0 | Door=OPEN | Belt=LOCKED | Alerts=2
+[2026-06-01 14:49:15] [ALERT] High engine temp: 96.3C
+[2026-06-01 14:49:15] [INFO    ] Snapshot | Speed=81.1km/h | Temp=96.3C | Volt=10.9V | PSI=18.0 | Door=OPEN | Belt=LOCKED | Alerts=3
+[2026-06-01 14:49:16] [INFO    ] Snapshot | Speed=92.7km/h | Temp=90.3C | Volt=10.9V | PSI=18.0 | Door=CLOSED | Belt=LOCKED | Alerts=1
+[2026-06-01 14:49:17] [INFO    ] Snapshot | Speed=89.2km/h | Temp=86.9C | Volt=10.9V | PSI=18.0 | Door=CLOSED | Belt=LOCKED | Alerts=1
+[2026-06-01 14:49:18] [INFO    ] Snapshot | Speed=90.2km/h | Temp=85.7C | Volt=11.2V | PSI=18.0 | Door=CLOSED | Belt=LOCKED | Alerts=1
+[2026-06-01 14:49:19] [INFO    ] Heartbeat #4 | Alerts raised: 5
+[2026-06-01 14:49:19] [INFO    ] Snapshot | Speed=87.8km/h | Temp=81.2C | Volt=11.1V | PSI=18.0 | Door=CLOSED | Belt=LOCKED | Alerts=1
+[2026-06-01 14:49:20] [CRITICAL] Door open while moving
+[2026-06-01 14:49:20] [INFO    ] Snapshot | Speed=93.8km/h | Temp=85.0C | Volt=10.8V | PSI=18.1 | Door=OPEN | Belt=LOCKED | Alerts=2
+[2026-06-01 14:49:21] [INFO    ] Snapshot | Speed=100.7km/h | Temp=82.2C | Volt=11.0V | PSI=18.0 | Door=OPEN | Belt=LOCKED | Alerts=2
+[2026-06-01 14:49:22] [INFO    ] Snapshot | Speed=111.7km/h | Temp=90.5C | Volt=11.2V | PSI=18.0 | Door=OPEN | Belt=LOCKED | Alerts=2
+[2026-06-01 14:49:24] [INFO    ] Heartbeat #5 | Alerts raised: 6
+[2026-06-01 14:49:24] [INFO    ] Critical in history: 2
+[2026-06-01 14:49:24] [INFO    ] Performance report generated.
+[2026-06-01 14:49:24] [INFO    ] Clean shutdown.
+======== SESSION END:   2026-06-01 14:49:24 ========
+
+
+======== SESSION START: 2026-06-01 14:57:47 ========
+[2026-06-01 14:57:47] [INFO    ] Simulation started. 12 sensors online.
+[2026-06-01 14:57:47] [INFO    ] Active profile: Default  Mode: NORMAL
+[2026-06-01 14:57:47] [INFO    ] Snapshot | Speed=77.1km/h | Temp=84.9C | Volt=12.7V | PSI=29.7 | Door=CLOSED | Belt=LOCKED | Alerts=0
+[2026-06-01 14:57:48] [INFO    ] Snapshot | Speed=66.9km/h | Temp=87.5C | Volt=12.4V | PSI=28.7 | Door=CLOSED | Belt=LOCKED | Alerts=0
+[2026-06-01 14:57:49] [INFO    ] Snapshot | Speed=71.0km/h | Temp=84.1C | Volt=12.4V | PSI=28.4 | Door=CLOSED | Belt=LOCKED | Alerts=0
+[2026-06-01 14:57:50] [INFO    ] Snapshot | Speed=70.0km/h | Temp=81.4C | Volt=12.1V | PSI=27.0 | Door=CLOSED | Belt=LOCKED | Alerts=0
+[2026-06-01 14:57:51] [INFO    ] Snapshot | Speed=61.9km/h | Temp=73.2C | Volt=12.6V | PSI=26.7 | Door=CLOSED | Belt=LOCKED | Alerts=0
+[2026-06-01 14:57:52] [INFO    ] Heartbeat #1 | Alerts raised: 6
+[2026-06-01 14:57:52] [CRITICAL] Door open while moving
+[2026-06-01 14:57:52] [INFO    ] Snapshot | Speed=62.1km/h | Temp=67.0C | Volt=12.7V | PSI=26.8 | Door=OPEN | Belt=LOCKED | Alerts=1
+[2026-06-01 14:57:53] [ALERT] Low tire pressure: 25.0 PSI
+[2026-06-01 14:57:53] [INFO    ] Snapshot | Speed=73.3km/h | Temp=67.4C | Volt=12.2V | PSI=25.0 | Door=OPEN | Belt=LOCKED | Alerts=2
+[2026-06-01 14:57:54] [INFO    ] Snapshot | Speed=83.7km/h | Temp=65.8C | Volt=12.1V | PSI=24.2 | Door=CLOSED | Belt=LOCKED | Alerts=1
+[2026-06-01 14:57:57] [INFO    ] Heartbeat #2 | Alerts raised: 8
+[2026-06-01 14:57:57] [INFO    ] Performance report generated.
+[2026-06-01 14:57:57] [INFO    ] Clean shutdown.
+======== SESSION END:   2026-06-01 14:57:57 ========
+
+
+======== SESSION START: 2026-06-01 19:34:58 ========
+[2026-06-01 19:34:58] [INFO    ] Simulation started. 6 sensors online.
+[2026-06-01 19:34:58] [INFO    ] Active profile: Default  Mode: NORMAL
+[2026-06-01 19:34:58] [INFO    ] Snapshot | Speed=72.0km/h | Temp=85.0C | Volt=12.5V | PSI=30.0 | Door=CLOSED | Belt=LOCKED | Alerts=0
+[2026-06-01 19:34:59] [INFO    ] Snapshot | Speed=67.5km/h | Temp=87.4C | Volt=12.1V | PSI=28.5 | Door=CLOSED | Belt=LOCKED | Alerts=0
+[2026-06-01 19:35:00] [INFO    ] Snapshot | Speed=61.1km/h | Temp=89.3C | Volt=12.4V | PSI=28.9 | Door=CLOSED | Belt=LOCKED | Alerts=0
+[2026-06-01 19:35:01] [INFO    ] Snapshot | Speed=58.2km/h | Temp=88.5C | Volt=12.1V | PSI=26.9 | Door=CLOSED | Belt=LOCKED | Alerts=0
+[2026-06-01 19:35:02] [INFO    ] Snapshot | Speed=62.0km/h | Temp=79.9C | Volt=11.8V | PSI=25.2 | Door=CLOSED | Belt=LOCKED | Alerts=0
+[2026-06-01 19:35:03] [INFO    ] Heartbeat #1 | Alerts raised: 0
+[2026-06-01 19:35:03] [INFO    ] Snapshot | Speed=50.0km/h | Temp=84.5C | Volt=11.6V | PSI=25.2 | Door=CLOSED | Belt=LOCKED | Alerts=0
+[2026-06-01 19:35:04] [ALERT] Low tire pressure: 22.8 PSI
+[2026-06-01 19:35:04] [INFO    ] Snapshot | Speed=50.2km/h | Temp=83.5C | Volt=11.5V | PSI=22.8 | Door=CLOSED | Belt=LOCKED | Alerts=1
+[2026-06-01 19:35:05] [CRITICAL] Door open while moving
+[2026-06-01 19:35:05] [INFO    ] Snapshot | Speed=35.9km/h | Temp=80.0C | Volt=11.5V | PSI=23.5 | Door=OPEN | Belt=LOCKED | Alerts=2
+[2026-06-01 19:35:06] [ALERT] Seatbelt unlocked while moving
+[2026-06-01 19:35:06] [INFO    ] Snapshot | Speed=39.4km/h | Temp=76.3C | Volt=11.3V | PSI=22.4 | Door=OPEN | Belt=UNLOCKED | Alerts=3
+[2026-06-01 19:35:07] [INFO    ] Snapshot | Speed=38.4km/h | Temp=75.1C | Volt=11.1V | PSI=19.6 | Door=OPEN | Belt=UNLOCKED | Alerts=3
+[2026-06-01 19:35:08] [INFO    ] Heartbeat #2 | Alerts raised: 3
+[2026-06-01 19:35:08] [INFO    ] Snapshot | Speed=35.6km/h | Temp=78.3C | Volt=11.4V | PSI=19.9 | Door=CLOSED | Belt=UNLOCKED | Alerts=2
+[2026-06-01 19:35:13] [INFO    ] Heartbeat #3 | Alerts raised: 3
+[2026-06-01 19:35:13] [INFO    ] Performance report generated.
+[2026-06-01 19:35:13] [INFO    ] Clean shutdown.
+======== SESSION END:   2026-06-01 19:35:13 ========
+
+
+======== SESSION START: 2026-06-01 22:56:41 ========
+[2026-06-01 22:56:41] [INFO    ] Simulation started. 6 sensors online.
+[2026-06-01 22:56:41] [INFO    ] Active profile: Default  Mode: NORMAL
+[2026-06-01 22:56:41] [INFO    ] Snapshot | Speed=72.0km/h | Temp=85.0C | Volt=12.5V | PSI=30.0 | Door=CLOSED | Belt=LOCKED | Alerts=0
+[2026-06-01 22:56:42] [INFO    ] Snapshot | Speed=73.1km/h | Temp=89.0C | Volt=12.5V | PSI=28.7 | Door=CLOSED | Belt=LOCKED | Alerts=0
+[2026-06-01 22:56:43] [INFO    ] Snapshot | Speed=58.7km/h | Temp=91.7C | Volt=12.4V | PSI=27.4 | Door=CLOSED | Belt=LOCKED | Alerts=0
+[2026-06-01 22:56:44] [ALERT] High engine temp: 97.3C
+[2026-06-01 22:56:44] [INFO    ] Snapshot | Speed=54.3km/h | Temp=97.3C | Volt=11.9V | PSI=25.8 | Door=CLOSED | Belt=LOCKED | Alerts=1
+[2026-06-01 22:56:46] [INFO    ] Heartbeat #1 | Alerts raised: 1
+[2026-06-01 22:56:46] [INFO    ] Performance report generated.
+[2026-06-01 22:56:46] [INFO    ] Clean shutdown.
+======== SESSION END:   2026-06-01 22:56:46 ========
+

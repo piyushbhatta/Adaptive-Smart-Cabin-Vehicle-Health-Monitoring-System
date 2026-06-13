@@ -1,0 +1,26 @@
+
+======== SESSION START: 2026-05-29 15:54:04 ========
+[2026-05-29 15:54:51] [ALERT] High engine temp: 96.0C
+[2026-05-29 15:54:51] [CRITICAL] Low battery: 9.00V
+[2026-05-29 15:54:51] [ALERT] Low tire pressure: 20.0 PSI
+[2026-05-29 15:54:51] [CRITICAL] Overspeed: 130.0 km/h
+======== SESSION END:   2026-05-29 15:54:57 ========
+
+
+======== SESSION START: 2026-05-29 15:56:03 ========
+[2026-05-29 15:56:35] [CRITICAL] Low battery: 9.00V
+[2026-05-29 15:56:35] [ALERT] Door open while moving
+======== SESSION END:   2026-05-29 15:56:50 ========
+
+
+======== SESSION START: 2026-05-29 16:09:15 ========
+[2026-05-29 16:09:43] [CRITICAL] Low battery: 9.00V
+[2026-05-29 16:09:43] [ALERT] Low tire pressure: 23.8 PSI
+[2026-05-29 16:09:43] [ALERT] Door open while moving
+[2026-05-29 16:09:43] [ALERT] Seatbelt unlocked while moving
+======== SESSION END:   2026-05-29 16:09:47 ========
+
+
+======== SESSION START: 2026-06-01 15:19:31 ========
+
+======== SESSION START: 2026-06-01 15:29:54 ========

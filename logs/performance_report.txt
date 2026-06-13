@@ -1,0 +1,56 @@
+SMART VEHICLE PERFORMANCE REPORT
+Generated : 2026-06-01 22:56:46
+================================================================================
+
+SECTION 1: TIMING METRICS  (wall-clock, milliseconds)
+--------------------------------------------------------------------------------
+MODULE                           MIN(ms)     MAX(ms)     AVG(ms)     COUNT
+--------------------------------------------------------------------------------
+Battery Sensor                     0.001       0.006       0.003         8
+Dashboard Thread                   0.218       0.420       0.316         4
+Door Sensor                        0.000       0.002       0.001         8
+Engine Sensor                      0.001       0.004       0.002         8
+Logger Thread                      0.076       0.076       0.076         1
+Seatbelt Sensor                    0.000       0.001       0.001         8
+Sensor Thread                      0.006       0.447       0.123         8
+Speed Sensor                       0.001       0.002       0.001         8
+Statistics Module                  0.000       0.001       0.001         5
+Tire Sensor                        0.001       0.002       0.001         8
+
+
+SECTION 2: PER-TEST-CASE MODULE PERFORMANCE
+--------------------------------------------------------------------------------
+  Measurement: TSC delta per sensor module per JSON test-case invocation.
+  Columns     : Min / Max / Avg CPU cycles across all runs of that module.
+--------------------------------------------------------------------------------
+  (no per-module per-test-case data — JSON mode was not exercised)
+
+
+
+SECTION 3: MODULE SIZE REPORT  (source-file bytes)
+--------------------------------------------------------------------------------
+MODULE                    SRC (.cpp)    INC (.hpp)       TOTAL
+--------------------------------------------------------------------------------
+AdaptiveAlertPrioritizer        4.7 KB        6.1 KB     10.9 KB
+Alert                         4.0 KB       13.3 KB     17.3 KB
+AlertEvaluator                3.0 KB         282 B      3.3 KB
+CanBus                       21.0 KB       13.0 KB     34.0 KB
+CrashSafeRecorder            36.9 KB       21.5 KB     58.4 KB
+Dashboard                    13.2 KB        9.8 KB     23.0 KB
+DriverProfile                18.3 KB        9.6 KB     27.9 KB
+DtcSimulator                 24.2 KB       13.6 KB     37.7 KB
+EcuHealthMonitor             12.2 KB        8.1 KB     20.3 KB
+Logger                        3.0 KB        7.6 KB     10.6 KB
+OtaUpdateSimulator           44.0 KB       17.2 KB     61.2 KB
+Performance                  29.2 KB       17.8 KB     47.0 KB
+PerformanceGraphStats        11.0 KB        5.4 KB     16.5 KB
+Sensor                        7.5 KB       16.0 KB     23.5 KB
+ServiceOrientedComm          29.2 KB       22.3 KB     51.5 KB
+Statistics                    5.8 KB        4.6 KB     10.4 KB
+main                         66.1 KB           0 B     66.1 KB
+testMain                      1.6 KB           0 B      1.6 KB
+--------------------------------------------------------------------------------
+GRAND TOTAL                                           521.2 KB
+
+================================================================================
+END OF REPORT

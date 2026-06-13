@@ -1,0 +1,15 @@
+# Smart Vehicle Monitor – Runtime Configuration
+# These values are read at startup (future extension)
+
+engine_temp_critical = 110
+engine_temp_high     = 95
+battery_voltage_low  = 10.0
+tire_pressure_low    = 25.0
+overspeed_threshold  = 120
+door_speed_limit     = 10.0
+
+# Simulation update interval (ms)
+sensor_update_ms     = 800
+monitor_update_ms    = 900
+dashboard_update_s   = 3
+logger_heartbeat_s   = 5

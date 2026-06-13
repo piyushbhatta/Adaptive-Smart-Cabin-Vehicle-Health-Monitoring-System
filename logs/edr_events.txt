@@ -1,0 +1,1327 @@
+
+=== EDR FLUSH @ 2026-06-01 10:47:23  seq=12  records=12 ===
+[2026-06-01 10:46:51] #00001 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 10:47:13] #00002 NORMAL   spd=75.2km/h tmp=87.2°C vlt=12.4V psi=29.3
+[2026-06-01 10:47:14] #00003 NORMAL   spd=59.8km/h tmp=89.6°C vlt=12.7V psi=28.2
+[2026-06-01 10:47:15] #00004 NORMAL   spd=62.7km/h tmp=92.2°C vlt=12.1V psi=26.7
+[2026-06-01 10:47:16] #00005 NORMAL   spd=60.6km/h tmp=87.4°C vlt=12.6V psi=25.4
+[2026-06-01 10:47:17] #00006 WARNING  spd=72.0km/h tmp=87.5°C vlt=12.6V psi=26.2 [Active alert(s) present]
+[2026-06-01 10:47:18] #00007 WARNING  spd=75.7km/h tmp=86.9°C vlt=12.8V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:19] #00008 WARNING  spd=71.6km/h tmp=89.6°C vlt=12.5V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:20] #00009 WARNING  spd=54.5km/h tmp=97.1°C vlt=12.4V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:21] #00010 WARNING  spd=38.0km/h tmp=94.9°C vlt=12.6V psi=23.4 [Active alert(s) present]
+[2026-06-01 10:47:22] #00011 WARNING  spd=34.4km/h tmp=96.5°C vlt=12.6V psi=23.7 [Active alert(s) present]
+[2026-06-01 10:47:23] #00012 CRASH    spd=40.1km/h tmp=96.0°C vlt=12.2V psi=23.7 [Critical alert: DOOR_OPEN_WARNING]
+
+=== EDR FLUSH @ 2026-06-01 10:47:24  seq=13  records=13 ===
+[2026-06-01 10:46:51] #00001 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 10:47:13] #00002 NORMAL   spd=75.2km/h tmp=87.2°C vlt=12.4V psi=29.3
+[2026-06-01 10:47:14] #00003 NORMAL   spd=59.8km/h tmp=89.6°C vlt=12.7V psi=28.2
+[2026-06-01 10:47:15] #00004 NORMAL   spd=62.7km/h tmp=92.2°C vlt=12.1V psi=26.7
+[2026-06-01 10:47:16] #00005 NORMAL   spd=60.6km/h tmp=87.4°C vlt=12.6V psi=25.4
+[2026-06-01 10:47:17] #00006 WARNING  spd=72.0km/h tmp=87.5°C vlt=12.6V psi=26.2 [Active alert(s) present]
+[2026-06-01 10:47:18] #00007 WARNING  spd=75.7km/h tmp=86.9°C vlt=12.8V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:19] #00008 WARNING  spd=71.6km/h tmp=89.6°C vlt=12.5V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:20] #00009 WARNING  spd=54.5km/h tmp=97.1°C vlt=12.4V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:21] #00010 WARNING  spd=38.0km/h tmp=94.9°C vlt=12.6V psi=23.4 [Active alert(s) present]
+[2026-06-01 10:47:22] #00011 WARNING  spd=34.4km/h tmp=96.5°C vlt=12.6V psi=23.7 [Active alert(s) present]
+[2026-06-01 10:47:23] #00012 CRASH    spd=40.1km/h tmp=96.0°C vlt=12.2V psi=23.7 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:24] #00013 CRASH    spd=46.3km/h tmp=95.4°C vlt=12.2V psi=22.8 [Critical alert: DOOR_OPEN_WARNING]
+
+=== EDR FLUSH @ 2026-06-01 10:47:25  seq=14  records=14 ===
+[2026-06-01 10:46:51] #00001 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 10:47:13] #00002 NORMAL   spd=75.2km/h tmp=87.2°C vlt=12.4V psi=29.3
+[2026-06-01 10:47:14] #00003 NORMAL   spd=59.8km/h tmp=89.6°C vlt=12.7V psi=28.2
+[2026-06-01 10:47:15] #00004 NORMAL   spd=62.7km/h tmp=92.2°C vlt=12.1V psi=26.7
+[2026-06-01 10:47:16] #00005 NORMAL   spd=60.6km/h tmp=87.4°C vlt=12.6V psi=25.4
+[2026-06-01 10:47:17] #00006 WARNING  spd=72.0km/h tmp=87.5°C vlt=12.6V psi=26.2 [Active alert(s) present]
+[2026-06-01 10:47:18] #00007 WARNING  spd=75.7km/h tmp=86.9°C vlt=12.8V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:19] #00008 WARNING  spd=71.6km/h tmp=89.6°C vlt=12.5V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:20] #00009 WARNING  spd=54.5km/h tmp=97.1°C vlt=12.4V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:21] #00010 WARNING  spd=38.0km/h tmp=94.9°C vlt=12.6V psi=23.4 [Active alert(s) present]
+[2026-06-01 10:47:22] #00011 WARNING  spd=34.4km/h tmp=96.5°C vlt=12.6V psi=23.7 [Active alert(s) present]
+[2026-06-01 10:47:23] #00012 CRASH    spd=40.1km/h tmp=96.0°C vlt=12.2V psi=23.7 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:24] #00013 CRASH    spd=46.3km/h tmp=95.4°C vlt=12.2V psi=22.8 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:25] #00014 CRASH    spd=51.5km/h tmp=99.2°C vlt=11.9V psi=22.4 [Critical alert: DOOR_OPEN_WARNING]
+
+=== EDR FLUSH @ 2026-06-01 11:21:07  seq=18  records=18 ===
+[2026-06-01 10:46:51] #00001 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 10:47:13] #00002 NORMAL   spd=75.2km/h tmp=87.2°C vlt=12.4V psi=29.3
+[2026-06-01 10:47:14] #00003 NORMAL   spd=59.8km/h tmp=89.6°C vlt=12.7V psi=28.2
+[2026-06-01 10:47:15] #00004 NORMAL   spd=62.7km/h tmp=92.2°C vlt=12.1V psi=26.7
+[2026-06-01 10:47:16] #00005 NORMAL   spd=60.6km/h tmp=87.4°C vlt=12.6V psi=25.4
+[2026-06-01 10:47:17] #00006 WARNING  spd=72.0km/h tmp=87.5°C vlt=12.6V psi=26.2 [Active alert(s) present]
+[2026-06-01 10:47:18] #00007 WARNING  spd=75.7km/h tmp=86.9°C vlt=12.8V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:19] #00008 WARNING  spd=71.6km/h tmp=89.6°C vlt=12.5V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:20] #00009 WARNING  spd=54.5km/h tmp=97.1°C vlt=12.4V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:21] #00010 WARNING  spd=38.0km/h tmp=94.9°C vlt=12.6V psi=23.4 [Active alert(s) present]
+[2026-06-01 10:47:22] #00011 WARNING  spd=34.4km/h tmp=96.5°C vlt=12.6V psi=23.7 [Active alert(s) present]
+[2026-06-01 10:47:23] #00012 CRASH    spd=40.1km/h tmp=96.0°C vlt=12.2V psi=23.7 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:24] #00013 CRASH    spd=46.3km/h tmp=95.4°C vlt=12.2V psi=22.8 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:25] #00014 CRASH    spd=51.5km/h tmp=99.2°C vlt=11.9V psi=22.4 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:26] #00015 WARNING  spd=58.1km/h tmp=92.6°C vlt=11.7V psi=21.7 [Active alert(s) present]
+[2026-06-01 10:47:27] #00016 WARNING  spd=47.7km/h tmp=86.2°C vlt=11.6V psi=20.1 [Active alert(s) present]
+[2026-06-01 10:47:28] #00017 WARNING  spd=49.9km/h tmp=93.1°C vlt=11.5V psi=18.7 [Active alert(s) present]
+[2026-06-01 11:21:07] #00018 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+
+=== EDR FLUSH @ 2026-06-01 12:05:05  seq=21  records=20 ===
+[2026-06-01 10:46:51] #00001 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 10:47:13] #00002 NORMAL   spd=75.2km/h tmp=87.2°C vlt=12.4V psi=29.3
+[2026-06-01 10:47:14] #00003 NORMAL   spd=59.8km/h tmp=89.6°C vlt=12.7V psi=28.2
+[2026-06-01 10:47:15] #00004 NORMAL   spd=62.7km/h tmp=92.2°C vlt=12.1V psi=26.7
+[2026-06-01 10:47:16] #00005 NORMAL   spd=60.6km/h tmp=87.4°C vlt=12.6V psi=25.4
+[2026-06-01 10:47:17] #00006 WARNING  spd=72.0km/h tmp=87.5°C vlt=12.6V psi=26.2 [Active alert(s) present]
+[2026-06-01 10:47:18] #00007 WARNING  spd=75.7km/h tmp=86.9°C vlt=12.8V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:19] #00008 WARNING  spd=71.6km/h tmp=89.6°C vlt=12.5V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:20] #00009 WARNING  spd=54.5km/h tmp=97.1°C vlt=12.4V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:21] #00010 WARNING  spd=38.0km/h tmp=94.9°C vlt=12.6V psi=23.4 [Active alert(s) present]
+[2026-06-01 10:47:22] #00011 WARNING  spd=34.4km/h tmp=96.5°C vlt=12.6V psi=23.7 [Active alert(s) present]
+[2026-06-01 10:47:23] #00012 CRASH    spd=40.1km/h tmp=96.0°C vlt=12.2V psi=23.7 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:24] #00013 CRASH    spd=46.3km/h tmp=95.4°C vlt=12.2V psi=22.8 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:25] #00014 CRASH    spd=51.5km/h tmp=99.2°C vlt=11.9V psi=22.4 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:26] #00015 WARNING  spd=58.1km/h tmp=92.6°C vlt=11.7V psi=21.7 [Active alert(s) present]
+[2026-06-01 10:47:27] #00016 WARNING  spd=47.7km/h tmp=86.2°C vlt=11.6V psi=20.1 [Active alert(s) present]
+[2026-06-01 10:47:28] #00017 WARNING  spd=49.9km/h tmp=93.1°C vlt=11.5V psi=18.7 [Active alert(s) present]
+[2026-06-01 11:21:07] #00018 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:03:46] #00020 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:05:05] #00021 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+
+=== EDR FLUSH @ 2026-06-01 12:05:56  seq=24  records=22 ===
+[2026-06-01 10:46:51] #00001 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 10:47:13] #00002 NORMAL   spd=75.2km/h tmp=87.2°C vlt=12.4V psi=29.3
+[2026-06-01 10:47:14] #00003 NORMAL   spd=59.8km/h tmp=89.6°C vlt=12.7V psi=28.2
+[2026-06-01 10:47:15] #00004 NORMAL   spd=62.7km/h tmp=92.2°C vlt=12.1V psi=26.7
+[2026-06-01 10:47:16] #00005 NORMAL   spd=60.6km/h tmp=87.4°C vlt=12.6V psi=25.4
+[2026-06-01 10:47:17] #00006 WARNING  spd=72.0km/h tmp=87.5°C vlt=12.6V psi=26.2 [Active alert(s) present]
+[2026-06-01 10:47:18] #00007 WARNING  spd=75.7km/h tmp=86.9°C vlt=12.8V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:19] #00008 WARNING  spd=71.6km/h tmp=89.6°C vlt=12.5V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:20] #00009 WARNING  spd=54.5km/h tmp=97.1°C vlt=12.4V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:21] #00010 WARNING  spd=38.0km/h tmp=94.9°C vlt=12.6V psi=23.4 [Active alert(s) present]
+[2026-06-01 10:47:22] #00011 WARNING  spd=34.4km/h tmp=96.5°C vlt=12.6V psi=23.7 [Active alert(s) present]
+[2026-06-01 10:47:23] #00012 CRASH    spd=40.1km/h tmp=96.0°C vlt=12.2V psi=23.7 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:24] #00013 CRASH    spd=46.3km/h tmp=95.4°C vlt=12.2V psi=22.8 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:25] #00014 CRASH    spd=51.5km/h tmp=99.2°C vlt=11.9V psi=22.4 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:26] #00015 WARNING  spd=58.1km/h tmp=92.6°C vlt=11.7V psi=21.7 [Active alert(s) present]
+[2026-06-01 10:47:27] #00016 WARNING  spd=47.7km/h tmp=86.2°C vlt=11.6V psi=20.1 [Active alert(s) present]
+[2026-06-01 10:47:28] #00017 WARNING  spd=49.9km/h tmp=93.1°C vlt=11.5V psi=18.7 [Active alert(s) present]
+[2026-06-01 11:21:07] #00018 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:03:46] #00020 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:05:05] #00021 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:05:30] #00023 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:05:56] #00024 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+
+=== EDR FLUSH @ 2026-06-01 12:40:50  seq=27  records=24 ===
+[2026-06-01 10:46:51] #00001 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 10:47:13] #00002 NORMAL   spd=75.2km/h tmp=87.2°C vlt=12.4V psi=29.3
+[2026-06-01 10:47:14] #00003 NORMAL   spd=59.8km/h tmp=89.6°C vlt=12.7V psi=28.2
+[2026-06-01 10:47:15] #00004 NORMAL   spd=62.7km/h tmp=92.2°C vlt=12.1V psi=26.7
+[2026-06-01 10:47:16] #00005 NORMAL   spd=60.6km/h tmp=87.4°C vlt=12.6V psi=25.4
+[2026-06-01 10:47:17] #00006 WARNING  spd=72.0km/h tmp=87.5°C vlt=12.6V psi=26.2 [Active alert(s) present]
+[2026-06-01 10:47:18] #00007 WARNING  spd=75.7km/h tmp=86.9°C vlt=12.8V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:19] #00008 WARNING  spd=71.6km/h tmp=89.6°C vlt=12.5V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:20] #00009 WARNING  spd=54.5km/h tmp=97.1°C vlt=12.4V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:21] #00010 WARNING  spd=38.0km/h tmp=94.9°C vlt=12.6V psi=23.4 [Active alert(s) present]
+[2026-06-01 10:47:22] #00011 WARNING  spd=34.4km/h tmp=96.5°C vlt=12.6V psi=23.7 [Active alert(s) present]
+[2026-06-01 10:47:23] #00012 CRASH    spd=40.1km/h tmp=96.0°C vlt=12.2V psi=23.7 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:24] #00013 CRASH    spd=46.3km/h tmp=95.4°C vlt=12.2V psi=22.8 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:25] #00014 CRASH    spd=51.5km/h tmp=99.2°C vlt=11.9V psi=22.4 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:26] #00015 WARNING  spd=58.1km/h tmp=92.6°C vlt=11.7V psi=21.7 [Active alert(s) present]
+[2026-06-01 10:47:27] #00016 WARNING  spd=47.7km/h tmp=86.2°C vlt=11.6V psi=20.1 [Active alert(s) present]
+[2026-06-01 10:47:28] #00017 WARNING  spd=49.9km/h tmp=93.1°C vlt=11.5V psi=18.7 [Active alert(s) present]
+[2026-06-01 11:21:07] #00018 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:03:46] #00020 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:05:05] #00021 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:05:30] #00023 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:05:56] #00024 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:06:20] #00026 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:40:50] #00027 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+
+=== EDR FLUSH @ 2026-06-01 12:41:53  seq=30  records=26 ===
+[2026-06-01 10:46:51] #00001 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 10:47:13] #00002 NORMAL   spd=75.2km/h tmp=87.2°C vlt=12.4V psi=29.3
+[2026-06-01 10:47:14] #00003 NORMAL   spd=59.8km/h tmp=89.6°C vlt=12.7V psi=28.2
+[2026-06-01 10:47:15] #00004 NORMAL   spd=62.7km/h tmp=92.2°C vlt=12.1V psi=26.7
+[2026-06-01 10:47:16] #00005 NORMAL   spd=60.6km/h tmp=87.4°C vlt=12.6V psi=25.4
+[2026-06-01 10:47:17] #00006 WARNING  spd=72.0km/h tmp=87.5°C vlt=12.6V psi=26.2 [Active alert(s) present]
+[2026-06-01 10:47:18] #00007 WARNING  spd=75.7km/h tmp=86.9°C vlt=12.8V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:19] #00008 WARNING  spd=71.6km/h tmp=89.6°C vlt=12.5V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:20] #00009 WARNING  spd=54.5km/h tmp=97.1°C vlt=12.4V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:21] #00010 WARNING  spd=38.0km/h tmp=94.9°C vlt=12.6V psi=23.4 [Active alert(s) present]
+[2026-06-01 10:47:22] #00011 WARNING  spd=34.4km/h tmp=96.5°C vlt=12.6V psi=23.7 [Active alert(s) present]
+[2026-06-01 10:47:23] #00012 CRASH    spd=40.1km/h tmp=96.0°C vlt=12.2V psi=23.7 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:24] #00013 CRASH    spd=46.3km/h tmp=95.4°C vlt=12.2V psi=22.8 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:25] #00014 CRASH    spd=51.5km/h tmp=99.2°C vlt=11.9V psi=22.4 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:26] #00015 WARNING  spd=58.1km/h tmp=92.6°C vlt=11.7V psi=21.7 [Active alert(s) present]
+[2026-06-01 10:47:27] #00016 WARNING  spd=47.7km/h tmp=86.2°C vlt=11.6V psi=20.1 [Active alert(s) present]
+[2026-06-01 10:47:28] #00017 WARNING  spd=49.9km/h tmp=93.1°C vlt=11.5V psi=18.7 [Active alert(s) present]
+[2026-06-01 11:21:07] #00018 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:03:46] #00020 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:05:05] #00021 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:05:30] #00023 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:05:56] #00024 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:06:20] #00026 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:40:50] #00027 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:41:34] #00029 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:41:53] #00030 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+
+=== EDR FLUSH @ 2026-06-01 13:10:20  seq=33  records=28 ===
+[2026-06-01 10:46:51] #00001 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 10:47:13] #00002 NORMAL   spd=75.2km/h tmp=87.2°C vlt=12.4V psi=29.3
+[2026-06-01 10:47:14] #00003 NORMAL   spd=59.8km/h tmp=89.6°C vlt=12.7V psi=28.2
+[2026-06-01 10:47:15] #00004 NORMAL   spd=62.7km/h tmp=92.2°C vlt=12.1V psi=26.7
+[2026-06-01 10:47:16] #00005 NORMAL   spd=60.6km/h tmp=87.4°C vlt=12.6V psi=25.4
+[2026-06-01 10:47:17] #00006 WARNING  spd=72.0km/h tmp=87.5°C vlt=12.6V psi=26.2 [Active alert(s) present]
+[2026-06-01 10:47:18] #00007 WARNING  spd=75.7km/h tmp=86.9°C vlt=12.8V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:19] #00008 WARNING  spd=71.6km/h tmp=89.6°C vlt=12.5V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:20] #00009 WARNING  spd=54.5km/h tmp=97.1°C vlt=12.4V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:21] #00010 WARNING  spd=38.0km/h tmp=94.9°C vlt=12.6V psi=23.4 [Active alert(s) present]
+[2026-06-01 10:47:22] #00011 WARNING  spd=34.4km/h tmp=96.5°C vlt=12.6V psi=23.7 [Active alert(s) present]
+[2026-06-01 10:47:23] #00012 CRASH    spd=40.1km/h tmp=96.0°C vlt=12.2V psi=23.7 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:24] #00013 CRASH    spd=46.3km/h tmp=95.4°C vlt=12.2V psi=22.8 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:25] #00014 CRASH    spd=51.5km/h tmp=99.2°C vlt=11.9V psi=22.4 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:26] #00015 WARNING  spd=58.1km/h tmp=92.6°C vlt=11.7V psi=21.7 [Active alert(s) present]
+[2026-06-01 10:47:27] #00016 WARNING  spd=47.7km/h tmp=86.2°C vlt=11.6V psi=20.1 [Active alert(s) present]
+[2026-06-01 10:47:28] #00017 WARNING  spd=49.9km/h tmp=93.1°C vlt=11.5V psi=18.7 [Active alert(s) present]
+[2026-06-01 11:21:07] #00018 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:03:46] #00020 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:05:05] #00021 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:05:30] #00023 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:05:56] #00024 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:06:20] #00026 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:40:50] #00027 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:41:34] #00029 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:41:53] #00030 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:42:22] #00032 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 13:10:20] #00033 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+
+=== EDR FLUSH @ 2026-06-01 14:48:12  seq=36  records=30 ===
+[2026-06-01 10:46:51] #00001 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 10:47:13] #00002 NORMAL   spd=75.2km/h tmp=87.2°C vlt=12.4V psi=29.3
+[2026-06-01 10:47:14] #00003 NORMAL   spd=59.8km/h tmp=89.6°C vlt=12.7V psi=28.2
+[2026-06-01 10:47:15] #00004 NORMAL   spd=62.7km/h tmp=92.2°C vlt=12.1V psi=26.7
+[2026-06-01 10:47:16] #00005 NORMAL   spd=60.6km/h tmp=87.4°C vlt=12.6V psi=25.4
+[2026-06-01 10:47:17] #00006 WARNING  spd=72.0km/h tmp=87.5°C vlt=12.6V psi=26.2 [Active alert(s) present]
+[2026-06-01 10:47:18] #00007 WARNING  spd=75.7km/h tmp=86.9°C vlt=12.8V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:19] #00008 WARNING  spd=71.6km/h tmp=89.6°C vlt=12.5V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:20] #00009 WARNING  spd=54.5km/h tmp=97.1°C vlt=12.4V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:21] #00010 WARNING  spd=38.0km/h tmp=94.9°C vlt=12.6V psi=23.4 [Active alert(s) present]
+[2026-06-01 10:47:22] #00011 WARNING  spd=34.4km/h tmp=96.5°C vlt=12.6V psi=23.7 [Active alert(s) present]
+[2026-06-01 10:47:23] #00012 CRASH    spd=40.1km/h tmp=96.0°C vlt=12.2V psi=23.7 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:24] #00013 CRASH    spd=46.3km/h tmp=95.4°C vlt=12.2V psi=22.8 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:25] #00014 CRASH    spd=51.5km/h tmp=99.2°C vlt=11.9V psi=22.4 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:26] #00015 WARNING  spd=58.1km/h tmp=92.6°C vlt=11.7V psi=21.7 [Active alert(s) present]
+[2026-06-01 10:47:27] #00016 WARNING  spd=47.7km/h tmp=86.2°C vlt=11.6V psi=20.1 [Active alert(s) present]
+[2026-06-01 10:47:28] #00017 WARNING  spd=49.9km/h tmp=93.1°C vlt=11.5V psi=18.7 [Active alert(s) present]
+[2026-06-01 11:21:07] #00018 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:03:46] #00020 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:05:05] #00021 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:05:30] #00023 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:05:56] #00024 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:06:20] #00026 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:40:50] #00027 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:41:34] #00029 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:41:53] #00030 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:42:22] #00032 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 13:10:20] #00033 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 13:10:45] #00035 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 14:48:12] #00036 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+
+=== EDR FLUSH @ 2026-06-01 14:49:10  seq=50  records=43 ===
+[2026-06-01 10:46:51] #00001 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 10:47:13] #00002 NORMAL   spd=75.2km/h tmp=87.2°C vlt=12.4V psi=29.3
+[2026-06-01 10:47:14] #00003 NORMAL   spd=59.8km/h tmp=89.6°C vlt=12.7V psi=28.2
+[2026-06-01 10:47:15] #00004 NORMAL   spd=62.7km/h tmp=92.2°C vlt=12.1V psi=26.7
+[2026-06-01 10:47:16] #00005 NORMAL   spd=60.6km/h tmp=87.4°C vlt=12.6V psi=25.4
+[2026-06-01 10:47:17] #00006 WARNING  spd=72.0km/h tmp=87.5°C vlt=12.6V psi=26.2 [Active alert(s) present]
+[2026-06-01 10:47:18] #00007 WARNING  spd=75.7km/h tmp=86.9°C vlt=12.8V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:19] #00008 WARNING  spd=71.6km/h tmp=89.6°C vlt=12.5V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:20] #00009 WARNING  spd=54.5km/h tmp=97.1°C vlt=12.4V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:21] #00010 WARNING  spd=38.0km/h tmp=94.9°C vlt=12.6V psi=23.4 [Active alert(s) present]
+[2026-06-01 10:47:22] #00011 WARNING  spd=34.4km/h tmp=96.5°C vlt=12.6V psi=23.7 [Active alert(s) present]
+[2026-06-01 10:47:23] #00012 CRASH    spd=40.1km/h tmp=96.0°C vlt=12.2V psi=23.7 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:24] #00013 CRASH    spd=46.3km/h tmp=95.4°C vlt=12.2V psi=22.8 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:25] #00014 CRASH    spd=51.5km/h tmp=99.2°C vlt=11.9V psi=22.4 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:26] #00015 WARNING  spd=58.1km/h tmp=92.6°C vlt=11.7V psi=21.7 [Active alert(s) present]
+[2026-06-01 10:47:27] #00016 WARNING  spd=47.7km/h tmp=86.2°C vlt=11.6V psi=20.1 [Active alert(s) present]
+[2026-06-01 10:47:28] #00017 WARNING  spd=49.9km/h tmp=93.1°C vlt=11.5V psi=18.7 [Active alert(s) present]
+[2026-06-01 11:21:07] #00018 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:03:46] #00020 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:05:05] #00021 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:05:30] #00023 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:05:56] #00024 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:06:20] #00026 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:40:50] #00027 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:41:34] #00029 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:41:53] #00030 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:42:22] #00032 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 13:10:20] #00033 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 13:10:45] #00035 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 14:48:12] #00036 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 14:48:45] #00038 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 14:48:59] #00039 NORMAL   spd=72.0km/h tmp=85.0°C vlt=12.5V psi=30.0
+[2026-06-01 14:49:00] #00040 NORMAL   spd=60.5km/h tmp=87.1°C vlt=12.5V psi=28.8
+[2026-06-01 14:49:01] #00041 NORMAL   spd=58.1km/h tmp=91.9°C vlt=12.3V psi=28.9
+[2026-06-01 14:49:02] #00042 NORMAL   spd=57.3km/h tmp=94.9°C vlt=11.8V psi=28.2
+[2026-06-01 14:49:03] #00043 WARNING  spd=45.7km/h tmp=96.5°C vlt=12.0V psi=28.6 [Active alert(s) present]
+[2026-06-01 14:49:04] #00044 WARNING  spd=58.0km/h tmp=97.3°C vlt=12.0V psi=28.0 [Active alert(s) present]
+[2026-06-01 14:49:05] #00045 NORMAL   spd=68.5km/h tmp=94.1°C vlt=11.8V psi=26.5
+[2026-06-01 14:49:06] #00046 NORMAL   spd=74.8km/h tmp=89.4°C vlt=11.9V psi=26.1
+[2026-06-01 14:49:07] #00047 WARNING  spd=81.9km/h tmp=86.3°C vlt=12.0V psi=25.0 [Active alert(s) present]
+[2026-06-01 14:49:08] #00048 WARNING  spd=87.3km/h tmp=89.4°C vlt=11.9V psi=23.8 [Active alert(s) present]
+[2026-06-01 14:49:09] #00049 WARNING  spd=84.6km/h tmp=87.1°C vlt=11.7V psi=22.4 [Active alert(s) present]
+[2026-06-01 14:49:10] #00050 CRASH    spd=96.9km/h tmp=88.4°C vlt=11.6V psi=21.2 [Critical alert: DOOR_OPEN_WARNING]
+
+=== EDR FLUSH @ 2026-06-01 14:49:11  seq=51  records=44 ===
+[2026-06-01 10:46:51] #00001 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 10:47:13] #00002 NORMAL   spd=75.2km/h tmp=87.2°C vlt=12.4V psi=29.3
+[2026-06-01 10:47:14] #00003 NORMAL   spd=59.8km/h tmp=89.6°C vlt=12.7V psi=28.2
+[2026-06-01 10:47:15] #00004 NORMAL   spd=62.7km/h tmp=92.2°C vlt=12.1V psi=26.7
+[2026-06-01 10:47:16] #00005 NORMAL   spd=60.6km/h tmp=87.4°C vlt=12.6V psi=25.4
+[2026-06-01 10:47:17] #00006 WARNING  spd=72.0km/h tmp=87.5°C vlt=12.6V psi=26.2 [Active alert(s) present]
+[2026-06-01 10:47:18] #00007 WARNING  spd=75.7km/h tmp=86.9°C vlt=12.8V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:19] #00008 WARNING  spd=71.6km/h tmp=89.6°C vlt=12.5V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:20] #00009 WARNING  spd=54.5km/h tmp=97.1°C vlt=12.4V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:21] #00010 WARNING  spd=38.0km/h tmp=94.9°C vlt=12.6V psi=23.4 [Active alert(s) present]
+[2026-06-01 10:47:22] #00011 WARNING  spd=34.4km/h tmp=96.5°C vlt=12.6V psi=23.7 [Active alert(s) present]
+[2026-06-01 10:47:23] #00012 CRASH    spd=40.1km/h tmp=96.0°C vlt=12.2V psi=23.7 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:24] #00013 CRASH    spd=46.3km/h tmp=95.4°C vlt=12.2V psi=22.8 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:25] #00014 CRASH    spd=51.5km/h tmp=99.2°C vlt=11.9V psi=22.4 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:26] #00015 WARNING  spd=58.1km/h tmp=92.6°C vlt=11.7V psi=21.7 [Active alert(s) present]
+[2026-06-01 10:47:27] #00016 WARNING  spd=47.7km/h tmp=86.2°C vlt=11.6V psi=20.1 [Active alert(s) present]
+[2026-06-01 10:47:28] #00017 WARNING  spd=49.9km/h tmp=93.1°C vlt=11.5V psi=18.7 [Active alert(s) present]
+[2026-06-01 11:21:07] #00018 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:03:46] #00020 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:05:05] #00021 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:05:30] #00023 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:05:56] #00024 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:06:20] #00026 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:40:50] #00027 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:41:34] #00029 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:41:53] #00030 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:42:22] #00032 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 13:10:20] #00033 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 13:10:45] #00035 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 14:48:12] #00036 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 14:48:45] #00038 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 14:48:59] #00039 NORMAL   spd=72.0km/h tmp=85.0°C vlt=12.5V psi=30.0
+[2026-06-01 14:49:00] #00040 NORMAL   spd=60.5km/h tmp=87.1°C vlt=12.5V psi=28.8
+[2026-06-01 14:49:01] #00041 NORMAL   spd=58.1km/h tmp=91.9°C vlt=12.3V psi=28.9
+[2026-06-01 14:49:02] #00042 NORMAL   spd=57.3km/h tmp=94.9°C vlt=11.8V psi=28.2
+[2026-06-01 14:49:03] #00043 WARNING  spd=45.7km/h tmp=96.5°C vlt=12.0V psi=28.6 [Active alert(s) present]
+[2026-06-01 14:49:04] #00044 WARNING  spd=58.0km/h tmp=97.3°C vlt=12.0V psi=28.0 [Active alert(s) present]
+[2026-06-01 14:49:05] #00045 NORMAL   spd=68.5km/h tmp=94.1°C vlt=11.8V psi=26.5
+[2026-06-01 14:49:06] #00046 NORMAL   spd=74.8km/h tmp=89.4°C vlt=11.9V psi=26.1
+[2026-06-01 14:49:07] #00047 WARNING  spd=81.9km/h tmp=86.3°C vlt=12.0V psi=25.0 [Active alert(s) present]
+[2026-06-01 14:49:08] #00048 WARNING  spd=87.3km/h tmp=89.4°C vlt=11.9V psi=23.8 [Active alert(s) present]
+[2026-06-01 14:49:09] #00049 WARNING  spd=84.6km/h tmp=87.1°C vlt=11.7V psi=22.4 [Active alert(s) present]
+[2026-06-01 14:49:10] #00050 CRASH    spd=96.9km/h tmp=88.4°C vlt=11.6V psi=21.2 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:11] #00051 CRASH    spd=97.7km/h tmp=81.1°C vlt=11.7V psi=19.4 [Critical alert: DOOR_OPEN_WARNING]
+
+=== EDR FLUSH @ 2026-06-01 14:49:12  seq=52  records=45 ===
+[2026-06-01 10:46:51] #00001 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 10:47:13] #00002 NORMAL   spd=75.2km/h tmp=87.2°C vlt=12.4V psi=29.3
+[2026-06-01 10:47:14] #00003 NORMAL   spd=59.8km/h tmp=89.6°C vlt=12.7V psi=28.2
+[2026-06-01 10:47:15] #00004 NORMAL   spd=62.7km/h tmp=92.2°C vlt=12.1V psi=26.7
+[2026-06-01 10:47:16] #00005 NORMAL   spd=60.6km/h tmp=87.4°C vlt=12.6V psi=25.4
+[2026-06-01 10:47:17] #00006 WARNING  spd=72.0km/h tmp=87.5°C vlt=12.6V psi=26.2 [Active alert(s) present]
+[2026-06-01 10:47:18] #00007 WARNING  spd=75.7km/h tmp=86.9°C vlt=12.8V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:19] #00008 WARNING  spd=71.6km/h tmp=89.6°C vlt=12.5V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:20] #00009 WARNING  spd=54.5km/h tmp=97.1°C vlt=12.4V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:21] #00010 WARNING  spd=38.0km/h tmp=94.9°C vlt=12.6V psi=23.4 [Active alert(s) present]
+[2026-06-01 10:47:22] #00011 WARNING  spd=34.4km/h tmp=96.5°C vlt=12.6V psi=23.7 [Active alert(s) present]
+[2026-06-01 10:47:23] #00012 CRASH    spd=40.1km/h tmp=96.0°C vlt=12.2V psi=23.7 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:24] #00013 CRASH    spd=46.3km/h tmp=95.4°C vlt=12.2V psi=22.8 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:25] #00014 CRASH    spd=51.5km/h tmp=99.2°C vlt=11.9V psi=22.4 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:26] #00015 WARNING  spd=58.1km/h tmp=92.6°C vlt=11.7V psi=21.7 [Active alert(s) present]
+[2026-06-01 10:47:27] #00016 WARNING  spd=47.7km/h tmp=86.2°C vlt=11.6V psi=20.1 [Active alert(s) present]
+[2026-06-01 10:47:28] #00017 WARNING  spd=49.9km/h tmp=93.1°C vlt=11.5V psi=18.7 [Active alert(s) present]
+[2026-06-01 11:21:07] #00018 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:03:46] #00020 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:05:05] #00021 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:05:30] #00023 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:05:56] #00024 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:06:20] #00026 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:40:50] #00027 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:41:34] #00029 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:41:53] #00030 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:42:22] #00032 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 13:10:20] #00033 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 13:10:45] #00035 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 14:48:12] #00036 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 14:48:45] #00038 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 14:48:59] #00039 NORMAL   spd=72.0km/h tmp=85.0°C vlt=12.5V psi=30.0
+[2026-06-01 14:49:00] #00040 NORMAL   spd=60.5km/h tmp=87.1°C vlt=12.5V psi=28.8
+[2026-06-01 14:49:01] #00041 NORMAL   spd=58.1km/h tmp=91.9°C vlt=12.3V psi=28.9
+[2026-06-01 14:49:02] #00042 NORMAL   spd=57.3km/h tmp=94.9°C vlt=11.8V psi=28.2
+[2026-06-01 14:49:03] #00043 WARNING  spd=45.7km/h tmp=96.5°C vlt=12.0V psi=28.6 [Active alert(s) present]
+[2026-06-01 14:49:04] #00044 WARNING  spd=58.0km/h tmp=97.3°C vlt=12.0V psi=28.0 [Active alert(s) present]
+[2026-06-01 14:49:05] #00045 NORMAL   spd=68.5km/h tmp=94.1°C vlt=11.8V psi=26.5
+[2026-06-01 14:49:06] #00046 NORMAL   spd=74.8km/h tmp=89.4°C vlt=11.9V psi=26.1
+[2026-06-01 14:49:07] #00047 WARNING  spd=81.9km/h tmp=86.3°C vlt=12.0V psi=25.0 [Active alert(s) present]
+[2026-06-01 14:49:08] #00048 WARNING  spd=87.3km/h tmp=89.4°C vlt=11.9V psi=23.8 [Active alert(s) present]
+[2026-06-01 14:49:09] #00049 WARNING  spd=84.6km/h tmp=87.1°C vlt=11.7V psi=22.4 [Active alert(s) present]
+[2026-06-01 14:49:10] #00050 CRASH    spd=96.9km/h tmp=88.4°C vlt=11.6V psi=21.2 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:11] #00051 CRASH    spd=97.7km/h tmp=81.1°C vlt=11.7V psi=19.4 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:12] #00052 CRASH    spd=100.6km/h tmp=80.9°C vlt=11.2V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+
+=== EDR FLUSH @ 2026-06-01 14:49:13  seq=53  records=46 ===
+[2026-06-01 10:46:51] #00001 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 10:47:13] #00002 NORMAL   spd=75.2km/h tmp=87.2°C vlt=12.4V psi=29.3
+[2026-06-01 10:47:14] #00003 NORMAL   spd=59.8km/h tmp=89.6°C vlt=12.7V psi=28.2
+[2026-06-01 10:47:15] #00004 NORMAL   spd=62.7km/h tmp=92.2°C vlt=12.1V psi=26.7
+[2026-06-01 10:47:16] #00005 NORMAL   spd=60.6km/h tmp=87.4°C vlt=12.6V psi=25.4
+[2026-06-01 10:47:17] #00006 WARNING  spd=72.0km/h tmp=87.5°C vlt=12.6V psi=26.2 [Active alert(s) present]
+[2026-06-01 10:47:18] #00007 WARNING  spd=75.7km/h tmp=86.9°C vlt=12.8V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:19] #00008 WARNING  spd=71.6km/h tmp=89.6°C vlt=12.5V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:20] #00009 WARNING  spd=54.5km/h tmp=97.1°C vlt=12.4V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:21] #00010 WARNING  spd=38.0km/h tmp=94.9°C vlt=12.6V psi=23.4 [Active alert(s) present]
+[2026-06-01 10:47:22] #00011 WARNING  spd=34.4km/h tmp=96.5°C vlt=12.6V psi=23.7 [Active alert(s) present]
+[2026-06-01 10:47:23] #00012 CRASH    spd=40.1km/h tmp=96.0°C vlt=12.2V psi=23.7 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:24] #00013 CRASH    spd=46.3km/h tmp=95.4°C vlt=12.2V psi=22.8 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:25] #00014 CRASH    spd=51.5km/h tmp=99.2°C vlt=11.9V psi=22.4 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:26] #00015 WARNING  spd=58.1km/h tmp=92.6°C vlt=11.7V psi=21.7 [Active alert(s) present]
+[2026-06-01 10:47:27] #00016 WARNING  spd=47.7km/h tmp=86.2°C vlt=11.6V psi=20.1 [Active alert(s) present]
+[2026-06-01 10:47:28] #00017 WARNING  spd=49.9km/h tmp=93.1°C vlt=11.5V psi=18.7 [Active alert(s) present]
+[2026-06-01 11:21:07] #00018 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:03:46] #00020 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:05:05] #00021 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:05:30] #00023 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:05:56] #00024 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:06:20] #00026 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:40:50] #00027 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:41:34] #00029 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:41:53] #00030 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:42:22] #00032 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 13:10:20] #00033 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 13:10:45] #00035 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 14:48:12] #00036 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 14:48:45] #00038 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 14:48:59] #00039 NORMAL   spd=72.0km/h tmp=85.0°C vlt=12.5V psi=30.0
+[2026-06-01 14:49:00] #00040 NORMAL   spd=60.5km/h tmp=87.1°C vlt=12.5V psi=28.8
+[2026-06-01 14:49:01] #00041 NORMAL   spd=58.1km/h tmp=91.9°C vlt=12.3V psi=28.9
+[2026-06-01 14:49:02] #00042 NORMAL   spd=57.3km/h tmp=94.9°C vlt=11.8V psi=28.2
+[2026-06-01 14:49:03] #00043 WARNING  spd=45.7km/h tmp=96.5°C vlt=12.0V psi=28.6 [Active alert(s) present]
+[2026-06-01 14:49:04] #00044 WARNING  spd=58.0km/h tmp=97.3°C vlt=12.0V psi=28.0 [Active alert(s) present]
+[2026-06-01 14:49:05] #00045 NORMAL   spd=68.5km/h tmp=94.1°C vlt=11.8V psi=26.5
+[2026-06-01 14:49:06] #00046 NORMAL   spd=74.8km/h tmp=89.4°C vlt=11.9V psi=26.1
+[2026-06-01 14:49:07] #00047 WARNING  spd=81.9km/h tmp=86.3°C vlt=12.0V psi=25.0 [Active alert(s) present]
+[2026-06-01 14:49:08] #00048 WARNING  spd=87.3km/h tmp=89.4°C vlt=11.9V psi=23.8 [Active alert(s) present]
+[2026-06-01 14:49:09] #00049 WARNING  spd=84.6km/h tmp=87.1°C vlt=11.7V psi=22.4 [Active alert(s) present]
+[2026-06-01 14:49:10] #00050 CRASH    spd=96.9km/h tmp=88.4°C vlt=11.6V psi=21.2 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:11] #00051 CRASH    spd=97.7km/h tmp=81.1°C vlt=11.7V psi=19.4 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:12] #00052 CRASH    spd=100.6km/h tmp=80.9°C vlt=11.2V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:13] #00053 CRASH    spd=96.8km/h tmp=89.0°C vlt=11.4V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+
+=== EDR FLUSH @ 2026-06-01 14:49:14  seq=54  records=47 ===
+[2026-06-01 10:46:51] #00001 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 10:47:13] #00002 NORMAL   spd=75.2km/h tmp=87.2°C vlt=12.4V psi=29.3
+[2026-06-01 10:47:14] #00003 NORMAL   spd=59.8km/h tmp=89.6°C vlt=12.7V psi=28.2
+[2026-06-01 10:47:15] #00004 NORMAL   spd=62.7km/h tmp=92.2°C vlt=12.1V psi=26.7
+[2026-06-01 10:47:16] #00005 NORMAL   spd=60.6km/h tmp=87.4°C vlt=12.6V psi=25.4
+[2026-06-01 10:47:17] #00006 WARNING  spd=72.0km/h tmp=87.5°C vlt=12.6V psi=26.2 [Active alert(s) present]
+[2026-06-01 10:47:18] #00007 WARNING  spd=75.7km/h tmp=86.9°C vlt=12.8V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:19] #00008 WARNING  spd=71.6km/h tmp=89.6°C vlt=12.5V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:20] #00009 WARNING  spd=54.5km/h tmp=97.1°C vlt=12.4V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:21] #00010 WARNING  spd=38.0km/h tmp=94.9°C vlt=12.6V psi=23.4 [Active alert(s) present]
+[2026-06-01 10:47:22] #00011 WARNING  spd=34.4km/h tmp=96.5°C vlt=12.6V psi=23.7 [Active alert(s) present]
+[2026-06-01 10:47:23] #00012 CRASH    spd=40.1km/h tmp=96.0°C vlt=12.2V psi=23.7 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:24] #00013 CRASH    spd=46.3km/h tmp=95.4°C vlt=12.2V psi=22.8 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:25] #00014 CRASH    spd=51.5km/h tmp=99.2°C vlt=11.9V psi=22.4 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:26] #00015 WARNING  spd=58.1km/h tmp=92.6°C vlt=11.7V psi=21.7 [Active alert(s) present]
+[2026-06-01 10:47:27] #00016 WARNING  spd=47.7km/h tmp=86.2°C vlt=11.6V psi=20.1 [Active alert(s) present]
+[2026-06-01 10:47:28] #00017 WARNING  spd=49.9km/h tmp=93.1°C vlt=11.5V psi=18.7 [Active alert(s) present]
+[2026-06-01 11:21:07] #00018 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:03:46] #00020 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:05:05] #00021 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:05:30] #00023 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:05:56] #00024 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:06:20] #00026 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:40:50] #00027 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:41:34] #00029 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:41:53] #00030 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:42:22] #00032 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 13:10:20] #00033 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 13:10:45] #00035 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 14:48:12] #00036 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 14:48:45] #00038 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 14:48:59] #00039 NORMAL   spd=72.0km/h tmp=85.0°C vlt=12.5V psi=30.0
+[2026-06-01 14:49:00] #00040 NORMAL   spd=60.5km/h tmp=87.1°C vlt=12.5V psi=28.8
+[2026-06-01 14:49:01] #00041 NORMAL   spd=58.1km/h tmp=91.9°C vlt=12.3V psi=28.9
+[2026-06-01 14:49:02] #00042 NORMAL   spd=57.3km/h tmp=94.9°C vlt=11.8V psi=28.2
+[2026-06-01 14:49:03] #00043 WARNING  spd=45.7km/h tmp=96.5°C vlt=12.0V psi=28.6 [Active alert(s) present]
+[2026-06-01 14:49:04] #00044 WARNING  spd=58.0km/h tmp=97.3°C vlt=12.0V psi=28.0 [Active alert(s) present]
+[2026-06-01 14:49:05] #00045 NORMAL   spd=68.5km/h tmp=94.1°C vlt=11.8V psi=26.5
+[2026-06-01 14:49:06] #00046 NORMAL   spd=74.8km/h tmp=89.4°C vlt=11.9V psi=26.1
+[2026-06-01 14:49:07] #00047 WARNING  spd=81.9km/h tmp=86.3°C vlt=12.0V psi=25.0 [Active alert(s) present]
+[2026-06-01 14:49:08] #00048 WARNING  spd=87.3km/h tmp=89.4°C vlt=11.9V psi=23.8 [Active alert(s) present]
+[2026-06-01 14:49:09] #00049 WARNING  spd=84.6km/h tmp=87.1°C vlt=11.7V psi=22.4 [Active alert(s) present]
+[2026-06-01 14:49:10] #00050 CRASH    spd=96.9km/h tmp=88.4°C vlt=11.6V psi=21.2 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:11] #00051 CRASH    spd=97.7km/h tmp=81.1°C vlt=11.7V psi=19.4 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:12] #00052 CRASH    spd=100.6km/h tmp=80.9°C vlt=11.2V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:13] #00053 CRASH    spd=96.8km/h tmp=89.0°C vlt=11.4V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:14] #00054 CRASH    spd=85.6km/h tmp=93.1°C vlt=11.2V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+
+=== EDR FLUSH @ 2026-06-01 14:49:15  seq=55  records=48 ===
+[2026-06-01 10:46:51] #00001 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 10:47:13] #00002 NORMAL   spd=75.2km/h tmp=87.2°C vlt=12.4V psi=29.3
+[2026-06-01 10:47:14] #00003 NORMAL   spd=59.8km/h tmp=89.6°C vlt=12.7V psi=28.2
+[2026-06-01 10:47:15] #00004 NORMAL   spd=62.7km/h tmp=92.2°C vlt=12.1V psi=26.7
+[2026-06-01 10:47:16] #00005 NORMAL   spd=60.6km/h tmp=87.4°C vlt=12.6V psi=25.4
+[2026-06-01 10:47:17] #00006 WARNING  spd=72.0km/h tmp=87.5°C vlt=12.6V psi=26.2 [Active alert(s) present]
+[2026-06-01 10:47:18] #00007 WARNING  spd=75.7km/h tmp=86.9°C vlt=12.8V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:19] #00008 WARNING  spd=71.6km/h tmp=89.6°C vlt=12.5V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:20] #00009 WARNING  spd=54.5km/h tmp=97.1°C vlt=12.4V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:21] #00010 WARNING  spd=38.0km/h tmp=94.9°C vlt=12.6V psi=23.4 [Active alert(s) present]
+[2026-06-01 10:47:22] #00011 WARNING  spd=34.4km/h tmp=96.5°C vlt=12.6V psi=23.7 [Active alert(s) present]
+[2026-06-01 10:47:23] #00012 CRASH    spd=40.1km/h tmp=96.0°C vlt=12.2V psi=23.7 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:24] #00013 CRASH    spd=46.3km/h tmp=95.4°C vlt=12.2V psi=22.8 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:25] #00014 CRASH    spd=51.5km/h tmp=99.2°C vlt=11.9V psi=22.4 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:26] #00015 WARNING  spd=58.1km/h tmp=92.6°C vlt=11.7V psi=21.7 [Active alert(s) present]
+[2026-06-01 10:47:27] #00016 WARNING  spd=47.7km/h tmp=86.2°C vlt=11.6V psi=20.1 [Active alert(s) present]
+[2026-06-01 10:47:28] #00017 WARNING  spd=49.9km/h tmp=93.1°C vlt=11.5V psi=18.7 [Active alert(s) present]
+[2026-06-01 11:21:07] #00018 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:03:46] #00020 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:05:05] #00021 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:05:30] #00023 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:05:56] #00024 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:06:20] #00026 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:40:50] #00027 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:41:34] #00029 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:41:53] #00030 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:42:22] #00032 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 13:10:20] #00033 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 13:10:45] #00035 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 14:48:12] #00036 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 14:48:45] #00038 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 14:48:59] #00039 NORMAL   spd=72.0km/h tmp=85.0°C vlt=12.5V psi=30.0
+[2026-06-01 14:49:00] #00040 NORMAL   spd=60.5km/h tmp=87.1°C vlt=12.5V psi=28.8
+[2026-06-01 14:49:01] #00041 NORMAL   spd=58.1km/h tmp=91.9°C vlt=12.3V psi=28.9
+[2026-06-01 14:49:02] #00042 NORMAL   spd=57.3km/h tmp=94.9°C vlt=11.8V psi=28.2
+[2026-06-01 14:49:03] #00043 WARNING  spd=45.7km/h tmp=96.5°C vlt=12.0V psi=28.6 [Active alert(s) present]
+[2026-06-01 14:49:04] #00044 WARNING  spd=58.0km/h tmp=97.3°C vlt=12.0V psi=28.0 [Active alert(s) present]
+[2026-06-01 14:49:05] #00045 NORMAL   spd=68.5km/h tmp=94.1°C vlt=11.8V psi=26.5
+[2026-06-01 14:49:06] #00046 NORMAL   spd=74.8km/h tmp=89.4°C vlt=11.9V psi=26.1
+[2026-06-01 14:49:07] #00047 WARNING  spd=81.9km/h tmp=86.3°C vlt=12.0V psi=25.0 [Active alert(s) present]
+[2026-06-01 14:49:08] #00048 WARNING  spd=87.3km/h tmp=89.4°C vlt=11.9V psi=23.8 [Active alert(s) present]
+[2026-06-01 14:49:09] #00049 WARNING  spd=84.6km/h tmp=87.1°C vlt=11.7V psi=22.4 [Active alert(s) present]
+[2026-06-01 14:49:10] #00050 CRASH    spd=96.9km/h tmp=88.4°C vlt=11.6V psi=21.2 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:11] #00051 CRASH    spd=97.7km/h tmp=81.1°C vlt=11.7V psi=19.4 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:12] #00052 CRASH    spd=100.6km/h tmp=80.9°C vlt=11.2V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:13] #00053 CRASH    spd=96.8km/h tmp=89.0°C vlt=11.4V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:14] #00054 CRASH    spd=85.6km/h tmp=93.1°C vlt=11.2V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:15] #00055 CRASH    spd=81.1km/h tmp=96.3°C vlt=10.9V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+
+=== EDR FLUSH @ 2026-06-01 14:49:20  seq=60  records=53 ===
+[2026-06-01 10:46:51] #00001 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 10:47:13] #00002 NORMAL   spd=75.2km/h tmp=87.2°C vlt=12.4V psi=29.3
+[2026-06-01 10:47:14] #00003 NORMAL   spd=59.8km/h tmp=89.6°C vlt=12.7V psi=28.2
+[2026-06-01 10:47:15] #00004 NORMAL   spd=62.7km/h tmp=92.2°C vlt=12.1V psi=26.7
+[2026-06-01 10:47:16] #00005 NORMAL   spd=60.6km/h tmp=87.4°C vlt=12.6V psi=25.4
+[2026-06-01 10:47:17] #00006 WARNING  spd=72.0km/h tmp=87.5°C vlt=12.6V psi=26.2 [Active alert(s) present]
+[2026-06-01 10:47:18] #00007 WARNING  spd=75.7km/h tmp=86.9°C vlt=12.8V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:19] #00008 WARNING  spd=71.6km/h tmp=89.6°C vlt=12.5V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:20] #00009 WARNING  spd=54.5km/h tmp=97.1°C vlt=12.4V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:21] #00010 WARNING  spd=38.0km/h tmp=94.9°C vlt=12.6V psi=23.4 [Active alert(s) present]
+[2026-06-01 10:47:22] #00011 WARNING  spd=34.4km/h tmp=96.5°C vlt=12.6V psi=23.7 [Active alert(s) present]
+[2026-06-01 10:47:23] #00012 CRASH    spd=40.1km/h tmp=96.0°C vlt=12.2V psi=23.7 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:24] #00013 CRASH    spd=46.3km/h tmp=95.4°C vlt=12.2V psi=22.8 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:25] #00014 CRASH    spd=51.5km/h tmp=99.2°C vlt=11.9V psi=22.4 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:26] #00015 WARNING  spd=58.1km/h tmp=92.6°C vlt=11.7V psi=21.7 [Active alert(s) present]
+[2026-06-01 10:47:27] #00016 WARNING  spd=47.7km/h tmp=86.2°C vlt=11.6V psi=20.1 [Active alert(s) present]
+[2026-06-01 10:47:28] #00017 WARNING  spd=49.9km/h tmp=93.1°C vlt=11.5V psi=18.7 [Active alert(s) present]
+[2026-06-01 11:21:07] #00018 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:03:46] #00020 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:05:05] #00021 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:05:30] #00023 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:05:56] #00024 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:06:20] #00026 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:40:50] #00027 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:41:34] #00029 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:41:53] #00030 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:42:22] #00032 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 13:10:20] #00033 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 13:10:45] #00035 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 14:48:12] #00036 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 14:48:45] #00038 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 14:48:59] #00039 NORMAL   spd=72.0km/h tmp=85.0°C vlt=12.5V psi=30.0
+[2026-06-01 14:49:00] #00040 NORMAL   spd=60.5km/h tmp=87.1°C vlt=12.5V psi=28.8
+[2026-06-01 14:49:01] #00041 NORMAL   spd=58.1km/h tmp=91.9°C vlt=12.3V psi=28.9
+[2026-06-01 14:49:02] #00042 NORMAL   spd=57.3km/h tmp=94.9°C vlt=11.8V psi=28.2
+[2026-06-01 14:49:03] #00043 WARNING  spd=45.7km/h tmp=96.5°C vlt=12.0V psi=28.6 [Active alert(s) present]
+[2026-06-01 14:49:04] #00044 WARNING  spd=58.0km/h tmp=97.3°C vlt=12.0V psi=28.0 [Active alert(s) present]
+[2026-06-01 14:49:05] #00045 NORMAL   spd=68.5km/h tmp=94.1°C vlt=11.8V psi=26.5
+[2026-06-01 14:49:06] #00046 NORMAL   spd=74.8km/h tmp=89.4°C vlt=11.9V psi=26.1
+[2026-06-01 14:49:07] #00047 WARNING  spd=81.9km/h tmp=86.3°C vlt=12.0V psi=25.0 [Active alert(s) present]
+[2026-06-01 14:49:08] #00048 WARNING  spd=87.3km/h tmp=89.4°C vlt=11.9V psi=23.8 [Active alert(s) present]
+[2026-06-01 14:49:09] #00049 WARNING  spd=84.6km/h tmp=87.1°C vlt=11.7V psi=22.4 [Active alert(s) present]
+[2026-06-01 14:49:10] #00050 CRASH    spd=96.9km/h tmp=88.4°C vlt=11.6V psi=21.2 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:11] #00051 CRASH    spd=97.7km/h tmp=81.1°C vlt=11.7V psi=19.4 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:12] #00052 CRASH    spd=100.6km/h tmp=80.9°C vlt=11.2V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:13] #00053 CRASH    spd=96.8km/h tmp=89.0°C vlt=11.4V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:14] #00054 CRASH    spd=85.6km/h tmp=93.1°C vlt=11.2V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:15] #00055 CRASH    spd=81.1km/h tmp=96.3°C vlt=10.9V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:16] #00056 WARNING  spd=92.7km/h tmp=90.3°C vlt=10.9V psi=18.0 [Active alert(s) present]
+[2026-06-01 14:49:17] #00057 WARNING  spd=89.2km/h tmp=86.9°C vlt=10.9V psi=18.0 [Active alert(s) present]
+[2026-06-01 14:49:18] #00058 WARNING  spd=90.2km/h tmp=85.7°C vlt=11.2V psi=18.0 [Active alert(s) present]
+[2026-06-01 14:49:19] #00059 WARNING  spd=87.8km/h tmp=81.2°C vlt=11.1V psi=18.0 [Active alert(s) present]
+[2026-06-01 14:49:20] #00060 CRASH    spd=93.8km/h tmp=85.0°C vlt=10.8V psi=18.1 [Critical alert: DOOR_OPEN_WARNING]
+
+=== EDR FLUSH @ 2026-06-01 14:49:21  seq=61  records=54 ===
+[2026-06-01 10:46:51] #00001 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 10:47:13] #00002 NORMAL   spd=75.2km/h tmp=87.2°C vlt=12.4V psi=29.3
+[2026-06-01 10:47:14] #00003 NORMAL   spd=59.8km/h tmp=89.6°C vlt=12.7V psi=28.2
+[2026-06-01 10:47:15] #00004 NORMAL   spd=62.7km/h tmp=92.2°C vlt=12.1V psi=26.7
+[2026-06-01 10:47:16] #00005 NORMAL   spd=60.6km/h tmp=87.4°C vlt=12.6V psi=25.4
+[2026-06-01 10:47:17] #00006 WARNING  spd=72.0km/h tmp=87.5°C vlt=12.6V psi=26.2 [Active alert(s) present]
+[2026-06-01 10:47:18] #00007 WARNING  spd=75.7km/h tmp=86.9°C vlt=12.8V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:19] #00008 WARNING  spd=71.6km/h tmp=89.6°C vlt=12.5V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:20] #00009 WARNING  spd=54.5km/h tmp=97.1°C vlt=12.4V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:21] #00010 WARNING  spd=38.0km/h tmp=94.9°C vlt=12.6V psi=23.4 [Active alert(s) present]
+[2026-06-01 10:47:22] #00011 WARNING  spd=34.4km/h tmp=96.5°C vlt=12.6V psi=23.7 [Active alert(s) present]
+[2026-06-01 10:47:23] #00012 CRASH    spd=40.1km/h tmp=96.0°C vlt=12.2V psi=23.7 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:24] #00013 CRASH    spd=46.3km/h tmp=95.4°C vlt=12.2V psi=22.8 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:25] #00014 CRASH    spd=51.5km/h tmp=99.2°C vlt=11.9V psi=22.4 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:26] #00015 WARNING  spd=58.1km/h tmp=92.6°C vlt=11.7V psi=21.7 [Active alert(s) present]
+[2026-06-01 10:47:27] #00016 WARNING  spd=47.7km/h tmp=86.2°C vlt=11.6V psi=20.1 [Active alert(s) present]
+[2026-06-01 10:47:28] #00017 WARNING  spd=49.9km/h tmp=93.1°C vlt=11.5V psi=18.7 [Active alert(s) present]
+[2026-06-01 11:21:07] #00018 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:03:46] #00020 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:05:05] #00021 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:05:30] #00023 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:05:56] #00024 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:06:20] #00026 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:40:50] #00027 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:41:34] #00029 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:41:53] #00030 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:42:22] #00032 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 13:10:20] #00033 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 13:10:45] #00035 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 14:48:12] #00036 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 14:48:45] #00038 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 14:48:59] #00039 NORMAL   spd=72.0km/h tmp=85.0°C vlt=12.5V psi=30.0
+[2026-06-01 14:49:00] #00040 NORMAL   spd=60.5km/h tmp=87.1°C vlt=12.5V psi=28.8
+[2026-06-01 14:49:01] #00041 NORMAL   spd=58.1km/h tmp=91.9°C vlt=12.3V psi=28.9
+[2026-06-01 14:49:02] #00042 NORMAL   spd=57.3km/h tmp=94.9°C vlt=11.8V psi=28.2
+[2026-06-01 14:49:03] #00043 WARNING  spd=45.7km/h tmp=96.5°C vlt=12.0V psi=28.6 [Active alert(s) present]
+[2026-06-01 14:49:04] #00044 WARNING  spd=58.0km/h tmp=97.3°C vlt=12.0V psi=28.0 [Active alert(s) present]
+[2026-06-01 14:49:05] #00045 NORMAL   spd=68.5km/h tmp=94.1°C vlt=11.8V psi=26.5
+[2026-06-01 14:49:06] #00046 NORMAL   spd=74.8km/h tmp=89.4°C vlt=11.9V psi=26.1
+[2026-06-01 14:49:07] #00047 WARNING  spd=81.9km/h tmp=86.3°C vlt=12.0V psi=25.0 [Active alert(s) present]
+[2026-06-01 14:49:08] #00048 WARNING  spd=87.3km/h tmp=89.4°C vlt=11.9V psi=23.8 [Active alert(s) present]
+[2026-06-01 14:49:09] #00049 WARNING  spd=84.6km/h tmp=87.1°C vlt=11.7V psi=22.4 [Active alert(s) present]
+[2026-06-01 14:49:10] #00050 CRASH    spd=96.9km/h tmp=88.4°C vlt=11.6V psi=21.2 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:11] #00051 CRASH    spd=97.7km/h tmp=81.1°C vlt=11.7V psi=19.4 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:12] #00052 CRASH    spd=100.6km/h tmp=80.9°C vlt=11.2V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:13] #00053 CRASH    spd=96.8km/h tmp=89.0°C vlt=11.4V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:14] #00054 CRASH    spd=85.6km/h tmp=93.1°C vlt=11.2V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:15] #00055 CRASH    spd=81.1km/h tmp=96.3°C vlt=10.9V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:16] #00056 WARNING  spd=92.7km/h tmp=90.3°C vlt=10.9V psi=18.0 [Active alert(s) present]
+[2026-06-01 14:49:17] #00057 WARNING  spd=89.2km/h tmp=86.9°C vlt=10.9V psi=18.0 [Active alert(s) present]
+[2026-06-01 14:49:18] #00058 WARNING  spd=90.2km/h tmp=85.7°C vlt=11.2V psi=18.0 [Active alert(s) present]
+[2026-06-01 14:49:19] #00059 WARNING  spd=87.8km/h tmp=81.2°C vlt=11.1V psi=18.0 [Active alert(s) present]
+[2026-06-01 14:49:20] #00060 CRASH    spd=93.8km/h tmp=85.0°C vlt=10.8V psi=18.1 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:21] #00061 CRASH    spd=100.7km/h tmp=82.2°C vlt=11.0V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+
+=== EDR FLUSH @ 2026-06-01 14:49:22  seq=62  records=55 ===
+[2026-06-01 10:46:51] #00001 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 10:47:13] #00002 NORMAL   spd=75.2km/h tmp=87.2°C vlt=12.4V psi=29.3
+[2026-06-01 10:47:14] #00003 NORMAL   spd=59.8km/h tmp=89.6°C vlt=12.7V psi=28.2
+[2026-06-01 10:47:15] #00004 NORMAL   spd=62.7km/h tmp=92.2°C vlt=12.1V psi=26.7
+[2026-06-01 10:47:16] #00005 NORMAL   spd=60.6km/h tmp=87.4°C vlt=12.6V psi=25.4
+[2026-06-01 10:47:17] #00006 WARNING  spd=72.0km/h tmp=87.5°C vlt=12.6V psi=26.2 [Active alert(s) present]
+[2026-06-01 10:47:18] #00007 WARNING  spd=75.7km/h tmp=86.9°C vlt=12.8V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:19] #00008 WARNING  spd=71.6km/h tmp=89.6°C vlt=12.5V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:20] #00009 WARNING  spd=54.5km/h tmp=97.1°C vlt=12.4V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:21] #00010 WARNING  spd=38.0km/h tmp=94.9°C vlt=12.6V psi=23.4 [Active alert(s) present]
+[2026-06-01 10:47:22] #00011 WARNING  spd=34.4km/h tmp=96.5°C vlt=12.6V psi=23.7 [Active alert(s) present]
+[2026-06-01 10:47:23] #00012 CRASH    spd=40.1km/h tmp=96.0°C vlt=12.2V psi=23.7 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:24] #00013 CRASH    spd=46.3km/h tmp=95.4°C vlt=12.2V psi=22.8 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:25] #00014 CRASH    spd=51.5km/h tmp=99.2°C vlt=11.9V psi=22.4 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:26] #00015 WARNING  spd=58.1km/h tmp=92.6°C vlt=11.7V psi=21.7 [Active alert(s) present]
+[2026-06-01 10:47:27] #00016 WARNING  spd=47.7km/h tmp=86.2°C vlt=11.6V psi=20.1 [Active alert(s) present]
+[2026-06-01 10:47:28] #00017 WARNING  spd=49.9km/h tmp=93.1°C vlt=11.5V psi=18.7 [Active alert(s) present]
+[2026-06-01 11:21:07] #00018 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:03:46] #00020 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:05:05] #00021 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:05:30] #00023 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:05:56] #00024 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:06:20] #00026 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:40:50] #00027 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:41:34] #00029 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:41:53] #00030 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:42:22] #00032 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 13:10:20] #00033 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 13:10:45] #00035 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 14:48:12] #00036 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 14:48:45] #00038 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 14:48:59] #00039 NORMAL   spd=72.0km/h tmp=85.0°C vlt=12.5V psi=30.0
+[2026-06-01 14:49:00] #00040 NORMAL   spd=60.5km/h tmp=87.1°C vlt=12.5V psi=28.8
+[2026-06-01 14:49:01] #00041 NORMAL   spd=58.1km/h tmp=91.9°C vlt=12.3V psi=28.9
+[2026-06-01 14:49:02] #00042 NORMAL   spd=57.3km/h tmp=94.9°C vlt=11.8V psi=28.2
+[2026-06-01 14:49:03] #00043 WARNING  spd=45.7km/h tmp=96.5°C vlt=12.0V psi=28.6 [Active alert(s) present]
+[2026-06-01 14:49:04] #00044 WARNING  spd=58.0km/h tmp=97.3°C vlt=12.0V psi=28.0 [Active alert(s) present]
+[2026-06-01 14:49:05] #00045 NORMAL   spd=68.5km/h tmp=94.1°C vlt=11.8V psi=26.5
+[2026-06-01 14:49:06] #00046 NORMAL   spd=74.8km/h tmp=89.4°C vlt=11.9V psi=26.1
+[2026-06-01 14:49:07] #00047 WARNING  spd=81.9km/h tmp=86.3°C vlt=12.0V psi=25.0 [Active alert(s) present]
+[2026-06-01 14:49:08] #00048 WARNING  spd=87.3km/h tmp=89.4°C vlt=11.9V psi=23.8 [Active alert(s) present]
+[2026-06-01 14:49:09] #00049 WARNING  spd=84.6km/h tmp=87.1°C vlt=11.7V psi=22.4 [Active alert(s) present]
+[2026-06-01 14:49:10] #00050 CRASH    spd=96.9km/h tmp=88.4°C vlt=11.6V psi=21.2 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:11] #00051 CRASH    spd=97.7km/h tmp=81.1°C vlt=11.7V psi=19.4 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:12] #00052 CRASH    spd=100.6km/h tmp=80.9°C vlt=11.2V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:13] #00053 CRASH    spd=96.8km/h tmp=89.0°C vlt=11.4V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:14] #00054 CRASH    spd=85.6km/h tmp=93.1°C vlt=11.2V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:15] #00055 CRASH    spd=81.1km/h tmp=96.3°C vlt=10.9V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:16] #00056 WARNING  spd=92.7km/h tmp=90.3°C vlt=10.9V psi=18.0 [Active alert(s) present]
+[2026-06-01 14:49:17] #00057 WARNING  spd=89.2km/h tmp=86.9°C vlt=10.9V psi=18.0 [Active alert(s) present]
+[2026-06-01 14:49:18] #00058 WARNING  spd=90.2km/h tmp=85.7°C vlt=11.2V psi=18.0 [Active alert(s) present]
+[2026-06-01 14:49:19] #00059 WARNING  spd=87.8km/h tmp=81.2°C vlt=11.1V psi=18.0 [Active alert(s) present]
+[2026-06-01 14:49:20] #00060 CRASH    spd=93.8km/h tmp=85.0°C vlt=10.8V psi=18.1 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:21] #00061 CRASH    spd=100.7km/h tmp=82.2°C vlt=11.0V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:22] #00062 CRASH    spd=111.7km/h tmp=90.5°C vlt=11.2V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+
+=== EDR FLUSH @ 2026-06-01 14:57:47  seq=63  records=56 ===
+[2026-06-01 10:46:51] #00001 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 10:47:13] #00002 NORMAL   spd=75.2km/h tmp=87.2°C vlt=12.4V psi=29.3
+[2026-06-01 10:47:14] #00003 NORMAL   spd=59.8km/h tmp=89.6°C vlt=12.7V psi=28.2
+[2026-06-01 10:47:15] #00004 NORMAL   spd=62.7km/h tmp=92.2°C vlt=12.1V psi=26.7
+[2026-06-01 10:47:16] #00005 NORMAL   spd=60.6km/h tmp=87.4°C vlt=12.6V psi=25.4
+[2026-06-01 10:47:17] #00006 WARNING  spd=72.0km/h tmp=87.5°C vlt=12.6V psi=26.2 [Active alert(s) present]
+[2026-06-01 10:47:18] #00007 WARNING  spd=75.7km/h tmp=86.9°C vlt=12.8V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:19] #00008 WARNING  spd=71.6km/h tmp=89.6°C vlt=12.5V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:20] #00009 WARNING  spd=54.5km/h tmp=97.1°C vlt=12.4V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:21] #00010 WARNING  spd=38.0km/h tmp=94.9°C vlt=12.6V psi=23.4 [Active alert(s) present]
+[2026-06-01 10:47:22] #00011 WARNING  spd=34.4km/h tmp=96.5°C vlt=12.6V psi=23.7 [Active alert(s) present]
+[2026-06-01 10:47:23] #00012 CRASH    spd=40.1km/h tmp=96.0°C vlt=12.2V psi=23.7 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:24] #00013 CRASH    spd=46.3km/h tmp=95.4°C vlt=12.2V psi=22.8 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:25] #00014 CRASH    spd=51.5km/h tmp=99.2°C vlt=11.9V psi=22.4 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:26] #00015 WARNING  spd=58.1km/h tmp=92.6°C vlt=11.7V psi=21.7 [Active alert(s) present]
+[2026-06-01 10:47:27] #00016 WARNING  spd=47.7km/h tmp=86.2°C vlt=11.6V psi=20.1 [Active alert(s) present]
+[2026-06-01 10:47:28] #00017 WARNING  spd=49.9km/h tmp=93.1°C vlt=11.5V psi=18.7 [Active alert(s) present]
+[2026-06-01 11:21:07] #00018 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:03:46] #00020 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:05:05] #00021 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:05:30] #00023 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:05:56] #00024 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:06:20] #00026 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:40:50] #00027 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:41:34] #00029 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:41:53] #00030 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:42:22] #00032 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 13:10:20] #00033 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 13:10:45] #00035 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 14:48:12] #00036 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 14:48:45] #00038 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 14:48:59] #00039 NORMAL   spd=72.0km/h tmp=85.0°C vlt=12.5V psi=30.0
+[2026-06-01 14:49:00] #00040 NORMAL   spd=60.5km/h tmp=87.1°C vlt=12.5V psi=28.8
+[2026-06-01 14:49:01] #00041 NORMAL   spd=58.1km/h tmp=91.9°C vlt=12.3V psi=28.9
+[2026-06-01 14:49:02] #00042 NORMAL   spd=57.3km/h tmp=94.9°C vlt=11.8V psi=28.2
+[2026-06-01 14:49:03] #00043 WARNING  spd=45.7km/h tmp=96.5°C vlt=12.0V psi=28.6 [Active alert(s) present]
+[2026-06-01 14:49:04] #00044 WARNING  spd=58.0km/h tmp=97.3°C vlt=12.0V psi=28.0 [Active alert(s) present]
+[2026-06-01 14:49:05] #00045 NORMAL   spd=68.5km/h tmp=94.1°C vlt=11.8V psi=26.5
+[2026-06-01 14:49:06] #00046 NORMAL   spd=74.8km/h tmp=89.4°C vlt=11.9V psi=26.1
+[2026-06-01 14:49:07] #00047 WARNING  spd=81.9km/h tmp=86.3°C vlt=12.0V psi=25.0 [Active alert(s) present]
+[2026-06-01 14:49:08] #00048 WARNING  spd=87.3km/h tmp=89.4°C vlt=11.9V psi=23.8 [Active alert(s) present]
+[2026-06-01 14:49:09] #00049 WARNING  spd=84.6km/h tmp=87.1°C vlt=11.7V psi=22.4 [Active alert(s) present]
+[2026-06-01 14:49:10] #00050 CRASH    spd=96.9km/h tmp=88.4°C vlt=11.6V psi=21.2 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:11] #00051 CRASH    spd=97.7km/h tmp=81.1°C vlt=11.7V psi=19.4 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:12] #00052 CRASH    spd=100.6km/h tmp=80.9°C vlt=11.2V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:13] #00053 CRASH    spd=96.8km/h tmp=89.0°C vlt=11.4V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:14] #00054 CRASH    spd=85.6km/h tmp=93.1°C vlt=11.2V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:15] #00055 CRASH    spd=81.1km/h tmp=96.3°C vlt=10.9V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:16] #00056 WARNING  spd=92.7km/h tmp=90.3°C vlt=10.9V psi=18.0 [Active alert(s) present]
+[2026-06-01 14:49:17] #00057 WARNING  spd=89.2km/h tmp=86.9°C vlt=10.9V psi=18.0 [Active alert(s) present]
+[2026-06-01 14:49:18] #00058 WARNING  spd=90.2km/h tmp=85.7°C vlt=11.2V psi=18.0 [Active alert(s) present]
+[2026-06-01 14:49:19] #00059 WARNING  spd=87.8km/h tmp=81.2°C vlt=11.1V psi=18.0 [Active alert(s) present]
+[2026-06-01 14:49:20] #00060 CRASH    spd=93.8km/h tmp=85.0°C vlt=10.8V psi=18.1 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:21] #00061 CRASH    spd=100.7km/h tmp=82.2°C vlt=11.0V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:22] #00062 CRASH    spd=111.7km/h tmp=90.5°C vlt=11.2V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:57:47] #00063 CRASH    spd=77.1km/h tmp=84.9°C vlt=12.7V psi=29.7 [Sudden decel 34 km/h/cyc]
+
+=== EDR FLUSH @ 2026-06-01 14:57:52  seq=68  records=61 ===
+[2026-06-01 10:46:51] #00001 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 10:47:13] #00002 NORMAL   spd=75.2km/h tmp=87.2°C vlt=12.4V psi=29.3
+[2026-06-01 10:47:14] #00003 NORMAL   spd=59.8km/h tmp=89.6°C vlt=12.7V psi=28.2
+[2026-06-01 10:47:15] #00004 NORMAL   spd=62.7km/h tmp=92.2°C vlt=12.1V psi=26.7
+[2026-06-01 10:47:16] #00005 NORMAL   spd=60.6km/h tmp=87.4°C vlt=12.6V psi=25.4
+[2026-06-01 10:47:17] #00006 WARNING  spd=72.0km/h tmp=87.5°C vlt=12.6V psi=26.2 [Active alert(s) present]
+[2026-06-01 10:47:18] #00007 WARNING  spd=75.7km/h tmp=86.9°C vlt=12.8V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:19] #00008 WARNING  spd=71.6km/h tmp=89.6°C vlt=12.5V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:20] #00009 WARNING  spd=54.5km/h tmp=97.1°C vlt=12.4V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:21] #00010 WARNING  spd=38.0km/h tmp=94.9°C vlt=12.6V psi=23.4 [Active alert(s) present]
+[2026-06-01 10:47:22] #00011 WARNING  spd=34.4km/h tmp=96.5°C vlt=12.6V psi=23.7 [Active alert(s) present]
+[2026-06-01 10:47:23] #00012 CRASH    spd=40.1km/h tmp=96.0°C vlt=12.2V psi=23.7 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:24] #00013 CRASH    spd=46.3km/h tmp=95.4°C vlt=12.2V psi=22.8 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:25] #00014 CRASH    spd=51.5km/h tmp=99.2°C vlt=11.9V psi=22.4 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:26] #00015 WARNING  spd=58.1km/h tmp=92.6°C vlt=11.7V psi=21.7 [Active alert(s) present]
+[2026-06-01 10:47:27] #00016 WARNING  spd=47.7km/h tmp=86.2°C vlt=11.6V psi=20.1 [Active alert(s) present]
+[2026-06-01 10:47:28] #00017 WARNING  spd=49.9km/h tmp=93.1°C vlt=11.5V psi=18.7 [Active alert(s) present]
+[2026-06-01 11:21:07] #00018 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:03:46] #00020 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:05:05] #00021 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:05:30] #00023 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:05:56] #00024 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:06:20] #00026 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:40:50] #00027 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:41:34] #00029 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:41:53] #00030 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:42:22] #00032 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 13:10:20] #00033 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 13:10:45] #00035 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 14:48:12] #00036 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 14:48:45] #00038 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 14:48:59] #00039 NORMAL   spd=72.0km/h tmp=85.0°C vlt=12.5V psi=30.0
+[2026-06-01 14:49:00] #00040 NORMAL   spd=60.5km/h tmp=87.1°C vlt=12.5V psi=28.8
+[2026-06-01 14:49:01] #00041 NORMAL   spd=58.1km/h tmp=91.9°C vlt=12.3V psi=28.9
+[2026-06-01 14:49:02] #00042 NORMAL   spd=57.3km/h tmp=94.9°C vlt=11.8V psi=28.2
+[2026-06-01 14:49:03] #00043 WARNING  spd=45.7km/h tmp=96.5°C vlt=12.0V psi=28.6 [Active alert(s) present]
+[2026-06-01 14:49:04] #00044 WARNING  spd=58.0km/h tmp=97.3°C vlt=12.0V psi=28.0 [Active alert(s) present]
+[2026-06-01 14:49:05] #00045 NORMAL   spd=68.5km/h tmp=94.1°C vlt=11.8V psi=26.5
+[2026-06-01 14:49:06] #00046 NORMAL   spd=74.8km/h tmp=89.4°C vlt=11.9V psi=26.1
+[2026-06-01 14:49:07] #00047 WARNING  spd=81.9km/h tmp=86.3°C vlt=12.0V psi=25.0 [Active alert(s) present]
+[2026-06-01 14:49:08] #00048 WARNING  spd=87.3km/h tmp=89.4°C vlt=11.9V psi=23.8 [Active alert(s) present]
+[2026-06-01 14:49:09] #00049 WARNING  spd=84.6km/h tmp=87.1°C vlt=11.7V psi=22.4 [Active alert(s) present]
+[2026-06-01 14:49:10] #00050 CRASH    spd=96.9km/h tmp=88.4°C vlt=11.6V psi=21.2 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:11] #00051 CRASH    spd=97.7km/h tmp=81.1°C vlt=11.7V psi=19.4 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:12] #00052 CRASH    spd=100.6km/h tmp=80.9°C vlt=11.2V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:13] #00053 CRASH    spd=96.8km/h tmp=89.0°C vlt=11.4V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:14] #00054 CRASH    spd=85.6km/h tmp=93.1°C vlt=11.2V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:15] #00055 CRASH    spd=81.1km/h tmp=96.3°C vlt=10.9V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:16] #00056 WARNING  spd=92.7km/h tmp=90.3°C vlt=10.9V psi=18.0 [Active alert(s) present]
+[2026-06-01 14:49:17] #00057 WARNING  spd=89.2km/h tmp=86.9°C vlt=10.9V psi=18.0 [Active alert(s) present]
+[2026-06-01 14:49:18] #00058 WARNING  spd=90.2km/h tmp=85.7°C vlt=11.2V psi=18.0 [Active alert(s) present]
+[2026-06-01 14:49:19] #00059 WARNING  spd=87.8km/h tmp=81.2°C vlt=11.1V psi=18.0 [Active alert(s) present]
+[2026-06-01 14:49:20] #00060 CRASH    spd=93.8km/h tmp=85.0°C vlt=10.8V psi=18.1 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:21] #00061 CRASH    spd=100.7km/h tmp=82.2°C vlt=11.0V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:22] #00062 CRASH    spd=111.7km/h tmp=90.5°C vlt=11.2V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:57:47] #00063 CRASH    spd=77.1km/h tmp=84.9°C vlt=12.7V psi=29.7 [Sudden decel 34 km/h/cyc]
+[2026-06-01 14:57:48] #00064 NORMAL   spd=66.9km/h tmp=87.5°C vlt=12.4V psi=28.7
+[2026-06-01 14:57:49] #00065 NORMAL   spd=71.0km/h tmp=84.1°C vlt=12.4V psi=28.4
+[2026-06-01 14:57:50] #00066 NORMAL   spd=70.0km/h tmp=81.4°C vlt=12.1V psi=27.0
+[2026-06-01 14:57:51] #00067 NORMAL   spd=61.9km/h tmp=73.2°C vlt=12.6V psi=26.7
+[2026-06-01 14:57:52] #00068 CRASH    spd=62.1km/h tmp=67.0°C vlt=12.7V psi=26.8 [Critical alert: DOOR_OPEN_WARNING]
+
+=== EDR FLUSH @ 2026-06-01 14:57:53  seq=69  records=62 ===
+[2026-06-01 10:46:51] #00001 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 10:47:13] #00002 NORMAL   spd=75.2km/h tmp=87.2°C vlt=12.4V psi=29.3
+[2026-06-01 10:47:14] #00003 NORMAL   spd=59.8km/h tmp=89.6°C vlt=12.7V psi=28.2
+[2026-06-01 10:47:15] #00004 NORMAL   spd=62.7km/h tmp=92.2°C vlt=12.1V psi=26.7
+[2026-06-01 10:47:16] #00005 NORMAL   spd=60.6km/h tmp=87.4°C vlt=12.6V psi=25.4
+[2026-06-01 10:47:17] #00006 WARNING  spd=72.0km/h tmp=87.5°C vlt=12.6V psi=26.2 [Active alert(s) present]
+[2026-06-01 10:47:18] #00007 WARNING  spd=75.7km/h tmp=86.9°C vlt=12.8V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:19] #00008 WARNING  spd=71.6km/h tmp=89.6°C vlt=12.5V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:20] #00009 WARNING  spd=54.5km/h tmp=97.1°C vlt=12.4V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:21] #00010 WARNING  spd=38.0km/h tmp=94.9°C vlt=12.6V psi=23.4 [Active alert(s) present]
+[2026-06-01 10:47:22] #00011 WARNING  spd=34.4km/h tmp=96.5°C vlt=12.6V psi=23.7 [Active alert(s) present]
+[2026-06-01 10:47:23] #00012 CRASH    spd=40.1km/h tmp=96.0°C vlt=12.2V psi=23.7 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:24] #00013 CRASH    spd=46.3km/h tmp=95.4°C vlt=12.2V psi=22.8 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:25] #00014 CRASH    spd=51.5km/h tmp=99.2°C vlt=11.9V psi=22.4 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:26] #00015 WARNING  spd=58.1km/h tmp=92.6°C vlt=11.7V psi=21.7 [Active alert(s) present]
+[2026-06-01 10:47:27] #00016 WARNING  spd=47.7km/h tmp=86.2°C vlt=11.6V psi=20.1 [Active alert(s) present]
+[2026-06-01 10:47:28] #00017 WARNING  spd=49.9km/h tmp=93.1°C vlt=11.5V psi=18.7 [Active alert(s) present]
+[2026-06-01 11:21:07] #00018 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:03:46] #00020 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:05:05] #00021 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:05:30] #00023 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:05:56] #00024 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:06:20] #00026 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:40:50] #00027 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:41:34] #00029 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:41:53] #00030 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:42:22] #00032 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 13:10:20] #00033 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 13:10:45] #00035 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 14:48:12] #00036 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 14:48:45] #00038 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 14:48:59] #00039 NORMAL   spd=72.0km/h tmp=85.0°C vlt=12.5V psi=30.0
+[2026-06-01 14:49:00] #00040 NORMAL   spd=60.5km/h tmp=87.1°C vlt=12.5V psi=28.8
+[2026-06-01 14:49:01] #00041 NORMAL   spd=58.1km/h tmp=91.9°C vlt=12.3V psi=28.9
+[2026-06-01 14:49:02] #00042 NORMAL   spd=57.3km/h tmp=94.9°C vlt=11.8V psi=28.2
+[2026-06-01 14:49:03] #00043 WARNING  spd=45.7km/h tmp=96.5°C vlt=12.0V psi=28.6 [Active alert(s) present]
+[2026-06-01 14:49:04] #00044 WARNING  spd=58.0km/h tmp=97.3°C vlt=12.0V psi=28.0 [Active alert(s) present]
+[2026-06-01 14:49:05] #00045 NORMAL   spd=68.5km/h tmp=94.1°C vlt=11.8V psi=26.5
+[2026-06-01 14:49:06] #00046 NORMAL   spd=74.8km/h tmp=89.4°C vlt=11.9V psi=26.1
+[2026-06-01 14:49:07] #00047 WARNING  spd=81.9km/h tmp=86.3°C vlt=12.0V psi=25.0 [Active alert(s) present]
+[2026-06-01 14:49:08] #00048 WARNING  spd=87.3km/h tmp=89.4°C vlt=11.9V psi=23.8 [Active alert(s) present]
+[2026-06-01 14:49:09] #00049 WARNING  spd=84.6km/h tmp=87.1°C vlt=11.7V psi=22.4 [Active alert(s) present]
+[2026-06-01 14:49:10] #00050 CRASH    spd=96.9km/h tmp=88.4°C vlt=11.6V psi=21.2 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:11] #00051 CRASH    spd=97.7km/h tmp=81.1°C vlt=11.7V psi=19.4 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:12] #00052 CRASH    spd=100.6km/h tmp=80.9°C vlt=11.2V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:13] #00053 CRASH    spd=96.8km/h tmp=89.0°C vlt=11.4V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:14] #00054 CRASH    spd=85.6km/h tmp=93.1°C vlt=11.2V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:15] #00055 CRASH    spd=81.1km/h tmp=96.3°C vlt=10.9V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:16] #00056 WARNING  spd=92.7km/h tmp=90.3°C vlt=10.9V psi=18.0 [Active alert(s) present]
+[2026-06-01 14:49:17] #00057 WARNING  spd=89.2km/h tmp=86.9°C vlt=10.9V psi=18.0 [Active alert(s) present]
+[2026-06-01 14:49:18] #00058 WARNING  spd=90.2km/h tmp=85.7°C vlt=11.2V psi=18.0 [Active alert(s) present]
+[2026-06-01 14:49:19] #00059 WARNING  spd=87.8km/h tmp=81.2°C vlt=11.1V psi=18.0 [Active alert(s) present]
+[2026-06-01 14:49:20] #00060 CRASH    spd=93.8km/h tmp=85.0°C vlt=10.8V psi=18.1 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:21] #00061 CRASH    spd=100.7km/h tmp=82.2°C vlt=11.0V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:22] #00062 CRASH    spd=111.7km/h tmp=90.5°C vlt=11.2V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:57:47] #00063 CRASH    spd=77.1km/h tmp=84.9°C vlt=12.7V psi=29.7 [Sudden decel 34 km/h/cyc]
+[2026-06-01 14:57:48] #00064 NORMAL   spd=66.9km/h tmp=87.5°C vlt=12.4V psi=28.7
+[2026-06-01 14:57:49] #00065 NORMAL   spd=71.0km/h tmp=84.1°C vlt=12.4V psi=28.4
+[2026-06-01 14:57:50] #00066 NORMAL   spd=70.0km/h tmp=81.4°C vlt=12.1V psi=27.0
+[2026-06-01 14:57:51] #00067 NORMAL   spd=61.9km/h tmp=73.2°C vlt=12.6V psi=26.7
+[2026-06-01 14:57:52] #00068 CRASH    spd=62.1km/h tmp=67.0°C vlt=12.7V psi=26.8 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:57:53] #00069 CRASH    spd=73.3km/h tmp=67.4°C vlt=12.2V psi=25.0 [Critical alert: DOOR_OPEN_WARNING]
+
+=== EDR FLUSH @ 2026-06-01 15:08:52  seq=71  records=64 ===
+[2026-06-01 10:46:51] #00001 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 10:47:13] #00002 NORMAL   spd=75.2km/h tmp=87.2°C vlt=12.4V psi=29.3
+[2026-06-01 10:47:14] #00003 NORMAL   spd=59.8km/h tmp=89.6°C vlt=12.7V psi=28.2
+[2026-06-01 10:47:15] #00004 NORMAL   spd=62.7km/h tmp=92.2°C vlt=12.1V psi=26.7
+[2026-06-01 10:47:16] #00005 NORMAL   spd=60.6km/h tmp=87.4°C vlt=12.6V psi=25.4
+[2026-06-01 10:47:17] #00006 WARNING  spd=72.0km/h tmp=87.5°C vlt=12.6V psi=26.2 [Active alert(s) present]
+[2026-06-01 10:47:18] #00007 WARNING  spd=75.7km/h tmp=86.9°C vlt=12.8V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:19] #00008 WARNING  spd=71.6km/h tmp=89.6°C vlt=12.5V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:20] #00009 WARNING  spd=54.5km/h tmp=97.1°C vlt=12.4V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:21] #00010 WARNING  spd=38.0km/h tmp=94.9°C vlt=12.6V psi=23.4 [Active alert(s) present]
+[2026-06-01 10:47:22] #00011 WARNING  spd=34.4km/h tmp=96.5°C vlt=12.6V psi=23.7 [Active alert(s) present]
+[2026-06-01 10:47:23] #00012 CRASH    spd=40.1km/h tmp=96.0°C vlt=12.2V psi=23.7 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:24] #00013 CRASH    spd=46.3km/h tmp=95.4°C vlt=12.2V psi=22.8 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:25] #00014 CRASH    spd=51.5km/h tmp=99.2°C vlt=11.9V psi=22.4 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:26] #00015 WARNING  spd=58.1km/h tmp=92.6°C vlt=11.7V psi=21.7 [Active alert(s) present]
+[2026-06-01 10:47:27] #00016 WARNING  spd=47.7km/h tmp=86.2°C vlt=11.6V psi=20.1 [Active alert(s) present]
+[2026-06-01 10:47:28] #00017 WARNING  spd=49.9km/h tmp=93.1°C vlt=11.5V psi=18.7 [Active alert(s) present]
+[2026-06-01 11:21:07] #00018 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:03:46] #00020 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:05:05] #00021 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:05:30] #00023 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:05:56] #00024 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:06:20] #00026 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:40:50] #00027 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:41:34] #00029 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:41:53] #00030 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:42:22] #00032 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 13:10:20] #00033 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 13:10:45] #00035 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 14:48:12] #00036 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 14:48:45] #00038 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 14:48:59] #00039 NORMAL   spd=72.0km/h tmp=85.0°C vlt=12.5V psi=30.0
+[2026-06-01 14:49:00] #00040 NORMAL   spd=60.5km/h tmp=87.1°C vlt=12.5V psi=28.8
+[2026-06-01 14:49:01] #00041 NORMAL   spd=58.1km/h tmp=91.9°C vlt=12.3V psi=28.9
+[2026-06-01 14:49:02] #00042 NORMAL   spd=57.3km/h tmp=94.9°C vlt=11.8V psi=28.2
+[2026-06-01 14:49:03] #00043 WARNING  spd=45.7km/h tmp=96.5°C vlt=12.0V psi=28.6 [Active alert(s) present]
+[2026-06-01 14:49:04] #00044 WARNING  spd=58.0km/h tmp=97.3°C vlt=12.0V psi=28.0 [Active alert(s) present]
+[2026-06-01 14:49:05] #00045 NORMAL   spd=68.5km/h tmp=94.1°C vlt=11.8V psi=26.5
+[2026-06-01 14:49:06] #00046 NORMAL   spd=74.8km/h tmp=89.4°C vlt=11.9V psi=26.1
+[2026-06-01 14:49:07] #00047 WARNING  spd=81.9km/h tmp=86.3°C vlt=12.0V psi=25.0 [Active alert(s) present]
+[2026-06-01 14:49:08] #00048 WARNING  spd=87.3km/h tmp=89.4°C vlt=11.9V psi=23.8 [Active alert(s) present]
+[2026-06-01 14:49:09] #00049 WARNING  spd=84.6km/h tmp=87.1°C vlt=11.7V psi=22.4 [Active alert(s) present]
+[2026-06-01 14:49:10] #00050 CRASH    spd=96.9km/h tmp=88.4°C vlt=11.6V psi=21.2 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:11] #00051 CRASH    spd=97.7km/h tmp=81.1°C vlt=11.7V psi=19.4 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:12] #00052 CRASH    spd=100.6km/h tmp=80.9°C vlt=11.2V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:13] #00053 CRASH    spd=96.8km/h tmp=89.0°C vlt=11.4V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:14] #00054 CRASH    spd=85.6km/h tmp=93.1°C vlt=11.2V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:15] #00055 CRASH    spd=81.1km/h tmp=96.3°C vlt=10.9V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:16] #00056 WARNING  spd=92.7km/h tmp=90.3°C vlt=10.9V psi=18.0 [Active alert(s) present]
+[2026-06-01 14:49:17] #00057 WARNING  spd=89.2km/h tmp=86.9°C vlt=10.9V psi=18.0 [Active alert(s) present]
+[2026-06-01 14:49:18] #00058 WARNING  spd=90.2km/h tmp=85.7°C vlt=11.2V psi=18.0 [Active alert(s) present]
+[2026-06-01 14:49:19] #00059 WARNING  spd=87.8km/h tmp=81.2°C vlt=11.1V psi=18.0 [Active alert(s) present]
+[2026-06-01 14:49:20] #00060 CRASH    spd=93.8km/h tmp=85.0°C vlt=10.8V psi=18.1 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:21] #00061 CRASH    spd=100.7km/h tmp=82.2°C vlt=11.0V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:22] #00062 CRASH    spd=111.7km/h tmp=90.5°C vlt=11.2V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:57:47] #00063 CRASH    spd=77.1km/h tmp=84.9°C vlt=12.7V psi=29.7 [Sudden decel 34 km/h/cyc]
+[2026-06-01 14:57:48] #00064 NORMAL   spd=66.9km/h tmp=87.5°C vlt=12.4V psi=28.7
+[2026-06-01 14:57:49] #00065 NORMAL   spd=71.0km/h tmp=84.1°C vlt=12.4V psi=28.4
+[2026-06-01 14:57:50] #00066 NORMAL   spd=70.0km/h tmp=81.4°C vlt=12.1V psi=27.0
+[2026-06-01 14:57:51] #00067 NORMAL   spd=61.9km/h tmp=73.2°C vlt=12.6V psi=26.7
+[2026-06-01 14:57:52] #00068 CRASH    spd=62.1km/h tmp=67.0°C vlt=12.7V psi=26.8 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:57:53] #00069 CRASH    spd=73.3km/h tmp=67.4°C vlt=12.2V psi=25.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:57:54] #00070 WARNING  spd=83.7km/h tmp=65.8°C vlt=12.1V psi=24.2 [Active alert(s) present]
+[2026-06-01 15:08:52] #00071 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+
+=== EDR FLUSH @ 2026-06-01 15:22:59  seq=74  records=64 ===
+[2026-06-01 10:47:14] #00003 NORMAL   spd=59.8km/h tmp=89.6°C vlt=12.7V psi=28.2
+[2026-06-01 10:47:15] #00004 NORMAL   spd=62.7km/h tmp=92.2°C vlt=12.1V psi=26.7
+[2026-06-01 10:47:16] #00005 NORMAL   spd=60.6km/h tmp=87.4°C vlt=12.6V psi=25.4
+[2026-06-01 10:47:17] #00006 WARNING  spd=72.0km/h tmp=87.5°C vlt=12.6V psi=26.2 [Active alert(s) present]
+[2026-06-01 10:47:18] #00007 WARNING  spd=75.7km/h tmp=86.9°C vlt=12.8V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:19] #00008 WARNING  spd=71.6km/h tmp=89.6°C vlt=12.5V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:20] #00009 WARNING  spd=54.5km/h tmp=97.1°C vlt=12.4V psi=25.1 [Active alert(s) present]
+[2026-06-01 10:47:21] #00010 WARNING  spd=38.0km/h tmp=94.9°C vlt=12.6V psi=23.4 [Active alert(s) present]
+[2026-06-01 10:47:22] #00011 WARNING  spd=34.4km/h tmp=96.5°C vlt=12.6V psi=23.7 [Active alert(s) present]
+[2026-06-01 10:47:23] #00012 CRASH    spd=40.1km/h tmp=96.0°C vlt=12.2V psi=23.7 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:24] #00013 CRASH    spd=46.3km/h tmp=95.4°C vlt=12.2V psi=22.8 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:25] #00014 CRASH    spd=51.5km/h tmp=99.2°C vlt=11.9V psi=22.4 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:26] #00015 WARNING  spd=58.1km/h tmp=92.6°C vlt=11.7V psi=21.7 [Active alert(s) present]
+[2026-06-01 10:47:27] #00016 WARNING  spd=47.7km/h tmp=86.2°C vlt=11.6V psi=20.1 [Active alert(s) present]
+[2026-06-01 10:47:28] #00017 WARNING  spd=49.9km/h tmp=93.1°C vlt=11.5V psi=18.7 [Active alert(s) present]
+[2026-06-01 11:21:07] #00018 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:03:46] #00020 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:05:05] #00021 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:05:30] #00023 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:05:56] #00024 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:06:20] #00026 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:40:50] #00027 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:41:34] #00029 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:41:53] #00030 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:42:22] #00032 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 13:10:20] #00033 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 13:10:45] #00035 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 14:48:12] #00036 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 14:48:45] #00038 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 14:48:59] #00039 NORMAL   spd=72.0km/h tmp=85.0°C vlt=12.5V psi=30.0
+[2026-06-01 14:49:00] #00040 NORMAL   spd=60.5km/h tmp=87.1°C vlt=12.5V psi=28.8
+[2026-06-01 14:49:01] #00041 NORMAL   spd=58.1km/h tmp=91.9°C vlt=12.3V psi=28.9
+[2026-06-01 14:49:02] #00042 NORMAL   spd=57.3km/h tmp=94.9°C vlt=11.8V psi=28.2
+[2026-06-01 14:49:03] #00043 WARNING  spd=45.7km/h tmp=96.5°C vlt=12.0V psi=28.6 [Active alert(s) present]
+[2026-06-01 14:49:04] #00044 WARNING  spd=58.0km/h tmp=97.3°C vlt=12.0V psi=28.0 [Active alert(s) present]
+[2026-06-01 14:49:05] #00045 NORMAL   spd=68.5km/h tmp=94.1°C vlt=11.8V psi=26.5
+[2026-06-01 14:49:06] #00046 NORMAL   spd=74.8km/h tmp=89.4°C vlt=11.9V psi=26.1
+[2026-06-01 14:49:07] #00047 WARNING  spd=81.9km/h tmp=86.3°C vlt=12.0V psi=25.0 [Active alert(s) present]
+[2026-06-01 14:49:08] #00048 WARNING  spd=87.3km/h tmp=89.4°C vlt=11.9V psi=23.8 [Active alert(s) present]
+[2026-06-01 14:49:09] #00049 WARNING  spd=84.6km/h tmp=87.1°C vlt=11.7V psi=22.4 [Active alert(s) present]
+[2026-06-01 14:49:10] #00050 CRASH    spd=96.9km/h tmp=88.4°C vlt=11.6V psi=21.2 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:11] #00051 CRASH    spd=97.7km/h tmp=81.1°C vlt=11.7V psi=19.4 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:12] #00052 CRASH    spd=100.6km/h tmp=80.9°C vlt=11.2V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:13] #00053 CRASH    spd=96.8km/h tmp=89.0°C vlt=11.4V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:14] #00054 CRASH    spd=85.6km/h tmp=93.1°C vlt=11.2V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:15] #00055 CRASH    spd=81.1km/h tmp=96.3°C vlt=10.9V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:16] #00056 WARNING  spd=92.7km/h tmp=90.3°C vlt=10.9V psi=18.0 [Active alert(s) present]
+[2026-06-01 14:49:17] #00057 WARNING  spd=89.2km/h tmp=86.9°C vlt=10.9V psi=18.0 [Active alert(s) present]
+[2026-06-01 14:49:18] #00058 WARNING  spd=90.2km/h tmp=85.7°C vlt=11.2V psi=18.0 [Active alert(s) present]
+[2026-06-01 14:49:19] #00059 WARNING  spd=87.8km/h tmp=81.2°C vlt=11.1V psi=18.0 [Active alert(s) present]
+[2026-06-01 14:49:20] #00060 CRASH    spd=93.8km/h tmp=85.0°C vlt=10.8V psi=18.1 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:21] #00061 CRASH    spd=100.7km/h tmp=82.2°C vlt=11.0V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:22] #00062 CRASH    spd=111.7km/h tmp=90.5°C vlt=11.2V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:57:47] #00063 CRASH    spd=77.1km/h tmp=84.9°C vlt=12.7V psi=29.7 [Sudden decel 34 km/h/cyc]
+[2026-06-01 14:57:48] #00064 NORMAL   spd=66.9km/h tmp=87.5°C vlt=12.4V psi=28.7
+[2026-06-01 14:57:49] #00065 NORMAL   spd=71.0km/h tmp=84.1°C vlt=12.4V psi=28.4
+[2026-06-01 14:57:50] #00066 NORMAL   spd=70.0km/h tmp=81.4°C vlt=12.1V psi=27.0
+[2026-06-01 14:57:51] #00067 NORMAL   spd=61.9km/h tmp=73.2°C vlt=12.6V psi=26.7
+[2026-06-01 14:57:52] #00068 CRASH    spd=62.1km/h tmp=67.0°C vlt=12.7V psi=26.8 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:57:53] #00069 CRASH    spd=73.3km/h tmp=67.4°C vlt=12.2V psi=25.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:57:54] #00070 WARNING  spd=83.7km/h tmp=65.8°C vlt=12.1V psi=24.2 [Active alert(s) present]
+[2026-06-01 15:08:52] #00071 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 15:20:07] #00073 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 15:22:59] #00074 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+
+=== EDR FLUSH @ 2026-06-01 19:35:05  seq=84  records=64 ===
+[2026-06-01 10:47:23] #00012 CRASH    spd=40.1km/h tmp=96.0°C vlt=12.2V psi=23.7 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:24] #00013 CRASH    spd=46.3km/h tmp=95.4°C vlt=12.2V psi=22.8 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:25] #00014 CRASH    spd=51.5km/h tmp=99.2°C vlt=11.9V psi=22.4 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:26] #00015 WARNING  spd=58.1km/h tmp=92.6°C vlt=11.7V psi=21.7 [Active alert(s) present]
+[2026-06-01 10:47:27] #00016 WARNING  spd=47.7km/h tmp=86.2°C vlt=11.6V psi=20.1 [Active alert(s) present]
+[2026-06-01 10:47:28] #00017 WARNING  spd=49.9km/h tmp=93.1°C vlt=11.5V psi=18.7 [Active alert(s) present]
+[2026-06-01 11:21:07] #00018 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:03:46] #00020 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:05:05] #00021 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:05:30] #00023 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:05:56] #00024 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:06:20] #00026 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:40:50] #00027 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:41:34] #00029 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:41:53] #00030 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:42:22] #00032 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 13:10:20] #00033 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 13:10:45] #00035 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 14:48:12] #00036 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 14:48:45] #00038 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 14:48:59] #00039 NORMAL   spd=72.0km/h tmp=85.0°C vlt=12.5V psi=30.0
+[2026-06-01 14:49:00] #00040 NORMAL   spd=60.5km/h tmp=87.1°C vlt=12.5V psi=28.8
+[2026-06-01 14:49:01] #00041 NORMAL   spd=58.1km/h tmp=91.9°C vlt=12.3V psi=28.9
+[2026-06-01 14:49:02] #00042 NORMAL   spd=57.3km/h tmp=94.9°C vlt=11.8V psi=28.2
+[2026-06-01 14:49:03] #00043 WARNING  spd=45.7km/h tmp=96.5°C vlt=12.0V psi=28.6 [Active alert(s) present]
+[2026-06-01 14:49:04] #00044 WARNING  spd=58.0km/h tmp=97.3°C vlt=12.0V psi=28.0 [Active alert(s) present]
+[2026-06-01 14:49:05] #00045 NORMAL   spd=68.5km/h tmp=94.1°C vlt=11.8V psi=26.5
+[2026-06-01 14:49:06] #00046 NORMAL   spd=74.8km/h tmp=89.4°C vlt=11.9V psi=26.1
+[2026-06-01 14:49:07] #00047 WARNING  spd=81.9km/h tmp=86.3°C vlt=12.0V psi=25.0 [Active alert(s) present]
+[2026-06-01 14:49:08] #00048 WARNING  spd=87.3km/h tmp=89.4°C vlt=11.9V psi=23.8 [Active alert(s) present]
+[2026-06-01 14:49:09] #00049 WARNING  spd=84.6km/h tmp=87.1°C vlt=11.7V psi=22.4 [Active alert(s) present]
+[2026-06-01 14:49:10] #00050 CRASH    spd=96.9km/h tmp=88.4°C vlt=11.6V psi=21.2 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:11] #00051 CRASH    spd=97.7km/h tmp=81.1°C vlt=11.7V psi=19.4 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:12] #00052 CRASH    spd=100.6km/h tmp=80.9°C vlt=11.2V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:13] #00053 CRASH    spd=96.8km/h tmp=89.0°C vlt=11.4V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:14] #00054 CRASH    spd=85.6km/h tmp=93.1°C vlt=11.2V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:15] #00055 CRASH    spd=81.1km/h tmp=96.3°C vlt=10.9V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:16] #00056 WARNING  spd=92.7km/h tmp=90.3°C vlt=10.9V psi=18.0 [Active alert(s) present]
+[2026-06-01 14:49:17] #00057 WARNING  spd=89.2km/h tmp=86.9°C vlt=10.9V psi=18.0 [Active alert(s) present]
+[2026-06-01 14:49:18] #00058 WARNING  spd=90.2km/h tmp=85.7°C vlt=11.2V psi=18.0 [Active alert(s) present]
+[2026-06-01 14:49:19] #00059 WARNING  spd=87.8km/h tmp=81.2°C vlt=11.1V psi=18.0 [Active alert(s) present]
+[2026-06-01 14:49:20] #00060 CRASH    spd=93.8km/h tmp=85.0°C vlt=10.8V psi=18.1 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:21] #00061 CRASH    spd=100.7km/h tmp=82.2°C vlt=11.0V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:22] #00062 CRASH    spd=111.7km/h tmp=90.5°C vlt=11.2V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:57:47] #00063 CRASH    spd=77.1km/h tmp=84.9°C vlt=12.7V psi=29.7 [Sudden decel 34 km/h/cyc]
+[2026-06-01 14:57:48] #00064 NORMAL   spd=66.9km/h tmp=87.5°C vlt=12.4V psi=28.7
+[2026-06-01 14:57:49] #00065 NORMAL   spd=71.0km/h tmp=84.1°C vlt=12.4V psi=28.4
+[2026-06-01 14:57:50] #00066 NORMAL   spd=70.0km/h tmp=81.4°C vlt=12.1V psi=27.0
+[2026-06-01 14:57:51] #00067 NORMAL   spd=61.9km/h tmp=73.2°C vlt=12.6V psi=26.7
+[2026-06-01 14:57:52] #00068 CRASH    spd=62.1km/h tmp=67.0°C vlt=12.7V psi=26.8 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:57:53] #00069 CRASH    spd=73.3km/h tmp=67.4°C vlt=12.2V psi=25.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:57:54] #00070 WARNING  spd=83.7km/h tmp=65.8°C vlt=12.1V psi=24.2 [Active alert(s) present]
+[2026-06-01 15:08:52] #00071 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 15:20:07] #00073 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 15:22:59] #00074 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 19:34:55] #00076 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 19:34:58] #00077 NORMAL   spd=72.0km/h tmp=85.0°C vlt=12.5V psi=30.0
+[2026-06-01 19:34:59] #00078 NORMAL   spd=67.5km/h tmp=87.4°C vlt=12.1V psi=28.5
+[2026-06-01 19:35:00] #00079 NORMAL   spd=61.1km/h tmp=89.3°C vlt=12.4V psi=28.9
+[2026-06-01 19:35:01] #00080 NORMAL   spd=58.2km/h tmp=88.5°C vlt=12.1V psi=26.9
+[2026-06-01 19:35:02] #00081 NORMAL   spd=62.0km/h tmp=79.9°C vlt=11.8V psi=25.2
+[2026-06-01 19:35:03] #00082 NORMAL   spd=50.0km/h tmp=84.5°C vlt=11.6V psi=25.2
+[2026-06-01 19:35:04] #00083 WARNING  spd=50.2km/h tmp=83.5°C vlt=11.5V psi=22.8 [Active alert(s) present]
+[2026-06-01 19:35:05] #00084 CRASH    spd=35.9km/h tmp=80.0°C vlt=11.5V psi=23.5 [Critical alert: DOOR_OPEN_WARNING]
+
+=== EDR FLUSH @ 2026-06-01 19:35:06  seq=85  records=64 ===
+[2026-06-01 10:47:24] #00013 CRASH    spd=46.3km/h tmp=95.4°C vlt=12.2V psi=22.8 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:25] #00014 CRASH    spd=51.5km/h tmp=99.2°C vlt=11.9V psi=22.4 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:26] #00015 WARNING  spd=58.1km/h tmp=92.6°C vlt=11.7V psi=21.7 [Active alert(s) present]
+[2026-06-01 10:47:27] #00016 WARNING  spd=47.7km/h tmp=86.2°C vlt=11.6V psi=20.1 [Active alert(s) present]
+[2026-06-01 10:47:28] #00017 WARNING  spd=49.9km/h tmp=93.1°C vlt=11.5V psi=18.7 [Active alert(s) present]
+[2026-06-01 11:21:07] #00018 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:03:46] #00020 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:05:05] #00021 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:05:30] #00023 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:05:56] #00024 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:06:20] #00026 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:40:50] #00027 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:41:34] #00029 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:41:53] #00030 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:42:22] #00032 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 13:10:20] #00033 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 13:10:45] #00035 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 14:48:12] #00036 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 14:48:45] #00038 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 14:48:59] #00039 NORMAL   spd=72.0km/h tmp=85.0°C vlt=12.5V psi=30.0
+[2026-06-01 14:49:00] #00040 NORMAL   spd=60.5km/h tmp=87.1°C vlt=12.5V psi=28.8
+[2026-06-01 14:49:01] #00041 NORMAL   spd=58.1km/h tmp=91.9°C vlt=12.3V psi=28.9
+[2026-06-01 14:49:02] #00042 NORMAL   spd=57.3km/h tmp=94.9°C vlt=11.8V psi=28.2
+[2026-06-01 14:49:03] #00043 WARNING  spd=45.7km/h tmp=96.5°C vlt=12.0V psi=28.6 [Active alert(s) present]
+[2026-06-01 14:49:04] #00044 WARNING  spd=58.0km/h tmp=97.3°C vlt=12.0V psi=28.0 [Active alert(s) present]
+[2026-06-01 14:49:05] #00045 NORMAL   spd=68.5km/h tmp=94.1°C vlt=11.8V psi=26.5
+[2026-06-01 14:49:06] #00046 NORMAL   spd=74.8km/h tmp=89.4°C vlt=11.9V psi=26.1
+[2026-06-01 14:49:07] #00047 WARNING  spd=81.9km/h tmp=86.3°C vlt=12.0V psi=25.0 [Active alert(s) present]
+[2026-06-01 14:49:08] #00048 WARNING  spd=87.3km/h tmp=89.4°C vlt=11.9V psi=23.8 [Active alert(s) present]
+[2026-06-01 14:49:09] #00049 WARNING  spd=84.6km/h tmp=87.1°C vlt=11.7V psi=22.4 [Active alert(s) present]
+[2026-06-01 14:49:10] #00050 CRASH    spd=96.9km/h tmp=88.4°C vlt=11.6V psi=21.2 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:11] #00051 CRASH    spd=97.7km/h tmp=81.1°C vlt=11.7V psi=19.4 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:12] #00052 CRASH    spd=100.6km/h tmp=80.9°C vlt=11.2V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:13] #00053 CRASH    spd=96.8km/h tmp=89.0°C vlt=11.4V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:14] #00054 CRASH    spd=85.6km/h tmp=93.1°C vlt=11.2V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:15] #00055 CRASH    spd=81.1km/h tmp=96.3°C vlt=10.9V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:16] #00056 WARNING  spd=92.7km/h tmp=90.3°C vlt=10.9V psi=18.0 [Active alert(s) present]
+[2026-06-01 14:49:17] #00057 WARNING  spd=89.2km/h tmp=86.9°C vlt=10.9V psi=18.0 [Active alert(s) present]
+[2026-06-01 14:49:18] #00058 WARNING  spd=90.2km/h tmp=85.7°C vlt=11.2V psi=18.0 [Active alert(s) present]
+[2026-06-01 14:49:19] #00059 WARNING  spd=87.8km/h tmp=81.2°C vlt=11.1V psi=18.0 [Active alert(s) present]
+[2026-06-01 14:49:20] #00060 CRASH    spd=93.8km/h tmp=85.0°C vlt=10.8V psi=18.1 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:21] #00061 CRASH    spd=100.7km/h tmp=82.2°C vlt=11.0V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:22] #00062 CRASH    spd=111.7km/h tmp=90.5°C vlt=11.2V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:57:47] #00063 CRASH    spd=77.1km/h tmp=84.9°C vlt=12.7V psi=29.7 [Sudden decel 34 km/h/cyc]
+[2026-06-01 14:57:48] #00064 NORMAL   spd=66.9km/h tmp=87.5°C vlt=12.4V psi=28.7
+[2026-06-01 14:57:49] #00065 NORMAL   spd=71.0km/h tmp=84.1°C vlt=12.4V psi=28.4
+[2026-06-01 14:57:50] #00066 NORMAL   spd=70.0km/h tmp=81.4°C vlt=12.1V psi=27.0
+[2026-06-01 14:57:51] #00067 NORMAL   spd=61.9km/h tmp=73.2°C vlt=12.6V psi=26.7
+[2026-06-01 14:57:52] #00068 CRASH    spd=62.1km/h tmp=67.0°C vlt=12.7V psi=26.8 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:57:53] #00069 CRASH    spd=73.3km/h tmp=67.4°C vlt=12.2V psi=25.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:57:54] #00070 WARNING  spd=83.7km/h tmp=65.8°C vlt=12.1V psi=24.2 [Active alert(s) present]
+[2026-06-01 15:08:52] #00071 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 15:20:07] #00073 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 15:22:59] #00074 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 19:34:55] #00076 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 19:34:58] #00077 NORMAL   spd=72.0km/h tmp=85.0°C vlt=12.5V psi=30.0
+[2026-06-01 19:34:59] #00078 NORMAL   spd=67.5km/h tmp=87.4°C vlt=12.1V psi=28.5
+[2026-06-01 19:35:00] #00079 NORMAL   spd=61.1km/h tmp=89.3°C vlt=12.4V psi=28.9
+[2026-06-01 19:35:01] #00080 NORMAL   spd=58.2km/h tmp=88.5°C vlt=12.1V psi=26.9
+[2026-06-01 19:35:02] #00081 NORMAL   spd=62.0km/h tmp=79.9°C vlt=11.8V psi=25.2
+[2026-06-01 19:35:03] #00082 NORMAL   spd=50.0km/h tmp=84.5°C vlt=11.6V psi=25.2
+[2026-06-01 19:35:04] #00083 WARNING  spd=50.2km/h tmp=83.5°C vlt=11.5V psi=22.8 [Active alert(s) present]
+[2026-06-01 19:35:05] #00084 CRASH    spd=35.9km/h tmp=80.0°C vlt=11.5V psi=23.5 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 19:35:06] #00085 CRASH    spd=39.4km/h tmp=76.3°C vlt=11.3V psi=22.4 [Critical alert: DOOR_OPEN_WARNING]
+
+=== EDR FLUSH @ 2026-06-01 19:35:07  seq=86  records=64 ===
+[2026-06-01 10:47:25] #00014 CRASH    spd=51.5km/h tmp=99.2°C vlt=11.9V psi=22.4 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 10:47:26] #00015 WARNING  spd=58.1km/h tmp=92.6°C vlt=11.7V psi=21.7 [Active alert(s) present]
+[2026-06-01 10:47:27] #00016 WARNING  spd=47.7km/h tmp=86.2°C vlt=11.6V psi=20.1 [Active alert(s) present]
+[2026-06-01 10:47:28] #00017 WARNING  spd=49.9km/h tmp=93.1°C vlt=11.5V psi=18.7 [Active alert(s) present]
+[2026-06-01 11:21:07] #00018 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:03:46] #00020 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:05:05] #00021 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:05:30] #00023 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:05:56] #00024 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:06:20] #00026 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:40:50] #00027 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:41:34] #00029 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:41:53] #00030 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:42:22] #00032 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 13:10:20] #00033 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 13:10:45] #00035 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 14:48:12] #00036 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 14:48:45] #00038 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 14:48:59] #00039 NORMAL   spd=72.0km/h tmp=85.0°C vlt=12.5V psi=30.0
+[2026-06-01 14:49:00] #00040 NORMAL   spd=60.5km/h tmp=87.1°C vlt=12.5V psi=28.8
+[2026-06-01 14:49:01] #00041 NORMAL   spd=58.1km/h tmp=91.9°C vlt=12.3V psi=28.9
+[2026-06-01 14:49:02] #00042 NORMAL   spd=57.3km/h tmp=94.9°C vlt=11.8V psi=28.2
+[2026-06-01 14:49:03] #00043 WARNING  spd=45.7km/h tmp=96.5°C vlt=12.0V psi=28.6 [Active alert(s) present]
+[2026-06-01 14:49:04] #00044 WARNING  spd=58.0km/h tmp=97.3°C vlt=12.0V psi=28.0 [Active alert(s) present]
+[2026-06-01 14:49:05] #00045 NORMAL   spd=68.5km/h tmp=94.1°C vlt=11.8V psi=26.5
+[2026-06-01 14:49:06] #00046 NORMAL   spd=74.8km/h tmp=89.4°C vlt=11.9V psi=26.1
+[2026-06-01 14:49:07] #00047 WARNING  spd=81.9km/h tmp=86.3°C vlt=12.0V psi=25.0 [Active alert(s) present]
+[2026-06-01 14:49:08] #00048 WARNING  spd=87.3km/h tmp=89.4°C vlt=11.9V psi=23.8 [Active alert(s) present]
+[2026-06-01 14:49:09] #00049 WARNING  spd=84.6km/h tmp=87.1°C vlt=11.7V psi=22.4 [Active alert(s) present]
+[2026-06-01 14:49:10] #00050 CRASH    spd=96.9km/h tmp=88.4°C vlt=11.6V psi=21.2 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:11] #00051 CRASH    spd=97.7km/h tmp=81.1°C vlt=11.7V psi=19.4 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:12] #00052 CRASH    spd=100.6km/h tmp=80.9°C vlt=11.2V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:13] #00053 CRASH    spd=96.8km/h tmp=89.0°C vlt=11.4V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:14] #00054 CRASH    spd=85.6km/h tmp=93.1°C vlt=11.2V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:15] #00055 CRASH    spd=81.1km/h tmp=96.3°C vlt=10.9V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:16] #00056 WARNING  spd=92.7km/h tmp=90.3°C vlt=10.9V psi=18.0 [Active alert(s) present]
+[2026-06-01 14:49:17] #00057 WARNING  spd=89.2km/h tmp=86.9°C vlt=10.9V psi=18.0 [Active alert(s) present]
+[2026-06-01 14:49:18] #00058 WARNING  spd=90.2km/h tmp=85.7°C vlt=11.2V psi=18.0 [Active alert(s) present]
+[2026-06-01 14:49:19] #00059 WARNING  spd=87.8km/h tmp=81.2°C vlt=11.1V psi=18.0 [Active alert(s) present]
+[2026-06-01 14:49:20] #00060 CRASH    spd=93.8km/h tmp=85.0°C vlt=10.8V psi=18.1 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:21] #00061 CRASH    spd=100.7km/h tmp=82.2°C vlt=11.0V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:22] #00062 CRASH    spd=111.7km/h tmp=90.5°C vlt=11.2V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:57:47] #00063 CRASH    spd=77.1km/h tmp=84.9°C vlt=12.7V psi=29.7 [Sudden decel 34 km/h/cyc]
+[2026-06-01 14:57:48] #00064 NORMAL   spd=66.9km/h tmp=87.5°C vlt=12.4V psi=28.7
+[2026-06-01 14:57:49] #00065 NORMAL   spd=71.0km/h tmp=84.1°C vlt=12.4V psi=28.4
+[2026-06-01 14:57:50] #00066 NORMAL   spd=70.0km/h tmp=81.4°C vlt=12.1V psi=27.0
+[2026-06-01 14:57:51] #00067 NORMAL   spd=61.9km/h tmp=73.2°C vlt=12.6V psi=26.7
+[2026-06-01 14:57:52] #00068 CRASH    spd=62.1km/h tmp=67.0°C vlt=12.7V psi=26.8 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:57:53] #00069 CRASH    spd=73.3km/h tmp=67.4°C vlt=12.2V psi=25.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:57:54] #00070 WARNING  spd=83.7km/h tmp=65.8°C vlt=12.1V psi=24.2 [Active alert(s) present]
+[2026-06-01 15:08:52] #00071 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 15:20:07] #00073 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 15:22:59] #00074 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 19:34:55] #00076 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 19:34:58] #00077 NORMAL   spd=72.0km/h tmp=85.0°C vlt=12.5V psi=30.0
+[2026-06-01 19:34:59] #00078 NORMAL   spd=67.5km/h tmp=87.4°C vlt=12.1V psi=28.5
+[2026-06-01 19:35:00] #00079 NORMAL   spd=61.1km/h tmp=89.3°C vlt=12.4V psi=28.9
+[2026-06-01 19:35:01] #00080 NORMAL   spd=58.2km/h tmp=88.5°C vlt=12.1V psi=26.9
+[2026-06-01 19:35:02] #00081 NORMAL   spd=62.0km/h tmp=79.9°C vlt=11.8V psi=25.2
+[2026-06-01 19:35:03] #00082 NORMAL   spd=50.0km/h tmp=84.5°C vlt=11.6V psi=25.2
+[2026-06-01 19:35:04] #00083 WARNING  spd=50.2km/h tmp=83.5°C vlt=11.5V psi=22.8 [Active alert(s) present]
+[2026-06-01 19:35:05] #00084 CRASH    spd=35.9km/h tmp=80.0°C vlt=11.5V psi=23.5 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 19:35:06] #00085 CRASH    spd=39.4km/h tmp=76.3°C vlt=11.3V psi=22.4 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 19:35:07] #00086 CRASH    spd=38.4km/h tmp=75.1°C vlt=11.1V psi=19.6 [Critical alert: DOOR_OPEN_WARNING]
+
+=== EDR FLUSH @ 2026-06-01 19:35:44  seq=87  records=64 ===
+[2026-06-01 10:47:26] #00015 WARNING  spd=58.1km/h tmp=92.6°C vlt=11.7V psi=21.7 [Active alert(s) present]
+[2026-06-01 10:47:27] #00016 WARNING  spd=47.7km/h tmp=86.2°C vlt=11.6V psi=20.1 [Active alert(s) present]
+[2026-06-01 10:47:28] #00017 WARNING  spd=49.9km/h tmp=93.1°C vlt=11.5V psi=18.7 [Active alert(s) present]
+[2026-06-01 11:21:07] #00018 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:03:46] #00020 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:05:05] #00021 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:05:30] #00023 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:05:56] #00024 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:06:20] #00026 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:40:50] #00027 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:41:34] #00029 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:41:53] #00030 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:42:22] #00032 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 13:10:20] #00033 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 13:10:45] #00035 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 14:48:12] #00036 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 14:48:45] #00038 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 14:48:59] #00039 NORMAL   spd=72.0km/h tmp=85.0°C vlt=12.5V psi=30.0
+[2026-06-01 14:49:00] #00040 NORMAL   spd=60.5km/h tmp=87.1°C vlt=12.5V psi=28.8
+[2026-06-01 14:49:01] #00041 NORMAL   spd=58.1km/h tmp=91.9°C vlt=12.3V psi=28.9
+[2026-06-01 14:49:02] #00042 NORMAL   spd=57.3km/h tmp=94.9°C vlt=11.8V psi=28.2
+[2026-06-01 14:49:03] #00043 WARNING  spd=45.7km/h tmp=96.5°C vlt=12.0V psi=28.6 [Active alert(s) present]
+[2026-06-01 14:49:04] #00044 WARNING  spd=58.0km/h tmp=97.3°C vlt=12.0V psi=28.0 [Active alert(s) present]
+[2026-06-01 14:49:05] #00045 NORMAL   spd=68.5km/h tmp=94.1°C vlt=11.8V psi=26.5
+[2026-06-01 14:49:06] #00046 NORMAL   spd=74.8km/h tmp=89.4°C vlt=11.9V psi=26.1
+[2026-06-01 14:49:07] #00047 WARNING  spd=81.9km/h tmp=86.3°C vlt=12.0V psi=25.0 [Active alert(s) present]
+[2026-06-01 14:49:08] #00048 WARNING  spd=87.3km/h tmp=89.4°C vlt=11.9V psi=23.8 [Active alert(s) present]
+[2026-06-01 14:49:09] #00049 WARNING  spd=84.6km/h tmp=87.1°C vlt=11.7V psi=22.4 [Active alert(s) present]
+[2026-06-01 14:49:10] #00050 CRASH    spd=96.9km/h tmp=88.4°C vlt=11.6V psi=21.2 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:11] #00051 CRASH    spd=97.7km/h tmp=81.1°C vlt=11.7V psi=19.4 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:12] #00052 CRASH    spd=100.6km/h tmp=80.9°C vlt=11.2V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:13] #00053 CRASH    spd=96.8km/h tmp=89.0°C vlt=11.4V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:14] #00054 CRASH    spd=85.6km/h tmp=93.1°C vlt=11.2V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:15] #00055 CRASH    spd=81.1km/h tmp=96.3°C vlt=10.9V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:16] #00056 WARNING  spd=92.7km/h tmp=90.3°C vlt=10.9V psi=18.0 [Active alert(s) present]
+[2026-06-01 14:49:17] #00057 WARNING  spd=89.2km/h tmp=86.9°C vlt=10.9V psi=18.0 [Active alert(s) present]
+[2026-06-01 14:49:18] #00058 WARNING  spd=90.2km/h tmp=85.7°C vlt=11.2V psi=18.0 [Active alert(s) present]
+[2026-06-01 14:49:19] #00059 WARNING  spd=87.8km/h tmp=81.2°C vlt=11.1V psi=18.0 [Active alert(s) present]
+[2026-06-01 14:49:20] #00060 CRASH    spd=93.8km/h tmp=85.0°C vlt=10.8V psi=18.1 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:21] #00061 CRASH    spd=100.7km/h tmp=82.2°C vlt=11.0V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:22] #00062 CRASH    spd=111.7km/h tmp=90.5°C vlt=11.2V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:57:47] #00063 CRASH    spd=77.1km/h tmp=84.9°C vlt=12.7V psi=29.7 [Sudden decel 34 km/h/cyc]
+[2026-06-01 14:57:48] #00064 NORMAL   spd=66.9km/h tmp=87.5°C vlt=12.4V psi=28.7
+[2026-06-01 14:57:49] #00065 NORMAL   spd=71.0km/h tmp=84.1°C vlt=12.4V psi=28.4
+[2026-06-01 14:57:50] #00066 NORMAL   spd=70.0km/h tmp=81.4°C vlt=12.1V psi=27.0
+[2026-06-01 14:57:51] #00067 NORMAL   spd=61.9km/h tmp=73.2°C vlt=12.6V psi=26.7
+[2026-06-01 14:57:52] #00068 CRASH    spd=62.1km/h tmp=67.0°C vlt=12.7V psi=26.8 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:57:53] #00069 CRASH    spd=73.3km/h tmp=67.4°C vlt=12.2V psi=25.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:57:54] #00070 WARNING  spd=83.7km/h tmp=65.8°C vlt=12.1V psi=24.2 [Active alert(s) present]
+[2026-06-01 15:08:52] #00071 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 15:20:07] #00073 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 15:22:59] #00074 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 19:34:55] #00076 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 19:34:58] #00077 NORMAL   spd=72.0km/h tmp=85.0°C vlt=12.5V psi=30.0
+[2026-06-01 19:34:59] #00078 NORMAL   spd=67.5km/h tmp=87.4°C vlt=12.1V psi=28.5
+[2026-06-01 19:35:00] #00079 NORMAL   spd=61.1km/h tmp=89.3°C vlt=12.4V psi=28.9
+[2026-06-01 19:35:01] #00080 NORMAL   spd=58.2km/h tmp=88.5°C vlt=12.1V psi=26.9
+[2026-06-01 19:35:02] #00081 NORMAL   spd=62.0km/h tmp=79.9°C vlt=11.8V psi=25.2
+[2026-06-01 19:35:03] #00082 NORMAL   spd=50.0km/h tmp=84.5°C vlt=11.6V psi=25.2
+[2026-06-01 19:35:04] #00083 WARNING  spd=50.2km/h tmp=83.5°C vlt=11.5V psi=22.8 [Active alert(s) present]
+[2026-06-01 19:35:05] #00084 CRASH    spd=35.9km/h tmp=80.0°C vlt=11.5V psi=23.5 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 19:35:06] #00085 CRASH    spd=39.4km/h tmp=76.3°C vlt=11.3V psi=22.4 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 19:35:07] #00086 CRASH    spd=38.4km/h tmp=75.1°C vlt=11.1V psi=19.6 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 19:35:08] #00087 WARNING  spd=35.6km/h tmp=78.3°C vlt=11.4V psi=19.9 [Active alert(s) present]
+
+=== EDR FLUSH @ 2026-06-01 19:35:57  seq=88  records=64 ===
+[2026-06-01 10:47:27] #00016 WARNING  spd=47.7km/h tmp=86.2°C vlt=11.6V psi=20.1 [Active alert(s) present]
+[2026-06-01 10:47:28] #00017 WARNING  spd=49.9km/h tmp=93.1°C vlt=11.5V psi=18.7 [Active alert(s) present]
+[2026-06-01 11:21:07] #00018 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:03:46] #00020 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:05:05] #00021 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:05:30] #00023 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:05:56] #00024 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:06:20] #00026 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:40:50] #00027 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:41:34] #00029 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 12:41:53] #00030 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 12:42:22] #00032 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 13:10:20] #00033 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 13:10:45] #00035 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 14:48:12] #00036 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 14:48:45] #00038 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 14:48:59] #00039 NORMAL   spd=72.0km/h tmp=85.0°C vlt=12.5V psi=30.0
+[2026-06-01 14:49:00] #00040 NORMAL   spd=60.5km/h tmp=87.1°C vlt=12.5V psi=28.8
+[2026-06-01 14:49:01] #00041 NORMAL   spd=58.1km/h tmp=91.9°C vlt=12.3V psi=28.9
+[2026-06-01 14:49:02] #00042 NORMAL   spd=57.3km/h tmp=94.9°C vlt=11.8V psi=28.2
+[2026-06-01 14:49:03] #00043 WARNING  spd=45.7km/h tmp=96.5°C vlt=12.0V psi=28.6 [Active alert(s) present]
+[2026-06-01 14:49:04] #00044 WARNING  spd=58.0km/h tmp=97.3°C vlt=12.0V psi=28.0 [Active alert(s) present]
+[2026-06-01 14:49:05] #00045 NORMAL   spd=68.5km/h tmp=94.1°C vlt=11.8V psi=26.5
+[2026-06-01 14:49:06] #00046 NORMAL   spd=74.8km/h tmp=89.4°C vlt=11.9V psi=26.1
+[2026-06-01 14:49:07] #00047 WARNING  spd=81.9km/h tmp=86.3°C vlt=12.0V psi=25.0 [Active alert(s) present]
+[2026-06-01 14:49:08] #00048 WARNING  spd=87.3km/h tmp=89.4°C vlt=11.9V psi=23.8 [Active alert(s) present]
+[2026-06-01 14:49:09] #00049 WARNING  spd=84.6km/h tmp=87.1°C vlt=11.7V psi=22.4 [Active alert(s) present]
+[2026-06-01 14:49:10] #00050 CRASH    spd=96.9km/h tmp=88.4°C vlt=11.6V psi=21.2 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:11] #00051 CRASH    spd=97.7km/h tmp=81.1°C vlt=11.7V psi=19.4 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:12] #00052 CRASH    spd=100.6km/h tmp=80.9°C vlt=11.2V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:13] #00053 CRASH    spd=96.8km/h tmp=89.0°C vlt=11.4V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:14] #00054 CRASH    spd=85.6km/h tmp=93.1°C vlt=11.2V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:15] #00055 CRASH    spd=81.1km/h tmp=96.3°C vlt=10.9V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:16] #00056 WARNING  spd=92.7km/h tmp=90.3°C vlt=10.9V psi=18.0 [Active alert(s) present]
+[2026-06-01 14:49:17] #00057 WARNING  spd=89.2km/h tmp=86.9°C vlt=10.9V psi=18.0 [Active alert(s) present]
+[2026-06-01 14:49:18] #00058 WARNING  spd=90.2km/h tmp=85.7°C vlt=11.2V psi=18.0 [Active alert(s) present]
+[2026-06-01 14:49:19] #00059 WARNING  spd=87.8km/h tmp=81.2°C vlt=11.1V psi=18.0 [Active alert(s) present]
+[2026-06-01 14:49:20] #00060 CRASH    spd=93.8km/h tmp=85.0°C vlt=10.8V psi=18.1 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:21] #00061 CRASH    spd=100.7km/h tmp=82.2°C vlt=11.0V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:49:22] #00062 CRASH    spd=111.7km/h tmp=90.5°C vlt=11.2V psi=18.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:57:47] #00063 CRASH    spd=77.1km/h tmp=84.9°C vlt=12.7V psi=29.7 [Sudden decel 34 km/h/cyc]
+[2026-06-01 14:57:48] #00064 NORMAL   spd=66.9km/h tmp=87.5°C vlt=12.4V psi=28.7
+[2026-06-01 14:57:49] #00065 NORMAL   spd=71.0km/h tmp=84.1°C vlt=12.4V psi=28.4
+[2026-06-01 14:57:50] #00066 NORMAL   spd=70.0km/h tmp=81.4°C vlt=12.1V psi=27.0
+[2026-06-01 14:57:51] #00067 NORMAL   spd=61.9km/h tmp=73.2°C vlt=12.6V psi=26.7
+[2026-06-01 14:57:52] #00068 CRASH    spd=62.1km/h tmp=67.0°C vlt=12.7V psi=26.8 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:57:53] #00069 CRASH    spd=73.3km/h tmp=67.4°C vlt=12.2V psi=25.0 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 14:57:54] #00070 WARNING  spd=83.7km/h tmp=65.8°C vlt=12.1V psi=24.2 [Active alert(s) present]
+[2026-06-01 15:08:52] #00071 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 15:20:07] #00073 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 15:22:59] #00074 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]
+[2026-06-01 19:34:55] #00076 STARTUP  spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU power-on / recorder init]
+[2026-06-01 19:34:58] #00077 NORMAL   spd=72.0km/h tmp=85.0°C vlt=12.5V psi=30.0
+[2026-06-01 19:34:59] #00078 NORMAL   spd=67.5km/h tmp=87.4°C vlt=12.1V psi=28.5
+[2026-06-01 19:35:00] #00079 NORMAL   spd=61.1km/h tmp=89.3°C vlt=12.4V psi=28.9
+[2026-06-01 19:35:01] #00080 NORMAL   spd=58.2km/h tmp=88.5°C vlt=12.1V psi=26.9
+[2026-06-01 19:35:02] #00081 NORMAL   spd=62.0km/h tmp=79.9°C vlt=11.8V psi=25.2
+[2026-06-01 19:35:03] #00082 NORMAL   spd=50.0km/h tmp=84.5°C vlt=11.6V psi=25.2
+[2026-06-01 19:35:04] #00083 WARNING  spd=50.2km/h tmp=83.5°C vlt=11.5V psi=22.8 [Active alert(s) present]
+[2026-06-01 19:35:05] #00084 CRASH    spd=35.9km/h tmp=80.0°C vlt=11.5V psi=23.5 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 19:35:06] #00085 CRASH    spd=39.4km/h tmp=76.3°C vlt=11.3V psi=22.4 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 19:35:07] #00086 CRASH    spd=38.4km/h tmp=75.1°C vlt=11.1V psi=19.6 [Critical alert: DOOR_OPEN_WARNING]
+[2026-06-01 19:35:08] #00087 WARNING  spd=35.6km/h tmp=78.3°C vlt=11.4V psi=19.9 [Active alert(s) present]
+[2026-06-01 19:35:57] #00088 SHUTDOWN spd=0.0km/h tmp=0.0°C vlt=0.0V psi=0.0 [ECU clean shutdown]

@@ -1,0 +1,56 @@
+SMART VEHICLE JSON MULTI-TICK TEST — STATUS REPORT
+Generated : 2026-06-01 19:35:17
+Source    : data/test_cases.json
+======================================================================
+
+TICK  1  [PASS]  Normal operation
+    Status expected=NORMAL  actual=NORMAL  MATCH
+
+TICK  2  [PASS]  Engine overheat
+    ENGINE OVERHEAT               CRITICAL    PASS
+    Status expected=CRITICAL  actual=CRITICAL  MATCH
+
+TICK 3   [PASS]  Low battery
+    LOW BATTERY                   HIGH        PASS
+    Status expected=WARNING  actual=WARNING  MATCH
+
+TICK 4   [PASS]  Overspeed
+    OVERSPEED WARNING             HIGH        PASS
+    Status expected=WARNING  actual=WARNING  MATCH
+
+TICK 5   [PASS]  Door open while moving
+    DOOR OPEN                     CRITICAL    PASS
+    Status expected=CRITICAL  actual=CRITICAL  MATCH
+
+TICK 6   [PASS]  Seatbelt unlocked while moving
+    SEATBELT                      MEDIUM      PASS
+    Status expected=NORMAL  actual=NORMAL  MATCH
+
+TICK 7   [PASS]  Low tire pressure
+    LOW TIRE PRESSURE             LOW         PASS
+    Status expected=NORMAL  actual=NORMAL  MATCH
+
+TICK 8   [PASS]  All non-critical alerts together
+    LOW BATTERY                   HIGH        PASS
+    OVERSPEED WARNING             HIGH        PASS
+    SEATBELT                      MEDIUM      PASS
+    LOW TIRE PRESSURE             LOW         PASS
+    Status expected=WARNING  actual=WARNING  MATCH
+
+TICK 9   [PASS]  All alerts together
+    ENGINE OVERHEAT               CRITICAL    PASS
+    DOOR OPEN                     CRITICAL    PASS
+    LOW BATTERY                   HIGH        PASS
+    OVERSPEED WARNING             HIGH        PASS
+    SEATBELT                      MEDIUM      PASS
+    LOW TIRE PRESSURE             LOW         PASS
+    Status expected=CRITICAL  actual=CRITICAL  MATCH
+
+TICK 10  [PASS]  Boundary value verification
+    DOOR OPEN                     CRITICAL    PASS
+    SEATBELT                      MEDIUM      PASS
+    Status expected=CRITICAL  actual=CRITICAL  MATCH
+
+======================================================================
+TOTAL: 10  PASS: 10  FAIL: 0
+OVERALL: PASS
